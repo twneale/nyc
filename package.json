@@ -1,0 +1,16 @@
+{
+  "name": "simple-nyc",
+  "version": "0.0.0",
+  "description": "A simple generator for the NYC Administrative Code",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+  	"elementtree":"*",
+  	"findit":"*",
+    "cheerio":"*"
+  },
+  "author": "",
+  "license": "MIT"
+}
