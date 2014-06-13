@@ -9,7 +9,13 @@
   "dependencies": {
   	"elementtree":"*",
   	"findit":"*",
-    "cheerio":"*"
+    "readdir-recursive":"*",
+    "underscore":"*",
+    "mkdirp": "*",
+    "js-beautify":"*",
+    "cheerio":"*",
+    "lodash":"*",
+    "citation":"*"
   },
   "author": "",
   "license": "MIT"

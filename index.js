@@ -1,6 +1,6 @@
-var basedir = process.argv[3] || '.';
-var outdir = process.argv[4] || '.';
-var rootdir = process.argv[5] || '';
+var basedir = process.argv[2] || '.';
+var outdir = process.argv[3] || '.';
+var rootdir = process.argv[4] || '';
 
 var finder = require('findit')(basedir),
     path = require('path'),
@@ -10,6 +10,8 @@ var finder = require('findit')(basedir),
     render_body = require('./render_body.js');
 
 var page_template = _.template(fs.readFileSync('templates/section._'));
+
+// var recency_info = render_body.parse_xml_file(basedir + "/index.xml").find("meta/recency").text;
 
 // Load pre-made indexes that help us locate the filename for any given section (by citation),
 // and to locate the parent and children of any page.
@@ -82,7 +84,13 @@ function convert_file(file) {
     var dom = render_body.parse_xml_file(file);
     if (dom.tag != "level") return;
 
-    var rendered_body = render_body.render_body(file, dom, section_to_filename, section_to_children, basedir, rootdir);
+    try {
+        var rendered_body = render_body.render_body(file, dom, section_to_filename, section_to_children, basedir, rootdir);
+    }
+    catch (e) {
+        console.log(e)
+        var rendered_body = render_body.render_body(basedir + file, dom, section_to_filename, section_to_children, basedir, rootdir);
+    }
 
     // Find the ancestors of this file to show the navigation links to
     // go up the table of contents to higher levels.
@@ -106,7 +114,7 @@ function convert_file(file) {
             sibling_next: make_page_link(get_sibling(page_id, +1)),
             title: rendered_body.title,
             body: rendered_body.rendered,
-            recency_info: recency_info
+            // recency_info: recency_info
         }));
 }
 

@@ -1,6 +1,6 @@
 var path = require('path'),
     fs = require('fs'),
-    et = require('cheerio'),
+    et = require('elementtree'),
     _ = require('lodash'),
     Citation = require('citation');
 
@@ -9,21 +9,22 @@ var body_template = _.template(fs.readFileSync(__dirname + '/templates/body._'))
 // Utility function to load an XML file using elementtree.
 exports.parse_xml_file = function(file) {
     var xml = fs.readFileSync(file).toString(); // not sure why toSting is needed to make a string
-    return cheerio.load(xml);
+    return et.parse(xml)._root;
 }
 
 exports.get_file_id = function(dom, file, basedir) {
     // Gets the "id" of a file, which is how it appears in the pre-made index files.
     // (this is duplicated in make_index.js, except for the +1 for a slash)
-    
     if (basedir.charAt(basedir.length-1) == "/") basedir = basedir.substring(0, basedir.length-1); // chop trailing slash
-    var fn = file.substring(basedir.length).replace("..",".");
-    var id = fn.replace(/(\.)+html/, "");
-    return id;
+    var fn = file.substring(basedir.length+1).replace(".xml", "");
+    if (dom.find("type").text == "section")
+        return dom.find("num").text;
+    else if (dom.find("type").text == "placeholder" && dom.find("section"))
+        return dom.find("section").text;
+    // TODO: What happens if there's a link to a section in a placeholder page that has a range of sections?
+    else
+        return fn;
 }
-
-//TODO: EVERYTHING THAT FOLLOWS THIS
-
 
 exports.make_page_title = function(obj) {
     /* Create the canonical display name for a page.*/
@@ -64,8 +65,8 @@ exports.make_page_title = function(obj) {
 
     } else {
         // "Division I", "Title 10", "Part XXX", etc.
-//        if (!obj.find("prefix")) throw "Document does not have a <prefix> element.";
-//        title = obj.find("prefix").text;
+        if (!obj.find("prefix")) throw "Document does not have a <prefix> element.";
+        title = obj.find("prefix").text;
         if (obj.find("num"))
             title += " " + obj.find("num").text;
     }
@@ -345,13 +346,14 @@ function flatten_body(node, flatten_args, indentation, parent_node_text, parent_
             var title = exports.make_page_title(dom);
             var section_range = [null, null];
             var child_filename = child.get('href').replace(".xml", ".html");
-            if (flatten_args.basedir) {
+            try {if (flatten_args.basedir) {
                 // flatten_args.basedir won't be available when called from the DC Code Editor
                 var child_id = exports.get_file_id(dom, fn, flatten_args.basedir);
                 section_range = [get_section_range(child_id, 0, flatten_args), get_section_range(child_id, 1, flatten_args)];
+                console.log(child_id)
                 child_filename = flatten_args.rootdir + "/" + flatten_args.section_to_filename[child_id][1];
                 child_filename = child_filename.replace(/\/index\.html$/, ''); // no need to put /index.html on URLs
-            }
+            }} catch (e) {console.log(e)}
             flatten_args.paras.push({
                 group: "",
                 indentation: (indentation||0),
