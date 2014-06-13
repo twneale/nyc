@@ -1,0 +1,10 @@
+<level xmlns:ns0="http://www.w3.org/2001/XInclude">
+  <type>toc</type>
+  <prefix>Article</prefix>
+  <num>5</num>
+  <heading>COLLECTION OF WASTES</heading>
+  <ns0:include href="s27-2020/27-2020.xml" />
+  <ns0:include href="s27-2021/27-2021.xml" />
+  <ns0:include href="s27-2022/27-2022.xml" />
+  <ns0:include href="s27-2023/27-2023.xml" />
+</level>

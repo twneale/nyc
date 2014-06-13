@@ -1,0 +1,12 @@
+<level xmlns:ns0="http://www.w3.org/2001/XInclude">
+  <type>toc</type>
+  <prefix>Article</prefix>
+  <num>16</num>
+  <heading>CONSTRUCTION GROUP II-COMBUSTIBLE</heading>
+  <ns0:include href="s27-280/27-280.xml" />
+  <ns0:include href="s27-281/27-281.xml" />
+  <ns0:include href="s27-282/27-282.xml" />
+  <ns0:include href="s27-283/27-283.xml" />
+  <ns0:include href="s27-284/27-284.xml" />
+  <ns0:include href="s27-285/27-285.xml" />
+</level>

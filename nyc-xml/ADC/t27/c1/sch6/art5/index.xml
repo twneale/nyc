@@ -1,0 +1,20 @@
+<level xmlns:ns0="http://www.w3.org/2001/XInclude">
+  <type>toc</type>
+  <prefix>Article</prefix>
+  <num>5</num>
+  <heading>ACCESS REQUIREMENTS AND EXIT TYPES</heading>
+  <ns0:include href="s27-368/27-368.xml" />
+  <ns0:include href="s27-369/27-369.xml" />
+  <ns0:include href="s27-370/27-370.xml" />
+  <ns0:include href="s27-371/27-371.xml" />
+  <ns0:include href="s27-372/27-372.xml" />
+  <ns0:include href="s27-373/27-373.xml" />
+  <ns0:include href="s27-374/27-374.xml" />
+  <ns0:include href="s27-375/27-375.xml" />
+  <ns0:include href="s27-376/27-376.xml" />
+  <ns0:include href="s27-376.1/27-376.1.xml" />
+  <ns0:include href="s27-377/27-377.xml" />
+  <ns0:include href="s27-378/27-378.xml" />
+  <ns0:include href="s27-379/27-379.xml" />
+  <ns0:include href="s27-380/27-380.xml" />
+</level>

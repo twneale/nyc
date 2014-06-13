@@ -1,0 +1,8 @@
+<level xmlns:ns0="http://www.w3.org/2001/XInclude">
+  <type>toc</type>
+  <prefix>Article</prefix>
+  <num>5</num>
+  <heading>LIMITATIONS OUTSIDE THE FIRE DISTRICTS</heading>
+  <ns0:include href="s27-299/27-299.xml" />
+  <ns0:include href="s27-300/27-300.xml" />
+</level>

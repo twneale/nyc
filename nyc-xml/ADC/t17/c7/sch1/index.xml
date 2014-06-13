@@ -1,0 +1,20 @@
+<level xmlns:ns0="http://www.w3.org/2001/XInclude">
+  <type>toc</type>
+  <prefix>Subchapter</prefix>
+  <num>1</num>
+  <heading>TOBACCO PRODUCT REGULATION ACT</heading>
+  <ns0:include href="s17-701/17-701.xml" />
+  <ns0:include href="s17-702/17-702.xml" />
+  <ns0:include href="s17-703/17-703.xml" />
+  <ns0:include href="s17-703.1/17-703.1.xml" />
+  <ns0:include href="s17-703.2/17-703.2.xml" />
+  <ns0:include href="s17-704/17-704.xml" />
+  <ns0:include href="s17-705/17-705.xml" />
+  <ns0:include href="s17-706/17-706.xml" />
+  <ns0:include href="s17-708/17-708.xml" />
+  <ns0:include href="s17-709/17-709.xml" />
+  <ns0:include href="s17-709.1/17-709.1.xml" />
+  <ns0:include href="s17-710/17-710.xml" />
+  <ns0:include href="s17-711/17-711.xml" />
+  <ns0:include href="s17-712/17-712.xml" />
+</level>

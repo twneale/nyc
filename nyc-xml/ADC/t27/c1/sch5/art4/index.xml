@@ -1,0 +1,15 @@
+<level xmlns:ns0="http://www.w3.org/2001/XInclude">
+  <type>toc</type>
+  <prefix>Article</prefix>
+  <num>4</num>
+  <heading>PREVENTION OF EXTERIOR FIRE SPREAD</heading>
+  <ns0:include href="s27-331/27-331.xml" />
+  <ns0:include href="s27-332/27-332.xml" />
+  <ns0:include href="s27-333/27-333.xml" />
+  <ns0:include href="s27-334/27-334.xml" />
+  <ns0:include href="s27-335/27-335.xml" />
+  <ns0:include href="s27-335.1/27-335.1.xml" />
+  <ns0:include href="s27-336/27-336.xml" />
+  <ns0:include href="s27-337/27-337.xml" />
+  <ns0:include href="s27-338/27-338.xml" />
+</level>

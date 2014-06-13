@@ -1,0 +1,11 @@
+<level xmlns:ns0="http://www.w3.org/2001/XInclude">
+  <type>toc</type>
+  <prefix>Article</prefix>
+  <num>2</num>
+  <heading>STRUCTURAL DESIGN-GENERAL REQUIREMENTS</heading>
+  <ns0:include href="s27-591/27-591.xml" />
+  <ns0:include href="s27-592/27-592.xml" />
+  <ns0:include href="s27-593/27-593.xml" />
+  <ns0:include href="s27-594/27-594.xml" />
+  <ns0:include href="s27-595/27-595.xml" />
+</level>

@@ -1,0 +1,12 @@
+<level xmlns:ns0="http://www.w3.org/2001/XInclude">
+  <type>toc</type>
+  <prefix>Article</prefix>
+  <num>7</num>
+  <heading>HELIPORTS</heading>
+  <ns0:include href="s27-432/27-432.xml" />
+  <ns0:include href="s27-433/27-433.xml" />
+  <ns0:include href="s27-434/27-434.xml" />
+  <ns0:include href="s27-435/27-435.xml" />
+  <ns0:include href="s27-436/27-436.xml" />
+  <ns0:include href="s27-437/27-437.xml" />
+</level>

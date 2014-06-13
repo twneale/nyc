@@ -1,0 +1,10 @@
+<level xmlns:ns0="http://www.w3.org/2001/XInclude">
+  <type>toc</type>
+  <prefix>Article</prefix>
+  <num>8</num>
+  <heading>ALUMINUM</heading>
+  <ns0:include href="s27-625/27-625.xml" />
+  <ns0:include href="s27-626/27-626.xml" />
+  <ns0:include href="s27-627/27-627.xml" />
+  <ns0:include href="s27-628/27-628.xml" />
+</level>

@@ -1,0 +1,11 @@
+<level xmlns:ns0="http://www.w3.org/2001/XInclude">
+  <type>toc</type>
+  <prefix>Article</prefix>
+  <num>8</num>
+  <heading>AUTOMOTIVE SERVICE STATIONS</heading>
+  <ns0:include href="s27-438/27-438.xml" />
+  <ns0:include href="s27-439/27-439.xml" />
+  <ns0:include href="s27-440/27-440.xml" />
+  <ns0:include href="s27-441/27-441.xml" />
+  <ns0:include href="s27-442/27-442.xml" />
+</level>

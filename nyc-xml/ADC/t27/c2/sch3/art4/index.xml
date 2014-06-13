@@ -1,0 +1,13 @@
+<level xmlns:ns0="http://www.w3.org/2001/XInclude">
+  <type>toc</type>
+  <prefix>Article</prefix>
+  <num>4</num>
+  <heading>MINIMUM ROOM SIZES AND OCCUPANCY REGULATIONS</heading>
+  <ns0:include href="s27-2074/27-2074.xml" />
+  <ns0:include href="s27-2075/27-2075.xml" />
+  <ns0:include href="s27-2076/27-2076.xml" />
+  <ns0:include href="s27-2077/27-2077.xml" />
+  <ns0:include href="s27-2078/27-2078.xml" />
+  <ns0:include href="s27-2079/27-2079.xml" />
+  <ns0:include href="s27-2080/27-2080.xml" />
+</level>

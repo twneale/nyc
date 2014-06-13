@@ -1,0 +1,37 @@
+<level xmlns:ns0="http://www.w3.org/2001/XInclude">
+  <type>toc</type>
+  <prefix>Chapter</prefix>
+  <num>1</num>
+  <heading>FIRE DEPARTMENT</heading>
+  <ns0:include href="s15-101/15-101.xml" />
+  <ns0:include href="s15-102/15-102.xml" />
+  <ns0:include href="s15-103/15-103.xml" />
+  <ns0:include href="s15-103.1/15-103.1.xml" />
+  <ns0:include href="s15-104/15-104.xml" />
+  <ns0:include href="s15-105/15-105.xml" />
+  <ns0:include href="s15-106/15-106.xml" />
+  <ns0:include href="s15-107/15-107.xml" />
+  <ns0:include href="s15-108/15-108.xml" />
+  <ns0:include href="s15-108.1/15-108.1.xml" />
+  <ns0:include href="s15-109/15-109.xml" />
+  <ns0:include href="s15-110/15-110.xml" />
+  <ns0:include href="s15-111/15-111.xml" />
+  <ns0:include href="s15-111.1/15-111.1.xml" />
+  <ns0:include href="s15-112/15-112.xml" />
+  <ns0:include href="s15-113/15-113.xml" />
+  <ns0:include href="s15-114/15-114.xml" />
+  <ns0:include href="s15-115/15-115.xml" />
+  <ns0:include href="s15-116/15-116.xml" />
+  <ns0:include href="s15-117/15-117.xml" />
+  <ns0:include href="s15-118/15-118.xml" />
+  <ns0:include href="s15-119/15-119.xml" />
+  <ns0:include href="s15-120/15-120.xml" />
+  <ns0:include href="s15-121/15-121.xml" />
+  <ns0:include href="s15-123/15-123.xml" />
+  <ns0:include href="s15-124/15-124.xml" />
+  <ns0:include href="s15-125/15-125.xml" />
+  <ns0:include href="s15-126/15-126.xml" />
+  <ns0:include href="s15-127/15-127.xml" />
+  <ns0:include href="s15-128/15-128.xml" />
+  <ns0:include href="s15-129/15-129.xml" />
+</level>

@@ -1,0 +1,9 @@
+<level xmlns:ns0="http://www.w3.org/2001/XInclude">
+  <type>toc</type>
+  <prefix>Article</prefix>
+  <num>4</num>
+  <heading>OCCUPANCY GROUP B-STORAGE</heading>
+  <ns0:include href="s27-245/27-245.xml" />
+  <ns0:include href="s27-246/27-246.xml" />
+  <ns0:include href="s27-247/27-247.xml" />
+</level>

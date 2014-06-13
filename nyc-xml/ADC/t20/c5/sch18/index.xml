@@ -1,0 +1,9 @@
+<level xmlns:ns0="http://www.w3.org/2001/XInclude">
+  <type>toc</type>
+  <prefix>Subchapter</prefix>
+  <num>18</num>
+  <heading>PROHIBITION ON THE SALE OF EXPIRED OVER-THE-COUNTER MEDICATION</heading>
+  <ns0:include href="s20-821/20-821.xml" />
+  <ns0:include href="s20-822/20-822.xml" />
+  <ns0:include href="s20-823/20-823.xml" />
+</level>

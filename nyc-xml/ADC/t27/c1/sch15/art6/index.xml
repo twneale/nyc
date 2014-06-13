@@ -1,0 +1,10 @@
+<level xmlns:ns0="http://www.w3.org/2001/XInclude">
+  <type>toc</type>
+  <prefix>Article</prefix>
+  <num>6</num>
+  <heading>GAS VENT CONNECTORS</heading>
+  <ns0:include href="s27-892/27-892.xml" />
+  <ns0:include href="s27-893/27-893.xml" />
+  <ns0:include href="s27-894/27-894.xml" />
+  <ns0:include href="s27-895/27-895.xml" />
+</level>

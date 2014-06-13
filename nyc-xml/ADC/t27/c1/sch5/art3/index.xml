@@ -1,0 +1,14 @@
+<level xmlns:ns0="http://www.w3.org/2001/XInclude">
+  <type>toc</type>
+  <prefix>Article</prefix>
+  <num>3</num>
+  <heading>FIRE-RESISTANCE REQUIREMENTS</heading>
+  <ns0:include href="s27-323/27-323.xml" />
+  <ns0:include href="s27-324/27-324.xml" />
+  <ns0:include href="s27-325/27-325.xml" />
+  <ns0:include href="s27-326/27-326.xml" />
+  <ns0:include href="s27-327/27-327.xml" />
+  <ns0:include href="s27-328/27-328.xml" />
+  <ns0:include href="s27-329/27-329.xml" />
+  <ns0:include href="s27-330/27-330.xml" />
+</level>

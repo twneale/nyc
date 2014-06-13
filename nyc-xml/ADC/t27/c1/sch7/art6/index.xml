@@ -1,0 +1,13 @@
+<level xmlns:ns0="http://www.w3.org/2001/XInclude">
+  <type>toc</type>
+  <prefix>Article</prefix>
+  <num>6</num>
+  <heading>DRY CLEANING ESTABLISHMENTS</heading>
+  <ns0:include href="s27-425/27-425.xml" />
+  <ns0:include href="s27-426/27-426.xml" />
+  <ns0:include href="s27-427/27-427.xml" />
+  <ns0:include href="s27-428/27-428.xml" />
+  <ns0:include href="s27-429/27-429.xml" />
+  <ns0:include href="s27-430/27-430.xml" />
+  <ns0:include href="s27-431/27-431.xml" />
+</level>

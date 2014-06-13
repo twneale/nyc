@@ -1,0 +1,26 @@
+<level xmlns:ns0="http://www.w3.org/2001/XInclude">
+  <type>toc</type>
+  <prefix>Subchapter</prefix>
+  <num>5</num>
+  <heading>CORPORATE TAX PROCEDURE AND ADMINISTRATION</heading>
+  <ns0:include href="s11-671/11-671.xml" />
+  <ns0:include href="s11-672/11-672.xml" />
+  <ns0:include href="s11-673/11-673.xml" />
+  <ns0:include href="s11-674/11-674.xml" />
+  <ns0:include href="s11-675/11-675.xml" />
+  <ns0:include href="s11-676/11-676.xml" />
+  <ns0:include href="s11-677/11-677.xml" />
+  <ns0:include href="s11-678/11-678.xml" />
+  <ns0:include href="s11-679/11-679.xml" />
+  <ns0:include href="s11-680/11-680.xml" />
+  <ns0:include href="s11-681/11-681.xml" />
+  <ns0:include href="s11-682/11-682.xml" />
+  <ns0:include href="s11-683/11-683.xml" />
+  <ns0:include href="s11-684/11-684.xml" />
+  <ns0:include href="s11-685/11-685.xml" />
+  <ns0:include href="s11-686/11-686.xml" />
+  <ns0:include href="s11-687/11-687.xml" />
+  <ns0:include href="s11-688/11-688.xml" />
+  <ns0:include href="s11-689/11-689.xml" />
+  <ns0:include href="s11-690/11-690.xml" />
+</level>

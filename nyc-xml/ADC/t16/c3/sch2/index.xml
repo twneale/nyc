@@ -1,0 +1,21 @@
+<level xmlns:ns0="http://www.w3.org/2001/XInclude">
+  <type>toc</type>
+  <prefix>Subchapter</prefix>
+  <num>2</num>
+  <heading>CITYWIDE RECYCLING PROGRAM</heading>
+  <ns0:include href="s16-305/16-305.xml" />
+  <ns0:include href="s16-305.1/16-305.1.xml" />
+  <ns0:include href="s16-306/16-306.xml" />
+  <ns0:include href="s16-307/16-307.xml" />
+  <ns0:include href="s16-307.1/16-307.1.xml" />
+  <ns0:include href="s16-308/16-308.xml" />
+  <ns0:include href="s16-309/16-309.xml" />
+  <ns0:include href="s16-310/16-310.xml" />
+  <ns0:include href="s16-310.1/16-310.1.xml" />
+  <ns0:include href="s16-310.2/16-310.2.xml" />
+  <ns0:include href="s16-311/16-311.xml" />
+  <ns0:include href="s16-312/16-312.xml" />
+  <ns0:include href="s16-313/16-313.xml" />
+  <ns0:include href="s16-314/16-314.xml" />
+  <ns0:include href="s16-315/16-315.xml" />
+</level>

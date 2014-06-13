@@ -1,0 +1,19 @@
+<level xmlns:ns0="http://www.w3.org/2001/XInclude">
+  <type>toc</type>
+  <prefix>Subchapter</prefix>
+  <num>24</num>
+  <heading>ELECTRONIC OR HOME APPLIANCE SERVICE DEALERS</heading>
+  <ns0:include href="s20-410/20-410.xml" />
+  <ns0:include href="s20-411/20-411.xml" />
+  <ns0:include href="s20-412/20-412.xml" />
+  <ns0:include href="s20-413/20-413.xml" />
+  <ns0:include href="s20-414/20-414.xml" />
+  <ns0:include href="s20-417/20-417.xml" />
+  <ns0:include href="s20-418/20-418.xml" />
+  <ns0:include href="s20-419/20-419.xml" />
+  <ns0:include href="s20-420/20-420.xml" />
+  <ns0:include href="s20-421/20-421.xml" />
+  <ns0:include href="s20-422/20-422.xml" />
+  <ns0:include href="s20-423/20-423.xml" />
+  <ns0:include href="s20-424/20-424.xml" />
+</level>

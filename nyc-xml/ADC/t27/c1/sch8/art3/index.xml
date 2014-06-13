@@ -1,0 +1,9 @@
+<level xmlns:ns0="http://www.w3.org/2001/XInclude">
+  <type>toc</type>
+  <prefix>Article</prefix>
+  <num>3</num>
+  <heading>F-1 PLACES OF ASSEMBLY</heading>
+  <ns0:include href="s27-545/27-545.xml" />
+  <ns0:include href="s27-546/27-546.xml" />
+  <ns0:include href="s27-547/27-547.xml" />
+</level>

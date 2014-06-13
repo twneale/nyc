@@ -1,0 +1,15 @@
+<level xmlns:ns0="http://www.w3.org/2001/XInclude">
+  <type>toc</type>
+  <prefix>Subchapter</prefix>
+  <num>2</num>
+  <heading>GENERAL CORPORATION TAX</heading>
+  <ns0:include href="s11-602/11-602.xml" />
+  <ns0:include href="s11-603/11-603.xml" />
+  <ns0:include href="s11-604/11-604.xml" />
+  <ns0:include href="s11-605/11-605.xml" />
+  <ns0:include href="s11-606/11-606.xml" />
+  <ns0:include href="s11-607/11-607.xml" />
+  <ns0:include href="s11-608/11-608.xml" />
+  <ns0:include href="s11-609/11-609.xml" />
+  <ns0:include href="s11-610/11-610.xml" />
+</level>

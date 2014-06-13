@@ -1,0 +1,12 @@
+<level xmlns:ns0="http://www.w3.org/2001/XInclude">
+  <type>toc</type>
+  <prefix>Article</prefix>
+  <num>7</num>
+  <heading>Exit Signs and Other Markings</heading>
+  <ns0:include href="s27-383/27-383.xml" />
+  <ns0:include href="s27-383.1/27-383.1.xml" />
+  <ns0:include href="s27-384/27-384.xml" />
+  <ns0:include href="s27-385/27-385.xml" />
+  <ns0:include href="s27-386/27-386.xml" />
+  <ns0:include href="s27-387/27-387.xml" />
+</level>

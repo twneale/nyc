@@ -1,0 +1,19 @@
+<level xmlns:ns0="http://www.w3.org/2001/XInclude">
+  <type>toc</type>
+  <prefix>Subchapter</prefix>
+  <num>13</num>
+  <heading>AUCTIONEERS</heading>
+  <ns0:include href="s20-278/20-278.xml" />
+  <ns0:include href="s20-279/20-279.xml" />
+  <ns0:include href="s20-279.1/20-279.1.xml" />
+  <ns0:include href="s20-280/20-280.xml" />
+  <ns0:include href="s20-281/20-281.xml" />
+  <ns0:include href="s20-282/20-282.xml" />
+  <ns0:include href="s20-284/20-284.xml" />
+  <ns0:include href="s20-285/20-285.xml" />
+  <ns0:include href="s20-286/20-286.xml" />
+  <ns0:include href="s20-287/20-287.xml" />
+  <ns0:include href="s20-288/20-288.xml" />
+  <ns0:include href="s20-289/20-289.xml" />
+  <ns0:include href="s20-290/20-290.xml" />
+</level>

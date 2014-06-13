@@ -1,0 +1,14 @@
+<level xmlns:ns0="http://www.w3.org/2001/XInclude">
+  <type>toc</type>
+  <prefix>Article</prefix>
+  <num>5</num>
+  <heading>OCCUPANCY OF CELLARS AND BASEMENTS</heading>
+  <ns0:include href="s27-2081/27-2081.xml" />
+  <ns0:include href="s27-2082/27-2082.xml" />
+  <ns0:include href="s27-2083/27-2083.xml" />
+  <ns0:include href="s27-2084/27-2084.xml" />
+  <ns0:include href="s27-2085/27-2085.xml" />
+  <ns0:include href="s27-2086/27-2086.xml" />
+  <ns0:include href="s27-2087/27-2087.xml" />
+  <ns0:include href="s27-2088/27-2088.xml" />
+</level>

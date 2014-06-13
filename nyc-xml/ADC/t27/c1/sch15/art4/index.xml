@@ -1,0 +1,10 @@
+<level xmlns:ns0="http://www.w3.org/2001/XInclude">
+  <type>toc</type>
+  <prefix>Article</prefix>
+  <num>4</num>
+  <heading>INCINERATOR CHIMNEYS AND REFUSE CHARGING CHUTES</heading>
+  <ns0:include href="s27-875/27-875.xml" />
+  <ns0:include href="s27-876/27-876.xml" />
+  <ns0:include href="s27-877/27-877.xml" />
+  <ns0:include href="s27-878/27-878.xml" />
+</level>

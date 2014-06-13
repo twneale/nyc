@@ -1,0 +1,30 @@
+<level xmlns:ns0="http://www.w3.org/2001/XInclude">
+  <type>toc</type>
+  <prefix>Subchapter</prefix>
+  <num>3</num>
+  <heading>ACQUISITION OF REAL PROPERTY FOR WATER SUPPLY PURPOSES</heading>
+  <ns0:include href="s5-351/5-351.xml" />
+  <ns0:include href="s5-352/5-352.xml" />
+  <ns0:include href="s5-353/5-353.xml" />
+  <ns0:include href="s5-354/5-354.xml" />
+  <ns0:include href="s5-355/5-355.xml" />
+  <ns0:include href="s5-356/5-356.xml" />
+  <ns0:include href="s5-357/5-357.xml" />
+  <ns0:include href="s5-358/5-358.xml" />
+  <ns0:include href="s5-359/5-359.xml" />
+  <ns0:include href="s5-360/5-360.xml" />
+  <ns0:include href="s5-361/5-361.xml" />
+  <ns0:include href="s5-362/5-362.xml" />
+  <ns0:include href="s5-363/5-363.xml" />
+  <ns0:include href="s5-364/5-364.xml" />
+  <ns0:include href="s5-365/5-365.xml" />
+  <ns0:include href="s5-366/5-366.xml" />
+  <ns0:include href="s5-367/5-367.xml" />
+  <ns0:include href="s5-368/5-368.xml" />
+  <ns0:include href="s5-369/5-369.xml" />
+  <ns0:include href="s5-370/5-370.xml" />
+  <ns0:include href="s5-371/5-371.xml" />
+  <ns0:include href="s5-372/5-372.xml" />
+  <ns0:include href="s5-373/5-373.xml" />
+  <ns0:include href="s5-374/5-374.xml" />
+</level>

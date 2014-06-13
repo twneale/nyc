@@ -1,0 +1,13 @@
+<level xmlns:ns0="http://www.w3.org/2001/XInclude">
+  <type>toc</type>
+  <prefix>Article</prefix>
+  <num>13</num>
+  <heading>FLOOR FURNACES</heading>
+  <ns0:include href="s27-817/27-817.xml" />
+  <ns0:include href="s27-818/27-818.xml" />
+  <ns0:include href="s27-819/27-819.xml" />
+  <ns0:include href="s27-820/27-820.xml" />
+  <ns0:include href="s27-821/27-821.xml" />
+  <ns0:include href="s27-822/27-822.xml" />
+  <ns0:include href="s27-823/27-823.xml" />
+</level>

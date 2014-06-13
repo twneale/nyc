@@ -1,0 +1,18 @@
+<level xmlns:ns0="http://www.w3.org/2001/XInclude">
+  <type>toc</type>
+  <prefix>Article</prefix>
+  <num>7</num>
+  <heading>PILE FOUNDATIONS-GENERAL REQUIREMENTS</heading>
+  <ns0:include href="s27-688/27-688.xml" />
+  <ns0:include href="s27-689/27-689.xml" />
+  <ns0:include href="s27-690/27-690.xml" />
+  <ns0:include href="s27-691/27-691.xml" />
+  <ns0:include href="s27-692/27-692.xml" />
+  <ns0:include href="s27-693/27-693.xml" />
+  <ns0:include href="s27-694/27-694.xml" />
+  <ns0:include href="s27-695/27-695.xml" />
+  <ns0:include href="s27-696/27-696.xml" />
+  <ns0:include href="s27-697/27-697.xml" />
+  <ns0:include href="s27-698/27-698.xml" />
+  <ns0:include href="s27-699/27-699.xml" />
+</level>

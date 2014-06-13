@@ -1,0 +1,12 @@
+<level xmlns:ns0="http://www.w3.org/2001/XInclude">
+  <type>toc</type>
+  <prefix>Subchapter</prefix>
+  <num>6</num>
+  <heading>SIDEWALK CAFES</heading>
+  <ns0:include href="s20-223/20-223.xml" />
+  <ns0:include href="s20-224/20-224.xml" />
+  <ns0:include href="s20-225/20-225.xml" />
+  <ns0:include href="s20-226/20-226.xml" />
+  <ns0:include href="s20-227/20-227.xml" />
+  <ns0:include href="s20-227.1/20-227.1.xml" />
+</level>

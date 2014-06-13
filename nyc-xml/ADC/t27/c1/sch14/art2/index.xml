@@ -1,0 +1,8 @@
+<level xmlns:ns0="http://www.w3.org/2001/XInclude">
+  <type>toc</type>
+  <prefix>Article</prefix>
+  <num>2</num>
+  <heading>INSPECTIONS AND TESTS FOR EQUIPMENT USE PERMITS</heading>
+  <ns0:include href="s27-793/27-793.xml" />
+  <ns0:include href="s27-794/27-794.xml" />
+</level>

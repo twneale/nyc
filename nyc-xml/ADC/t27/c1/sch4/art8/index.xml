@@ -1,0 +1,12 @@
+<level xmlns:ns0="http://www.w3.org/2001/XInclude">
+  <type>toc</type>
+  <prefix>Article</prefix>
+  <num>8</num>
+  <heading>GENERAL PROJECTION LIMITATIONS</heading>
+  <ns0:include href="s27-307/27-307.xml" />
+  <ns0:include href="s27-308/27-308.xml" />
+  <ns0:include href="s27-309/27-309.xml" />
+  <ns0:include href="s27-310/27-310.xml" />
+  <ns0:include href="s27-311/27-311.xml" />
+  <ns0:include href="s27-312/27-312.xml" />
+</level>

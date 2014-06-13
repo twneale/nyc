@@ -1,0 +1,11 @@
+<level xmlns:ns0="http://www.w3.org/2001/XInclude">
+  <type>toc</type>
+  <prefix>Subchapter</prefix>
+  <num>15</num>
+  <heading>PAYDAY LOANS</heading>
+  <ns0:include href="s20-780/20-780.xml" />
+  <ns0:include href="s20-781/20-781.xml" />
+  <ns0:include href="s20-782/20-782.xml" />
+  <ns0:include href="s20-783/20-783.xml" />
+  <ns0:include href="s20-784/20-784.xml" />
+</level>

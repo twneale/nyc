@@ -1,0 +1,13 @@
+<level xmlns:ns0="http://www.w3.org/2001/XInclude">
+  <type>toc</type>
+  <prefix>Chapter</prefix>
+  <num>13</num>
+  <heading>AVAILABILITY OF INFORMATION REGARDING DAY CARE SERVICES</heading>
+  <ns0:include href="s17-1301/17-1301.xml" />
+  <ns0:include href="s17-1302/17-1302.xml" />
+  <ns0:include href="s17-1303/17-1303.xml" />
+  <ns0:include href="s17-1304/17-1304.xml" />
+  <ns0:include href="s17-1305/17-1305.xml" />
+  <ns0:include href="s17-1306/17-1306.xml" />
+  <ns0:include href="s17-1307/17-1307.xml" />
+</level>

@@ -1,0 +1,9 @@
+<level xmlns:ns0="http://www.w3.org/2001/XInclude">
+  <type>toc</type>
+  <prefix>Article</prefix>
+  <num>3</num>
+  <heading>CONTINUATION AND CHANGE IN USE</heading>
+  <ns0:include href="s27-111/27-111.xml" />
+  <ns0:include href="s27-112/27-112.xml" />
+  <ns0:include href="s27-113/27-113.xml" />
+</level>

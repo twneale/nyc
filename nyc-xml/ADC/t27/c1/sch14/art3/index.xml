@@ -1,0 +1,10 @@
+<level xmlns:ns0="http://www.w3.org/2001/XInclude">
+  <type>toc</type>
+  <prefix>Article</prefix>
+  <num>3</num>
+  <heading>LICENSES AND CERTIFICATES</heading>
+  <ns0:include href="s27-795/27-795.xml" />
+  <ns0:include href="s27-796/27-796.xml" />
+  <ns0:include href="s27-797/27-797.xml" />
+  <ns0:include href="s27-798/27-798.xml" />
+</level>

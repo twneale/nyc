@@ -1,0 +1,8 @@
+<level xmlns:ns0="http://www.w3.org/2001/XInclude">
+  <type>toc</type>
+  <prefix>Subchapter</prefix>
+  <num>10</num>
+  <heading>THERMAL-SHOCK PROTECTION DEVICES</heading>
+  <ns0:include href="s20-694/20-694.xml" />
+  <ns0:include href="s20-695/20-695.xml" />
+</level>

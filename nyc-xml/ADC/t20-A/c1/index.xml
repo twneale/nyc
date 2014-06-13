@@ -1,0 +1,23 @@
+<level xmlns:ns0="http://www.w3.org/2001/XInclude">
+  <type>toc</type>
+  <prefix>Chapter</prefix>
+  <num>1</num>
+  <heading>Shipboard Gambling</heading>
+  <ns0:include href="s20-950/20-950.xml" />
+  <ns0:include href="s20-951/20-951.xml" />
+  <ns0:include href="s20-952/20-952.xml" />
+  <ns0:include href="s20-953/20-953.xml" />
+  <ns0:include href="s20-954/20-954.xml" />
+  <ns0:include href="s20-955/20-955.xml" />
+  <ns0:include href="s20-956/20-956.xml" />
+  <ns0:include href="s20-957/20-957.xml" />
+  <ns0:include href="s20-958/20-958.xml" />
+  <ns0:include href="s20-959/20-959.xml" />
+  <ns0:include href="s20-960/20-960.xml" />
+  <ns0:include href="s20-961/20-961.xml" />
+  <ns0:include href="s20-962/20-962.xml" />
+  <ns0:include href="s20-963/20-963.xml" />
+  <ns0:include href="s20-964/20-964.xml" />
+  <ns0:include href="s20-965/20-965.xml" />
+  <ns0:include href="s20-966/20-966.xml" />
+</level>

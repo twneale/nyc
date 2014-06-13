@@ -1,0 +1,8 @@
+<level xmlns:ns0="http://www.w3.org/2001/XInclude">
+  <type>toc</type>
+  <prefix>Article</prefix>
+  <num>403</num>
+  <heading>SITE SAFETY COORDINATOR CERTIFICATE</heading>
+  <ns0:include href="s28-403.1/28-403.1.xml" />
+  <ns0:include href="s28-403.2/28-403.2.xml" />
+</level>

@@ -1,0 +1,8 @@
+<level xmlns:ns0="http://www.w3.org/2001/XInclude">
+  <type>toc</type>
+  <prefix>Chapter</prefix>
+  <num>9</num>
+  <heading>Lead-Based Paint in Day Care Facilities</heading>
+  <ns0:include href="sch1/index.xml" />
+  <ns0:include href="sch2/index.xml" />
+</level>

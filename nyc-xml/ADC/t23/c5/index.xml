@@ -1,0 +1,12 @@
+<level xmlns:ns0="http://www.w3.org/2001/XInclude">
+  <type>toc</type>
+  <prefix>Chapter</prefix>
+  <num>5</num>
+  <heading>ACCESSIBILITY TO PUBLIC DATA SETS</heading>
+  <ns0:include href="s23-501/23-501.xml" />
+  <ns0:include href="s23-502/23-502.xml" />
+  <ns0:include href="s23-503/23-503.xml" />
+  <ns0:include href="s23-504/23-504.xml" />
+  <ns0:include href="s23-505/23-505.xml" />
+  <ns0:include href="s23-506/23-506.xml" />
+</level>

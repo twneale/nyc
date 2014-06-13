@@ -1,0 +1,20 @@
+<level xmlns:ns0="http://www.w3.org/2001/XInclude">
+  <type>toc</type>
+  <prefix>Article</prefix>
+  <num>5</num>
+  <heading>CONCRETE</heading>
+  <ns0:include href="s27-603/27-603.xml" />
+  <ns0:include href="s27-604/27-604.xml" />
+  <ns0:include href="s27-605/27-605.xml" />
+  <ns0:include href="s27-606/27-606.xml" />
+  <ns0:include href="s27-607/27-607.xml" />
+  <ns0:include href="s27-608/27-608.xml" />
+  <ns0:include href="s27-609/27-609.xml" />
+  <ns0:include href="s27-610/27-610.xml" />
+  <ns0:include href="s27-611/27-611.xml" />
+  <ns0:include href="s27-611.1/27-611.1.xml" />
+  <ns0:include href="s27-612/27-612.xml" />
+  <ns0:include href="s27-613/27-613.xml" />
+  <ns0:include href="s27-613.1/27-613.1.xml" />
+  <ns0:include href="s27-613.2/27-613.2.xml" />
+</level>

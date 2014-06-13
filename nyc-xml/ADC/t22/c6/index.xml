@@ -1,0 +1,9 @@
+<level xmlns:ns0="http://www.w3.org/2001/XInclude">
+  <type>toc</type>
+  <prefix>Chapter</prefix>
+  <num>6</num>
+  <heading>REBATES OF CHARGES FOR ENERGY</heading>
+  <ns0:include href="s22-601/22-601.xml" />
+  <ns0:include href="s22-602/22-602.xml" />
+  <ns0:include href="s22-603/22-603.xml" />
+</level>

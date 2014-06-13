@@ -1,0 +1,14 @@
+<level xmlns:ns0="http://www.w3.org/2001/XInclude">
+  <type>toc</type>
+  <prefix>Subchapter</prefix>
+  <num>1</num>
+  <heading>DEALERS IN SECOND-HAND WEIGHING OR MEASURING DEVICES</heading>
+  <ns0:include href="s20-601/20-601.xml" />
+  <ns0:include href="s20-602/20-602.xml" />
+  <ns0:include href="s20-603/20-603.xml" />
+  <ns0:include href="s20-604/20-604.xml" />
+  <ns0:include href="s20-605/20-605.xml" />
+  <ns0:include href="s20-606/20-606.xml" />
+  <ns0:include href="s20-607/20-607.xml" />
+  <ns0:include href="s20-608/20-608.xml" />
+</level>

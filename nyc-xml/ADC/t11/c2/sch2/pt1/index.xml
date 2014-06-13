@@ -1,0 +1,24 @@
+<level xmlns:ns0="http://www.w3.org/2001/XInclude">
+  <type>toc</type>
+  <prefix>Part</prefix>
+  <num>1</num>
+  <heading>EXEMPTIONS FOR CERTAIN RESIDENTIAL PROPERTY</heading>
+  <ns0:include href="s11-241/11-241.xml" />
+  <ns0:include href="s11-242/11-242.xml" />
+  <ns0:include href="s11-243/11-243.xml" />
+  <ns0:include href="s11-244/11-244.xml" />
+  <ns0:include href="s11-245/11-245.xml" />
+  <ns0:include href="s11-245.1/11-245.1.xml" />
+  <ns0:include href="s11-245.1-a/11-245.1-a.xml" />
+  <ns0:include href="s11-245.1-b/11-245.1-b.xml" />
+  <ns0:include href="s11-245.2/11-245.2.xml" />
+  <ns0:include href="s11-245.3/11-245.3.xml" />
+  <ns0:include href="s11-245.4/11-245.4.xml" />
+  <ns0:include href="s11-245.45/11-245.45.xml" />
+  <ns0:include href="s11-245.5/11-245.5.xml" />
+  <ns0:include href="s11-245.6/11-245.6.xml" />
+  <ns0:include href="s11-245.7/11-245.7.xml" />
+  <ns0:include href="s11-245.8/11-245.8.xml" />
+  <ns0:include href="s11-245.8/11-245.8.xml" />
+  <ns0:include href="s11-245.9/11-245.9.xml" />
+</level>

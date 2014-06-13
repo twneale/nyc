@@ -1,0 +1,9 @@
+<level xmlns:ns0="http://www.w3.org/2001/XInclude">
+  <type>toc</type>
+  <prefix>Article</prefix>
+  <num>2</num>
+  <heading>CIVIL PENALTY</heading>
+  <ns0:include href="s27-2115/27-2115.xml" />
+  <ns0:include href="s27-2116/27-2116.xml" />
+  <ns0:include href="s27-2117/27-2117.xml" />
+</level>

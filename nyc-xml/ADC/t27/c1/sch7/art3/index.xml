@@ -1,0 +1,12 @@
+<level xmlns:ns0="http://www.w3.org/2001/XInclude">
+  <type>toc</type>
+  <prefix>Article</prefix>
+  <num>3</num>
+  <heading>OCCUPANCIES INVOLVING SPRAY OR DIP FINISHING</heading>
+  <ns0:include href="s27-406/27-406.xml" />
+  <ns0:include href="s27-408/27-408.xml" />
+  <ns0:include href="s27-409/27-409.xml" />
+  <ns0:include href="s27-410/27-410.xml" />
+  <ns0:include href="s27-411/27-411.xml" />
+  <ns0:include href="s27-412/27-412.xml" />
+</level>

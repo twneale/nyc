@@ -1,0 +1,15 @@
+<level xmlns:ns0="http://www.w3.org/2001/XInclude">
+  <type>toc</type>
+  <prefix>Article</prefix>
+  <num>6</num>
+  <heading>RECEIVERSHIP</heading>
+  <ns0:include href="s27-2130/27-2130.xml" />
+  <ns0:include href="s27-2131/27-2131.xml" />
+  <ns0:include href="s27-2132/27-2132.xml" />
+  <ns0:include href="s27-2133/27-2133.xml" />
+  <ns0:include href="s27-2134/27-2134.xml" />
+  <ns0:include href="s27-2135/27-2135.xml" />
+  <ns0:include href="s27-2136/27-2136.xml" />
+  <ns0:include href="s27-2137/27-2137.xml" />
+  <ns0:include href="s27-2138/27-2138.xml" />
+</level>

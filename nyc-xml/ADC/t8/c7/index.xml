@@ -1,0 +1,9 @@
+<level xmlns:ns0="http://www.w3.org/2001/XInclude">
+  <type>toc</type>
+  <prefix>Chapter</prefix>
+  <num>7</num>
+  <heading>DISCRIMINATORY BOYCOTTS</heading>
+  <ns0:include href="s8-701/8-701.xml" />
+  <ns0:include href="s8-702/8-702.xml" />
+  <ns0:include href="s8-703/8-703.xml" />
+</level>

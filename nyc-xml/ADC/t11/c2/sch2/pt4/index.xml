@@ -1,0 +1,18 @@
+<level xmlns:ns0="http://www.w3.org/2001/XInclude">
+  <type>toc</type>
+  <prefix>Part</prefix>
+  <num>4</num>
+  <heading>TAX EXEMPTION AND DEFERRAL OF TAX PAYMENT FOR CERTAIN INDUSTRIAL AND COMMERCIAL PROPERTIES</heading>
+  <ns0:include href="s11-256/11-256.xml" />
+  <ns0:include href="s11-257/11-257.xml" />
+  <ns0:include href="s11-258/11-258.xml" />
+  <ns0:include href="s11-259/11-259.xml" />
+  <ns0:include href="s11-260/11-260.xml" />
+  <ns0:include href="s11-261/11-261.xml" />
+  <ns0:include href="s11-262/11-262.xml" />
+  <ns0:include href="s11-263/11-263.xml" />
+  <ns0:include href="s11-264/11-264.xml" />
+  <ns0:include href="s11-265/11-265.xml" />
+  <ns0:include href="s11-266/11-266.xml" />
+  <ns0:include href="s11-267/11-267.xml" />
+</level>

@@ -1,0 +1,36 @@
+<level xmlns:ns0="http://www.w3.org/2001/XInclude">
+  <type>toc</type>
+  <prefix>Chapter</prefix>
+  <num>1</num>
+  <heading>COMMISSION ON HUMAN RIGHTS</heading>
+  <ns0:include href="s8-101/8-101.xml" />
+  <ns0:include href="s8-102/8-102.xml" />
+  <ns0:include href="s8-103/8-103.xml" />
+  <ns0:include href="s8-104/8-104.xml" />
+  <ns0:include href="s8-105/8-105.xml" />
+  <ns0:include href="s8-106/8-106.xml" />
+  <ns0:include href="s8-107/8-107.xml" />
+  <ns0:include href="s8-107.1/8-107.1.xml" />
+  <ns0:include href="s8-109/8-109.xml" />
+  <ns0:include href="s8-111/8-111.xml" />
+  <ns0:include href="s8-112/8-112.xml" />
+  <ns0:include href="s8-113/8-113.xml" />
+  <ns0:include href="s8-114/8-114.xml" />
+  <ns0:include href="s8-115/8-115.xml" />
+  <ns0:include href="s8-116/8-116.xml" />
+  <ns0:include href="s8-117/8-117.xml" />
+  <ns0:include href="s8-118/8-118.xml" />
+  <ns0:include href="s8-119/8-119.xml" />
+  <ns0:include href="s8-120/8-120.xml" />
+  <ns0:include href="s8-121/8-121.xml" />
+  <ns0:include href="s8-122/8-122.xml" />
+  <ns0:include href="s8-123/8-123.xml" />
+  <ns0:include href="s8-124/8-124.xml" />
+  <ns0:include href="s8-125/8-125.xml" />
+  <ns0:include href="s8-126/8-126.xml" />
+  <ns0:include href="s8-127/8-127.xml" />
+  <ns0:include href="s8-128/8-128.xml" />
+  <ns0:include href="s8-129/8-129.xml" />
+  <ns0:include href="s8-130/8-130.xml" />
+  <ns0:include href="s8-131/8-131.xml" />
+</level>

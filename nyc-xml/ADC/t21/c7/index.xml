@@ -1,0 +1,12 @@
+<level xmlns:ns0="http://www.w3.org/2001/XInclude">
+  <type>toc</type>
+  <prefix>Chapter</prefix>
+  <num>7</num>
+  <heading>EDUCATION AND TRAINING FOR PUBLIC ASSISTANCE RECIPIENTS</heading>
+  <ns0:include href="s21-701/21-701.xml" />
+  <ns0:include href="s21-702/21-702.xml" />
+  <ns0:include href="s21-703/21-703.xml" />
+  <ns0:include href="s21-704/21-704.xml" />
+  <ns0:include href="s21-705/21-705.xml" />
+  <ns0:include href="s21-706/21-706.xml" />
+</level>

@@ -1,0 +1,9 @@
+<level xmlns:ns0="http://www.w3.org/2001/XInclude">
+  <type>toc</type>
+  <prefix>Article</prefix>
+  <num>109</num>
+  <heading>FIRE PROTECTION PLAN</heading>
+  <ns0:include href="s28-109.1/28-109.1.xml" />
+  <ns0:include href="s28-109.2/28-109.2.xml" />
+  <ns0:include href="s28-109.3/28-109.3.xml" />
+</level>

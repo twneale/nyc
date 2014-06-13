@@ -1,0 +1,7 @@
+<level xmlns:ns0="http://www.w3.org/2001/XInclude">
+  <type>toc</type>
+  <prefix>Article</prefix>
+  <num>5</num>
+  <heading>EQUIPMENT STANDARDS</heading>
+  <ns0:include href="s27-800/27-800.xml" />
+</level>

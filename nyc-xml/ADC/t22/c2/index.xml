@@ -1,0 +1,7 @@
+<level xmlns:ns0="http://www.w3.org/2001/XInclude">
+  <type>toc</type>
+  <prefix>Chapter</prefix>
+  <num>2</num>
+  <heading>BUSINESS ACTIVITIES IN PUBLIC PLACES</heading>
+  <ns0:include href="s22-205/22-205.xml" />
+</level>

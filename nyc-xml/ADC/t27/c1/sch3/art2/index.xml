@@ -1,0 +1,12 @@
+<level xmlns:ns0="http://www.w3.org/2001/XInclude">
+  <type>toc</type>
+  <prefix>Article</prefix>
+  <num>2</num>
+  <heading>OCCUPANCY CLASSIFICATIONS</heading>
+  <ns0:include href="s27-237/27-237.xml" />
+  <ns0:include href="s27-238/27-238.xml" />
+  <ns0:include href="s27-239/27-239.xml" />
+  <ns0:include href="s27-240/27-240.xml" />
+  <ns0:include href="s27-241/27-241.xml" />
+  <ns0:include href="s27-242/27-242.xml" />
+</level>

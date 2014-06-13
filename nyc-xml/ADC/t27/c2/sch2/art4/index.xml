@@ -1,0 +1,10 @@
+<level xmlns:ns0="http://www.w3.org/2001/XInclude">
+  <type>toc</type>
+  <prefix>Article</prefix>
+  <num>4</num>
+  <heading>EXTERMINATION AND RODENT ERADICATION</heading>
+  <ns0:include href="s27-2017/27-2017.xml" />
+  <ns0:include href="s27-2018/27-2018.xml" />
+  <ns0:include href="s27-2018.1/27-2018.1.xml" />
+  <ns0:include href="s27-2019/27-2019.xml" />
+</level>

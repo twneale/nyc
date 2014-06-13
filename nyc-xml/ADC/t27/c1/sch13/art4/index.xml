@@ -1,0 +1,7 @@
+<level xmlns:ns0="http://www.w3.org/2001/XInclude">
+  <type>toc</type>
+  <prefix>Article</prefix>
+  <num>4</num>
+  <heading>POSTING</heading>
+  <ns0:include href="s27-783/27-783.xml" />
+</level>

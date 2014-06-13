@@ -1,0 +1,15 @@
+<level xmlns:ns0="http://www.w3.org/2001/XInclude">
+  <type>toc</type>
+  <prefix>Article</prefix>
+  <num>21</num>
+  <heading>ATRIUMS</heading>
+  <ns0:include href="s27-521.1/27-521.1.xml" />
+  <ns0:include href="s27-521.2/27-521.2.xml" />
+  <ns0:include href="s27-521.3/27-521.3.xml" />
+  <ns0:include href="s27-521.4/27-521.4.xml" />
+  <ns0:include href="s27-521.5/27-521.5.xml" />
+  <ns0:include href="s27-521.6/27-521.6.xml" />
+  <ns0:include href="s27-521.7/27-521.7.xml" />
+  <ns0:include href="s27-521.8/27-521.8.xml" />
+  <ns0:include href="s27-521.9/27-521.9.xml" />
+</level>

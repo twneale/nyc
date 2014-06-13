@@ -1,0 +1,14 @@
+<level xmlns:ns0="http://www.w3.org/2001/XInclude">
+  <type>toc</type>
+  <prefix>Subchapter</prefix>
+  <num>5</num>
+  <heading>SALES OF PETROLEUM PRODUCTS</heading>
+  <ns0:include href="s20-672/20-672.xml" />
+  <ns0:include href="s20-672.1/20-672.1.xml" />
+  <ns0:include href="s20-673/20-673.xml" />
+  <ns0:include href="s20-673.1/20-673.1.xml" />
+  <ns0:include href="s20-673.2/20-673.2.xml" />
+  <ns0:include href="s20-673.3/20-673.3.xml" />
+  <ns0:include href="s20-674/20-674.xml" />
+  <ns0:include href="s20-675/20-675.xml" />
+</level>

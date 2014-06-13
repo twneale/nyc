@@ -1,0 +1,11 @@
+<level xmlns:ns0="http://www.w3.org/2001/XInclude">
+  <type>toc</type>
+  <prefix>Subchapter</prefix>
+  <num>3</num>
+  <heading>Prohibition of Gifts by Lobbyists</heading>
+  <ns0:include href="s3-224/3-224.xml" />
+  <ns0:include href="s3-225/3-225.xml" />
+  <ns0:include href="s3-226/3-226.xml" />
+  <ns0:include href="s3-227/3-227.xml" />
+  <ns0:include href="s3-228/3-228.xml" />
+</level>

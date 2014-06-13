@@ -1,0 +1,18 @@
+<level xmlns:ns0="http://www.w3.org/2001/XInclude">
+  <type>toc</type>
+  <prefix>Subchapter</prefix>
+  <num>6</num>
+  <heading>SPECIFIC NOISE SOURCES PLAINLY AUDIBLE AND OTHER STANDARDS</heading>
+  <ns0:include href="s24-233/24-233.xml" />
+  <ns0:include href="s24-234/24-234.xml" />
+  <ns0:include href="s24-235/24-235.xml" />
+  <ns0:include href="s24-236/24-236.xml" />
+  <ns0:include href="s24-237/24-237.xml" />
+  <ns0:include href="s24-238/24-238.xml" />
+  <ns0:include href="s24-239/24-239.xml" />
+  <ns0:include href="s24-240/24-240.xml" />
+  <ns0:include href="s24-241/24-241.xml" />
+  <ns0:include href="s24-242/24-242.xml" />
+  <ns0:include href="s24-243/24-243.xml" />
+  <ns0:include href="s24-244/24-244.xml" />
+</level>

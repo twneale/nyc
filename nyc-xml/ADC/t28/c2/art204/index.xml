@@ -1,0 +1,22 @@
+<level xmlns:ns0="http://www.w3.org/2001/XInclude">
+  <type>toc</type>
+  <prefix>Article</prefix>
+  <num>204</num>
+  <heading>ENVIRONMENTAL CONTROL BOARD</heading>
+  <ns0:include href="s28-204.1/28-204.1.xml" />
+  <ns0:include href="s28-204.2/28-204.2.xml" />
+  <ns0:include href="s28-204.3/28-204.3.xml" />
+  <ns0:include href="s28-204.4/28-204.4.xml" />
+  <ns0:include href="s28-204.5/28-204.5.xml" />
+  <ns0:include href="s28-204.6/28-204.6.xml" />
+  <ns0:include href="s28-204.6.1/28-204.6.1.xml" />
+  <ns0:include href="s28-204.6.2/28-204.6.2.xml" />
+  <ns0:include href="s28-204.6.3/28-204.6.3.xml" />
+  <ns0:include href="s28-204.6.4/28-204.6.4.xml" />
+  <ns0:include href="s28-204.6.5/28-204.6.5.xml" />
+  <ns0:include href="s28-204.6.6/28-204.6.6.xml" />
+  <ns0:include href="s28-204.6.7/28-204.6.7.xml" />
+  <ns0:include href="s28-204.6.8/28-204.6.8.xml" />
+  <ns0:include href="s28-204.6.9/28-204.6.9.xml" />
+  <ns0:include href="s28-204.6.10/28-204.6.10.xml" />
+</level>

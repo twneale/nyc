@@ -1,0 +1,15 @@
+<level xmlns:ns0="http://www.w3.org/2001/XInclude">
+  <type>toc</type>
+  <prefix>Article</prefix>
+  <num>12</num>
+  <heading>GLASS PANELS</heading>
+  <ns0:include href="s27-643/27-643.xml" />
+  <ns0:include href="s27-644/27-644.xml" />
+  <ns0:include href="s27-645/27-645.xml" />
+  <ns0:include href="s27-646/27-646.xml" />
+  <ns0:include href="s27-647/27-647.xml" />
+  <ns0:include href="s27-648/27-648.xml" />
+  <ns0:include href="s27-649/27-649.xml" />
+  <ns0:include href="s27-650/27-650.xml" />
+  <ns0:include href="s27-651/27-651.xml" />
+</level>

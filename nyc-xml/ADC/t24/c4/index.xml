@@ -1,0 +1,26 @@
+<level xmlns:ns0="http://www.w3.org/2001/XInclude">
+  <type>toc</type>
+  <prefix>Chapter</prefix>
+  <num>4</num>
+  <heading>GAS AND ELECTRIC LINES</heading>
+  <ns0:include href="s24-404/24-404.xml" />
+  <ns0:include href="s24-405/24-405.xml" />
+  <ns0:include href="s24-406/24-406.xml" />
+  <ns0:include href="s24-407/24-407.xml" />
+  <ns0:include href="s24-408/24-408.xml" />
+  <ns0:include href="s24-409/24-409.xml" />
+  <ns0:include href="s24-410/24-410.xml" />
+  <ns0:include href="s24-411/24-411.xml" />
+  <ns0:include href="s24-412/24-412.xml" />
+  <ns0:include href="s24-413/24-413.xml" />
+  <ns0:include href="s24-414/24-414.xml" />
+  <ns0:include href="s24-415/24-415.xml" />
+  <ns0:include href="s24-416/24-416.xml" />
+  <ns0:include href="s24-417/24-417.xml" />
+  <ns0:include href="s24-418/24-418.xml" />
+  <ns0:include href="s24-419/24-419.xml" />
+  <ns0:include href="s24-420/24-420.xml" />
+  <ns0:include href="s24-421/24-421.xml" />
+  <ns0:include href="s24-422/24-422.xml" />
+  <ns0:include href="s24-423/24-423.xml" />
+</level>

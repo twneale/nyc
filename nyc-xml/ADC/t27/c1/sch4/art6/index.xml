@@ -1,0 +1,10 @@
+<level xmlns:ns0="http://www.w3.org/2001/XInclude">
+  <type>toc</type>
+  <prefix>Article</prefix>
+  <num>6</num>
+  <heading>AREA LIMITATIONS</heading>
+  <ns0:include href="s27-301/27-301.xml" />
+  <ns0:include href="s27-302/27-302.xml" />
+  <ns0:include href="s27-303/27-303.xml" />
+  <ns0:include href="s27-304/27-304.xml" />
+</level>

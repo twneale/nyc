@@ -1,0 +1,19 @@
+<level xmlns:ns0="http://www.w3.org/2001/XInclude">
+  <type>toc</type>
+  <prefix>Article</prefix>
+  <num>4</num>
+  <heading>ALTERATIONS OF EXISTING BUILDINGS</heading>
+  <ns0:include href="s27-114/27-114.xml" />
+  <ns0:include href="s27-115/27-115.xml" />
+  <ns0:include href="s27-116/27-116.xml" />
+  <ns0:include href="s27-117/27-117.xml" />
+  <ns0:include href="s27-118/27-118.xml" />
+  <ns0:include href="s27-119/27-119.xml" />
+  <ns0:include href="s27-120/27-120.xml" />
+  <ns0:include href="s27-121/27-121.xml" />
+  <ns0:include href="s27-122/27-122.xml" />
+  <ns0:include href="s27-123/27-123.xml" />
+  <ns0:include href="s27-123.1/27-123.1.xml" />
+  <ns0:include href="s27-123.2/27-123.2.xml" />
+  <ns0:include href="s27-123.3/27-123.3.xml" />
+</level>

@@ -1,0 +1,15 @@
+<level xmlns:ns0="http://www.w3.org/2001/XInclude">
+  <type>toc</type>
+  <prefix>Article</prefix>
+  <num>4</num>
+  <heading>None</heading>
+  <ns0:include href="s13-671/13-671.xml" />
+  <ns0:include href="s13-672/13-672.xml" />
+  <ns0:include href="s13-673/13-673.xml" />
+  <ns0:include href="s13-674/13-674.xml" />
+  <ns0:include href="s13-675/13-675.xml" />
+  <ns0:include href="s13-676/13-676.xml" />
+  <ns0:include href="s13-677/13-677.xml" />
+  <ns0:include href="s13-678/13-678.xml" />
+  <ns0:include href="s13-679/13-679.xml" />
+</level>

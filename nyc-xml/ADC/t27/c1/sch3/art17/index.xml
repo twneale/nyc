@@ -1,0 +1,8 @@
+<level xmlns:ns0="http://www.w3.org/2001/XInclude">
+  <type>toc</type>
+  <prefix>Article</prefix>
+  <num>17</num>
+  <heading>MIXED CONSTRUCTION</heading>
+  <ns0:include href="s27-286/27-286.xml" />
+  <ns0:include href="s27-287/27-287.xml" />
+</level>

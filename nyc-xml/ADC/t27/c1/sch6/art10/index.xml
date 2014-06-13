@@ -1,0 +1,9 @@
+<level xmlns:ns0="http://www.w3.org/2001/XInclude">
+  <type>toc</type>
+  <prefix>Article</prefix>
+  <num>10</num>
+  <heading>SIGNS IN SLEEPING ROOMS</heading>
+  <ns0:include href="s27-396.1/27-396.1.xml" />
+  <ns0:include href="s27-396.2/27-396.2.xml" />
+  <ns0:include href="s27-396.3/27-396.3.xml" />
+</level>

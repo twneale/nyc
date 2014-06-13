@@ -1,0 +1,14 @@
+<level xmlns:ns0="http://www.w3.org/2001/XInclude">
+  <type>toc</type>
+  <prefix>Article</prefix>
+  <num>6</num>
+  <heading>OTHER LOADS</heading>
+  <ns0:include href="s27-570/27-570.xml" />
+  <ns0:include href="s27-571/27-571.xml" />
+  <ns0:include href="s27-572/27-572.xml" />
+  <ns0:include href="s27-573/27-573.xml" />
+  <ns0:include href="s27-574/27-574.xml" />
+  <ns0:include href="s27-575/27-575.xml" />
+  <ns0:include href="s27-576/27-576.xml" />
+  <ns0:include href="s27-577/27-577.xml" />
+</level>

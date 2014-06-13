@@ -1,0 +1,11 @@
+<level xmlns:ns0="http://www.w3.org/2001/XInclude">
+  <type>toc</type>
+  <prefix>Article</prefix>
+  <num>4</num>
+  <heading>INJUNCTIVE RELIEF</heading>
+  <ns0:include href="s27-2120/27-2120.xml" />
+  <ns0:include href="s27-2121/27-2121.xml" />
+  <ns0:include href="s27-2122/27-2122.xml" />
+  <ns0:include href="s27-2123/27-2123.xml" />
+  <ns0:include href="s27-2124/27-2124.xml" />
+</level>

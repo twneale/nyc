@@ -1,0 +1,39 @@
+<level xmlns:ns0="http://www.w3.org/2001/XInclude">
+  <type>toc</type>
+  <prefix>Subchapter</prefix>
+  <num>3-A</num>
+  <heading>WATER SUPPLY</heading>
+  <ns0:include href="s5-376/5-376.xml" />
+  <ns0:include href="s5-377/5-377.xml" />
+  <ns0:include href="s5-378/5-378.xml" />
+  <ns0:include href="s5-379/5-379.xml" />
+  <ns0:include href="s5-380/5-380.xml" />
+  <ns0:include href="s5-381/5-381.xml" />
+  <ns0:include href="s5-382/5-382.xml" />
+  <ns0:include href="s5-383/5-383.xml" />
+  <ns0:include href="s5-384/5-384.xml" />
+  <ns0:include href="s5-385/5-385.xml" />
+  <ns0:include href="s5-386/5-386.xml" />
+  <ns0:include href="s5-387/5-387.xml" />
+  <ns0:include href="s5-388/5-388.xml" />
+  <ns0:include href="s5-389/5-389.xml" />
+  <ns0:include href="s5-390/5-390.xml" />
+  <ns0:include href="s5-391/5-391.xml" />
+  <ns0:include href="s5-392/5-392.xml" />
+  <ns0:include href="s5-393/5-393.xml" />
+  <ns0:include href="s5-394/5-394.xml" />
+  <ns0:include href="s5-395/5-395.xml" />
+  <ns0:include href="s5-396/5-396.xml" />
+  <ns0:include href="s5-397/5-397.xml" />
+  <ns0:include href="s5-398/5-398.xml" />
+  <ns0:include href="s5-399/5-399.xml" />
+  <ns0:include href="s5-401/5-401.xml" />
+  <ns0:include href="s5-402/5-402.xml" />
+  <ns0:include href="s5-403/5-403.xml" />
+  <ns0:include href="s5-410/5-410.xml" />
+  <ns0:include href="s5-418/5-418.xml" />
+  <ns0:include href="s5-423/5-423.xml" />
+  <ns0:include href="s5-424/5-424.xml" />
+  <ns0:include href="s5-426/5-426.xml" />
+  <ns0:include href="s5-429/5-429.xml" />
+</level>

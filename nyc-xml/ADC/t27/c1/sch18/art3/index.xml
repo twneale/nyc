@@ -1,0 +1,10 @@
+<level xmlns:ns0="http://www.w3.org/2001/XInclude">
+  <type>toc</type>
+  <prefix>Article</prefix>
+  <num>3</num>
+  <heading>TESTS AND TEST INTERVAL</heading>
+  <ns0:include href="s27-997/27-997.xml" />
+  <ns0:include href="s27-998/27-998.xml" />
+  <ns0:include href="s27-999/27-999.xml" />
+  <ns0:include href="s27-1000/27-1000.xml" />
+</level>

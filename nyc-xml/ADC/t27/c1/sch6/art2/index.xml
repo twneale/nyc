@@ -1,0 +1,10 @@
+<level xmlns:ns0="http://www.w3.org/2001/XInclude">
+  <type>toc</type>
+  <prefix>Article</prefix>
+  <num>2</num>
+  <heading>DETERMINATION OF EXIT REQUIREMENTS</heading>
+  <ns0:include href="s27-357/27-357.xml" />
+  <ns0:include href="s27-358/27-358.xml" />
+  <ns0:include href="s27-359/27-359.xml" />
+  <ns0:include href="s27-360/27-360.xml" />
+</level>

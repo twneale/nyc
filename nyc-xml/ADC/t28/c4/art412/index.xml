@@ -1,0 +1,12 @@
+<level xmlns:ns0="http://www.w3.org/2001/XInclude">
+  <type>toc</type>
+  <prefix>Article</prefix>
+  <num>412</num>
+  <heading>OIL-BURNING EQUIPMENT INSTALLER LICENSE</heading>
+  <ns0:include href="s28-412.1/28-412.1.xml" />
+  <ns0:include href="s28-412.2/28-412.2.xml" />
+  <ns0:include href="s28-412.3/28-412.3.xml" />
+  <ns0:include href="s28-412.3.1/28-412.3.1.xml" />
+  <ns0:include href="s28-412.3.2/28-412.3.2.xml" />
+  <ns0:include href="s28-412.4/28-412.4.xml" />
+</level>

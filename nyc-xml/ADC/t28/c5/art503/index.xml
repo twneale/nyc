@@ -1,0 +1,18 @@
+<level xmlns:ns0="http://www.w3.org/2001/XInclude">
+  <type>toc</type>
+  <prefix>Article</prefix>
+  <num>503</num>
+  <heading>NUISANCE ABATEMENT FOR ILLEGAL SIGNS</heading>
+  <ns0:include href="s28-503.1/28-503.1.xml" />
+  <ns0:include href="s28-503.2/28-503.2.xml" />
+  <ns0:include href="s28-503.3/28-503.3.xml" />
+  <ns0:include href="s28-503.3.1/28-503.3.1.xml" />
+  <ns0:include href="s28-503.4/28-503.4.xml" />
+  <ns0:include href="s28-503.5/28-503.5.xml" />
+  <ns0:include href="s28-503.6/28-503.6.xml" />
+  <ns0:include href="s28-503.7/28-503.7.xml" />
+  <ns0:include href="s28-503.8/28-503.8.xml" />
+  <ns0:include href="s28-503.9/28-503.9.xml" />
+  <ns0:include href="s28-503.10/28-503.10.xml" />
+  <ns0:include href="s28-503.11/28-503.11.xml" />
+</level>

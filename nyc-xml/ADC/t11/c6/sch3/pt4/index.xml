@@ -1,0 +1,25 @@
+<level xmlns:ns0="http://www.w3.org/2001/XInclude">
+  <type>toc</type>
+  <prefix>Part</prefix>
+  <num>4</num>
+  <heading>BANKING CORPORATION TAX</heading>
+  <ns0:include href="s11-638/11-638.xml" />
+  <ns0:include href="s11-639/11-639.xml" />
+  <ns0:include href="s11-640/11-640.xml" />
+  <ns0:include href="s11-641/11-641.xml" />
+  <ns0:include href="s11-641.1/11-641.1.xml" />
+  <ns0:include href="s11-642/11-642.xml" />
+  <ns0:include href="s11-643/11-643.xml" />
+  <ns0:include href="s11-643.1/11-643.1.xml" />
+  <ns0:include href="s11-643.2/11-643.2.xml" />
+  <ns0:include href="s11-643.3/11-643.3.xml" />
+  <ns0:include href="s11-643.4/11-643.4.xml" />
+  <ns0:include href="s11-643.5/11-643.5.xml" />
+  <ns0:include href="s11-643.7/11-643.7.xml" />
+  <ns0:include href="s11-643.8/11-643.8.xml" />
+  <ns0:include href="s11-643.9/11-643.9.xml" />
+  <ns0:include href="s11-644/11-644.xml" />
+  <ns0:include href="s11-645/11-645.xml" />
+  <ns0:include href="s11-646/11-646.xml" />
+  <ns0:include href="s11-647/11-647.xml" />
+</level>

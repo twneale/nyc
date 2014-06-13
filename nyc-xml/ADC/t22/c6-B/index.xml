@@ -1,0 +1,8 @@
+<level xmlns:ns0="http://www.w3.org/2001/XInclude">
+  <type>toc</type>
+  <prefix>Chapter</prefix>
+  <num>6-B</num>
+  <heading>RELOCATION AND EMPLOYMENT ASSISTANCE PROGRAM</heading>
+  <ns0:include href="s22-621/22-621.xml" />
+  <ns0:include href="s22-622/22-622.xml" />
+</level>

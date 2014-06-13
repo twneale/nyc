@@ -1,0 +1,8 @@
+<level xmlns:ns0="http://www.w3.org/2001/XInclude">
+  <type>toc</type>
+  <prefix>Article</prefix>
+  <num>2</num>
+  <heading>MATTERS COVERED</heading>
+  <ns0:include href="s27-109/27-109.xml" />
+  <ns0:include href="s27-110/27-110.xml" />
+</level>

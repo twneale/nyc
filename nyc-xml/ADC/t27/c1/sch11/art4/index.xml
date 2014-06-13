@@ -1,0 +1,12 @@
+<level xmlns:ns0="http://www.w3.org/2001/XInclude">
+  <type>toc</type>
+  <prefix>Article</prefix>
+  <num>4</num>
+  <heading>ALLOWABLE SOIL BEARING PRESSURES</heading>
+  <ns0:include href="s27-675/27-675.xml" />
+  <ns0:include href="s27-676/27-676.xml" />
+  <ns0:include href="s27-677/27-677.xml" />
+  <ns0:include href="s27-678/27-678.xml" />
+  <ns0:include href="s27-679/27-679.xml" />
+  <ns0:include href="s27-680/27-680.xml" />
+</level>

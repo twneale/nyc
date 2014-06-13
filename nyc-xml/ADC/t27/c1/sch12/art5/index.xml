@@ -1,0 +1,11 @@
+<level xmlns:ns0="http://www.w3.org/2001/XInclude">
+  <type>toc</type>
+  <prefix>Article</prefix>
+  <num>5</num>
+  <heading>STANDARDS OF HEATING</heading>
+  <ns0:include href="s27-740/27-740.xml" />
+  <ns0:include href="s27-741/27-741.xml" />
+  <ns0:include href="s27-742/27-742.xml" />
+  <ns0:include href="s27-743/27-743.xml" />
+  <ns0:include href="s27-744/27-744.xml" />
+</level>

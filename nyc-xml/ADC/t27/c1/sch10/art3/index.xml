@@ -1,0 +1,10 @@
+<level xmlns:ns0="http://www.w3.org/2001/XInclude">
+  <type>toc</type>
+  <prefix>Article</prefix>
+  <num>3</num>
+  <heading>ADEQUACY OF THE STRUCTURAL DESIGN</heading>
+  <ns0:include href="s27-596/27-596.xml" />
+  <ns0:include href="s27-597/27-597.xml" />
+  <ns0:include href="s27-598/27-598.xml" />
+  <ns0:include href="s27-599/27-599.xml" />
+</level>

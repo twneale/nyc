@@ -1,0 +1,14 @@
+<level xmlns:ns0="http://www.w3.org/2001/XInclude">
+  <type>toc</type>
+  <prefix>Article</prefix>
+  <num>19</num>
+  <heading>TENTS AND AIR-SUPPORTED STRUCTURES</heading>
+  <ns0:include href="s27-510/27-510.xml" />
+  <ns0:include href="s27-511/27-511.xml" />
+  <ns0:include href="s27-512/27-512.xml" />
+  <ns0:include href="s27-513/27-513.xml" />
+  <ns0:include href="s27-514/27-514.xml" />
+  <ns0:include href="s27-515/27-515.xml" />
+  <ns0:include href="s27-516/27-516.xml" />
+  <ns0:include href="s27-517/27-517.xml" />
+</level>

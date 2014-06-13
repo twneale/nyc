@@ -1,0 +1,10 @@
+<level xmlns:ns0="http://www.w3.org/2001/XInclude">
+  <type>toc</type>
+  <prefix>Article</prefix>
+  <num>4</num>
+  <heading>LIVE LOAD REDUCTION</heading>
+  <ns0:include href="s27-565/27-565.xml" />
+  <ns0:include href="s27-566/27-566.xml" />
+  <ns0:include href="s27-567/27-567.xml" />
+  <ns0:include href="s27-568/27-568.xml" />
+</level>

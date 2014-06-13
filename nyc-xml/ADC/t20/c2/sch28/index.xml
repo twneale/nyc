@@ -1,0 +1,15 @@
+<level xmlns:ns0="http://www.w3.org/2001/XInclude">
+  <type>toc</type>
+  <prefix>Subchapter</prefix>
+  <num>28</num>
+  <heading>STORAGE WAREHOUSES</heading>
+  <ns0:include href="s20-475/20-475.xml" />
+  <ns0:include href="s20-476/20-476.xml" />
+  <ns0:include href="s20-477/20-477.xml" />
+  <ns0:include href="s20-478/20-478.xml" />
+  <ns0:include href="s20-479/20-479.xml" />
+  <ns0:include href="s20-480/20-480.xml" />
+  <ns0:include href="s20-481/20-481.xml" />
+  <ns0:include href="s20-482/20-482.xml" />
+  <ns0:include href="s20-483/20-483.xml" />
+</level>

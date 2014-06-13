@@ -1,0 +1,12 @@
+<level xmlns:ns0="http://www.w3.org/2001/XInclude">
+  <type>toc</type>
+  <prefix>Article</prefix>
+  <num>8</num>
+  <heading>RECOVERY OF EXPENSES</heading>
+  <ns0:include href="s27-2143/27-2143.xml" />
+  <ns0:include href="s27-2144/27-2144.xml" />
+  <ns0:include href="s27-2145/27-2145.xml" />
+  <ns0:include href="s27-2146/27-2146.xml" />
+  <ns0:include href="s27-2147/27-2147.xml" />
+  <ns0:include href="s27-2148/27-2148.xml" />
+</level>

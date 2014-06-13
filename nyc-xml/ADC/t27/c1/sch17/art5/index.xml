@@ -1,0 +1,16 @@
+<level xmlns:ns0="http://www.w3.org/2001/XInclude">
+  <type>toc</type>
+  <prefix>Article</prefix>
+  <num>5</num>
+  <heading>INTERIOR FIRE ALARM AND SIGNAL SYSTEM</heading>
+  <ns0:include href="s27-968/27-968.xml" />
+  <ns0:include href="s27-969/27-969.xml" />
+  <ns0:include href="s27-970/27-970.xml" />
+  <ns0:include href="s27-971/27-971.xml" />
+  <ns0:include href="s27-972/27-972.xml" />
+  <ns0:include href="s27-973/27-973.xml" />
+  <ns0:include href="s27-974/27-974.xml" />
+  <ns0:include href="s27-975/27-975.xml" />
+  <ns0:include href="s27-976/27-976.xml" />
+  <ns0:include href="s27-977/27-977.xml" />
+</level>

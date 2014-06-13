@@ -1,0 +1,27 @@
+<level xmlns:ns0="http://www.w3.org/2001/XInclude">
+  <type>toc</type>
+  <prefix>Subchapter</prefix>
+  <num>19</num>
+  <heading>BINGO LICENSING LAW</heading>
+  <ns0:include href="s20-338/20-338.xml" />
+  <ns0:include href="s20-339/20-339.xml" />
+  <ns0:include href="s20-340/20-340.xml" />
+  <ns0:include href="s20-341/20-341.xml" />
+  <ns0:include href="s20-342/20-342.xml" />
+  <ns0:include href="s20-343/20-343.xml" />
+  <ns0:include href="s20-344/20-344.xml" />
+  <ns0:include href="s20-345/20-345.xml" />
+  <ns0:include href="s20-346/20-346.xml" />
+  <ns0:include href="s20-347/20-347.xml" />
+  <ns0:include href="s20-348/20-348.xml" />
+  <ns0:include href="s20-349/20-349.xml" />
+  <ns0:include href="s20-350/20-350.xml" />
+  <ns0:include href="s20-351/20-351.xml" />
+  <ns0:include href="s20-352/20-352.xml" />
+  <ns0:include href="s20-353/20-353.xml" />
+  <ns0:include href="s20-354/20-354.xml" />
+  <ns0:include href="s20-355/20-355.xml" />
+  <ns0:include href="s20-356/20-356.xml" />
+  <ns0:include href="s20-357/20-357.xml" />
+  <ns0:include href="s20-358/20-358.xml" />
+</level>

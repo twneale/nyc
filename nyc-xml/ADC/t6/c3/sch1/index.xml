@@ -1,0 +1,9 @@
+<level xmlns:ns0="http://www.w3.org/2001/XInclude">
+  <type>toc</type>
+  <prefix>Subchapter</prefix>
+  <num>1</num>
+  <heading>GENERAL PROVISIONS</heading>
+  <ns0:include href="s6-301/6-301.xml" />
+  <ns0:include href="s6-302/6-302.xml" />
+  <ns0:include href="s6-303/6-303.xml" />
+</level>

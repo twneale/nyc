@@ -1,0 +1,10 @@
+<level xmlns:ns0="http://www.w3.org/2001/XInclude">
+  <type>toc</type>
+  <prefix>Article</prefix>
+  <num>3</num>
+  <heading>KITCHENS AND KITCHENETTES</heading>
+  <ns0:include href="s27-2070/27-2070.xml" />
+  <ns0:include href="s27-2071/27-2071.xml" />
+  <ns0:include href="s27-2072/27-2072.xml" />
+  <ns0:include href="s27-2073/27-2073.xml" />
+</level>

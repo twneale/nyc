@@ -1,0 +1,23 @@
+<level xmlns:ns0="http://www.w3.org/2001/XInclude">
+  <type>toc</type>
+  <prefix>Chapter</prefix>
+  <num>24</num>
+  <heading>TAX ON RETAIL LICENSEES OF THE STATE LIQUOR AUTHORITY</heading>
+  <ns0:include href="s11-2401/11-2401.xml" />
+  <ns0:include href="s11-2402/11-2402.xml" />
+  <ns0:include href="s11-2403/11-2403.xml" />
+  <ns0:include href="s11-2404/11-2404.xml" />
+  <ns0:include href="s11-2405/11-2405.xml" />
+  <ns0:include href="s11-2406/11-2406.xml" />
+  <ns0:include href="s11-2407/11-2407.xml" />
+  <ns0:include href="s11-2408/11-2408.xml" />
+  <ns0:include href="s11-2409/11-2409.xml" />
+  <ns0:include href="s11-2410/11-2410.xml" />
+  <ns0:include href="s11-2411/11-2411.xml" />
+  <ns0:include href="s11-2412/11-2412.xml" />
+  <ns0:include href="s11-2413/11-2413.xml" />
+  <ns0:include href="s11-2414/11-2414.xml" />
+  <ns0:include href="s11-2415/11-2415.xml" />
+  <ns0:include href="s11-2416/11-2416.xml" />
+  <ns0:include href="s11-2417/11-2417.xml" />
+</level>

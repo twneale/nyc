@@ -1,0 +1,9 @@
+<level xmlns:ns0="http://www.w3.org/2001/XInclude">
+  <type>toc</type>
+  <prefix>Article</prefix>
+  <num>9</num>
+  <heading>GAS APPLIANCES</heading>
+  <ns0:include href="s27-2034/27-2034.xml" />
+  <ns0:include href="s27-2035/27-2035.xml" />
+  <ns0:include href="s27-2036/27-2036.xml" />
+</level>

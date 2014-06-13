@@ -1,0 +1,14 @@
+<level xmlns:ns0="http://www.w3.org/2001/XInclude">
+  <type>toc</type>
+  <prefix>Chapter</prefix>
+  <num>2</num>
+  <heading>CERTAIN UNLAWFUL REAL ESTATE PRACTICES</heading>
+  <ns0:include href="s8-201/8-201.xml" />
+  <ns0:include href="s8-202/8-202.xml" />
+  <ns0:include href="s8-203/8-203.xml" />
+  <ns0:include href="s8-204/8-204.xml" />
+  <ns0:include href="s8-205/8-205.xml" />
+  <ns0:include href="s8-206/8-206.xml" />
+  <ns0:include href="s8-207/8-207.xml" />
+  <ns0:include href="s8-208/8-208.xml" />
+</level>

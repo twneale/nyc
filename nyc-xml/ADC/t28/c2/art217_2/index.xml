@@ -1,0 +1,11 @@
+<level xmlns:ns0="http://www.w3.org/2001/XInclude">
+  <type>toc</type>
+  <prefix>Article</prefix>
+  <num>217*2</num>
+  <heading>FAILURE TO CERTIFY CORRECTION OF CERTAIN IMMEDIATELY HAZARDOUS VIOLATIONS</heading>
+  <ns0:include href="/ny/ADC/t28/c2/art217_2/s28-217.1/28-217.1.xml" />
+  <ns0:include href="/ny/ADC/t28/c2/art217_2/s28-217.2/28-217.2.xml" />
+  <ns0:include href="/ny/ADC/t28/c2/art217_2/s28-217.2.1/28-217.2.1.xml" />
+  <ns0:include href="/ny/ADC/t28/c2/art217_2/s28-217.2.2/28-217.2.2.xml" />
+  <ns0:include href="/ny/ADC/t28/c2/art217_2/s28-217.3/28-217.3.xml" />
+</level>

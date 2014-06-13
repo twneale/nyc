@@ -1,0 +1,14 @@
+<level xmlns:ns0="http://www.w3.org/2001/XInclude">
+  <type>toc</type>
+  <prefix>Article</prefix>
+  <num>504</num>
+  <heading>BICYCLE ACCESS TO OFFICE BUILDINGS</heading>
+  <ns0:include href="s28-504.1/28-504.1.xml" />
+  <ns0:include href="s28-504.2/28-504.2.xml" />
+  <ns0:include href="s28-504.3/28-504.3.xml" />
+  <ns0:include href="s28-504.4/28-504.4.xml" />
+  <ns0:include href="s28-504.5/28-504.5.xml" />
+  <ns0:include href="s28-504.6/28-504.6.xml" />
+  <ns0:include href="s28-504.7/28-504.7.xml" />
+  <ns0:include href="s28-504.8/28-504.8.xml" />
+</level>

@@ -1,0 +1,19 @@
+<level xmlns:ns0="http://www.w3.org/2001/XInclude">
+  <type>toc</type>
+  <prefix>Chapter</prefix>
+  <num>4-A</num>
+  <heading>ELECTRONIC EQUIPMENT COLLECTION, RECYCLING AND REUSE</heading>
+  <ns0:include href="s16-420/16-420.xml" />
+  <ns0:include href="s16-421/16-421.xml" />
+  <ns0:include href="s16-422/16-422.xml" />
+  <ns0:include href="s16-423/16-423.xml" />
+  <ns0:include href="s16-424/16-424.xml" />
+  <ns0:include href="s16-425/16-425.xml" />
+  <ns0:include href="s16-426/16-426.xml" />
+  <ns0:include href="s16-427/16-427.xml" />
+  <ns0:include href="s16-428/16-428.xml" />
+  <ns0:include href="s16-429/16-429.xml" />
+  <ns0:include href="s16-430/16-430.xml" />
+  <ns0:include href="s16-431/16-431.xml" />
+  <ns0:include href="s16-432/16-432.xml" />
+</level>

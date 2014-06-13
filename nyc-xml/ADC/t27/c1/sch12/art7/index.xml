@@ -1,0 +1,11 @@
+<level xmlns:ns0="http://www.w3.org/2001/XInclude">
+  <type>toc</type>
+  <prefix>Article</prefix>
+  <num>7</num>
+  <heading>STANDARDS OF MECHANICAL VENTILATION</heading>
+  <ns0:include href="s27-752/27-752.xml" />
+  <ns0:include href="s27-753/27-753.xml" />
+  <ns0:include href="s27-754/27-754.xml" />
+  <ns0:include href="s27-755/27-755.xml" />
+  <ns0:include href="s27-756/27-756.xml" />
+</level>

@@ -1,0 +1,19 @@
+<level xmlns:ns0="http://www.w3.org/2001/XInclude">
+  <type>toc</type>
+  <prefix>Subchapter</prefix>
+  <num>11</num>
+  <heading>FOUNDATIONS</heading>
+  <ns0:include href="art1/index.xml" />
+  <ns0:include href="art2/index.xml" />
+  <ns0:include href="art3/index.xml" />
+  <ns0:include href="art4/index.xml" />
+  <ns0:include href="art5/index.xml" />
+  <ns0:include href="art6/index.xml" />
+  <ns0:include href="art7/index.xml" />
+  <ns0:include href="art8/index.xml" />
+  <ns0:include href="art9/index.xml" />
+  <ns0:include href="art10/index.xml" />
+  <ns0:include href="art11/index.xml" />
+  <ns0:include href="art12/index.xml" />
+  <ns0:include href="art13/index.xml" />
+</level>

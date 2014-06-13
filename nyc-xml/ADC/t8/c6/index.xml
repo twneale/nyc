@@ -1,0 +1,9 @@
+<level xmlns:ns0="http://www.w3.org/2001/XInclude">
+  <type>toc</type>
+  <prefix>Chapter</prefix>
+  <num>6</num>
+  <heading>DISCRIMINATORY HARASSMENT OR VIOLENCE</heading>
+  <ns0:include href="s8-602/8-602.xml" />
+  <ns0:include href="s8-603/8-603.xml" />
+  <ns0:include href="s8-604/8-604.xml" />
+</level>

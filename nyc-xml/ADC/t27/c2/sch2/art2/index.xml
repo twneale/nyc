@@ -1,0 +1,9 @@
+<level xmlns:ns0="http://www.w3.org/2001/XInclude">
+  <type>toc</type>
+  <prefix>Article</prefix>
+  <num>2</num>
+  <heading>CLEANING</heading>
+  <ns0:include href="s27-2010/27-2010.xml" />
+  <ns0:include href="s27-2011/27-2011.xml" />
+  <ns0:include href="s27-2012/27-2012.xml" />
+</level>

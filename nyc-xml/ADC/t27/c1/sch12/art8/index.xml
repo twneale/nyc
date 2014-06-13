@@ -1,0 +1,17 @@
+<level xmlns:ns0="http://www.w3.org/2001/XInclude">
+  <type>toc</type>
+  <prefix>Article</prefix>
+  <num>8</num>
+  <heading>VENTILATION OF SPECIAL SPACES</heading>
+  <ns0:include href="s27-757/27-757.xml" />
+  <ns0:include href="s27-758/27-758.xml" />
+  <ns0:include href="s27-759/27-759.xml" />
+  <ns0:include href="s27-760/27-760.xml" />
+  <ns0:include href="s27-761/27-761.xml" />
+  <ns0:include href="s27-762/27-762.xml" />
+  <ns0:include href="s27-763/27-763.xml" />
+  <ns0:include href="s27-764/27-764.xml" />
+  <ns0:include href="s27-765/27-765.xml" />
+  <ns0:include href="s27-766/27-766.xml" />
+  <ns0:include href="s27-767/27-767.xml" />
+</level>

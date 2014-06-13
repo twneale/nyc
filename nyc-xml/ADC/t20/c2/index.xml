@@ -1,0 +1,34 @@
+<level xmlns:ns0="http://www.w3.org/2001/XInclude">
+  <type>toc</type>
+  <prefix>Chapter</prefix>
+  <num>2</num>
+  <heading>LICENSES</heading>
+  <ns0:include href="sch1/index.xml" />
+  <ns0:include href="sch3/index.xml" />
+  <ns0:include href="sch4/index.xml" />
+  <ns0:include href="sch6/index.xml" />
+  <ns0:include href="sch7/index.xml" />
+  <ns0:include href="sch8/index.xml" />
+  <ns0:include href="sch9/index.xml" />
+  <ns0:include href="sch11/index.xml" />
+  <ns0:include href="sch12/index.xml" />
+  <ns0:include href="sch13/index.xml" />
+  <ns0:include href="sch14/index.xml" />
+  <ns0:include href="sch15/index.xml" />
+  <ns0:include href="sch16/index.xml" />
+  <ns0:include href="sch17/index.xml" />
+  <ns0:include href="sch19/index.xml" />
+  <ns0:include href="sch20/index.xml" />
+  <ns0:include href="sch21/index.xml" />
+  <ns0:include href="sch22/index.xml" />
+  <ns0:include href="sch23/index.xml" />
+  <ns0:include href="sch24/index.xml" />
+  <ns0:include href="sch25/index.xml" />
+  <ns0:include href="sch26/index.xml" />
+  <ns0:include href="sch27/index.xml" />
+  <ns0:include href="sch28/index.xml" />
+  <ns0:include href="sch29/index.xml" />
+  <ns0:include href="sch30/index.xml" />
+  <ns0:include href="sch31/index.xml" />
+  <ns0:include href="sch32/index.xml" />
+</level>

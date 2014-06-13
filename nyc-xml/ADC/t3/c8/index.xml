@@ -1,0 +1,8 @@
+<level xmlns:ns0="http://www.w3.org/2001/XInclude">
+  <type>toc</type>
+  <prefix>Chapter</prefix>
+  <num>8</num>
+  <heading>TRANSITION AND INAUGURAL DONATIONS AND EXPENDITURES</heading>
+  <ns0:include href="s3-801/3-801.xml" />
+  <ns0:include href="s3-802/3-802.xml" />
+</level>

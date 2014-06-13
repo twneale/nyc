@@ -1,0 +1,28 @@
+<level xmlns:ns0="http://www.w3.org/2001/XInclude">
+  <type>toc</type>
+  <prefix>Chapter</prefix>
+  <num>6</num>
+  <heading>CITY REGISTER</heading>
+  <ns0:include href="s7-601/7-601.xml" />
+  <ns0:include href="s7-602/7-602.xml" />
+  <ns0:include href="s7-603/7-603.xml" />
+  <ns0:include href="s7-604/7-604.xml" />
+  <ns0:include href="s7-605/7-605.xml" />
+  <ns0:include href="s7-606/7-606.xml" />
+  <ns0:include href="s7-607/7-607.xml" />
+  <ns0:include href="s7-608/7-608.xml" />
+  <ns0:include href="s7-614/7-614.xml" />
+  <ns0:include href="s7-615/7-615.xml" />
+  <ns0:include href="s7-616/7-616.xml" />
+  <ns0:include href="s7-617/7-617.xml" />
+  <ns0:include href="s7-618/7-618.xml" />
+  <ns0:include href="s7-619/7-619.xml" />
+  <ns0:include href="s7-620/7-620.xml" />
+  <ns0:include href="s7-621/7-621.xml" />
+  <ns0:include href="s7-622/7-622.xml" />
+  <ns0:include href="s7-623/7-623.xml" />
+  <ns0:include href="s7-624/7-624.xml" />
+  <ns0:include href="s7-625/7-625.xml" />
+  <ns0:include href="s7-626/7-626.xml" />
+  <ns0:include href="s7-627/7-627.xml" />
+</level>

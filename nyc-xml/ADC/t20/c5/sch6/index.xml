@@ -1,0 +1,9 @@
+<level xmlns:ns0="http://www.w3.org/2001/XInclude">
+  <type>toc</type>
+  <prefix>Subchapter</prefix>
+  <num>6</num>
+  <heading>AVAILABILITY FOR SALE OF ADVERTISED MERCHANDISE</heading>
+  <ns0:include href="s20-727/20-727.xml" />
+  <ns0:include href="s20-728/20-728.xml" />
+  <ns0:include href="s20-729/20-729.xml" />
+</level>

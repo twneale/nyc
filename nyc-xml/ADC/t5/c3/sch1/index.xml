@@ -1,0 +1,46 @@
+<level xmlns:ns0="http://www.w3.org/2001/XInclude">
+  <type>toc</type>
+  <prefix>Subchapter</prefix>
+  <num>1</num>
+  <heading>CONSOLIDATED CONDEMNATION PROCEDURE</heading>
+  <ns0:include href="s5-301/5-301.xml" />
+  <ns0:include href="s5-302/5-302.xml" />
+  <ns0:include href="s5-303/5-303.xml" />
+  <ns0:include href="s5-304/5-304.xml" />
+  <ns0:include href="s5-305/5-305.xml" />
+  <ns0:include href="s5-306/5-306.xml" />
+  <ns0:include href="s5-307/5-307.xml" />
+  <ns0:include href="s5-308/5-308.xml" />
+  <ns0:include href="s5-309/5-309.xml" />
+  <ns0:include href="s5-310/5-310.xml" />
+  <ns0:include href="s5-311/5-311.xml" />
+  <ns0:include href="s5-312/5-312.xml" />
+  <ns0:include href="s5-313/5-313.xml" />
+  <ns0:include href="s5-314/5-314.xml" />
+  <ns0:include href="s5-315/5-315.xml" />
+  <ns0:include href="s5-316/5-316.xml" />
+  <ns0:include href="s5-317/5-317.xml" />
+  <ns0:include href="s5-318/5-318.xml" />
+  <ns0:include href="s5-319/5-319.xml" />
+  <ns0:include href="s5-320/5-320.xml" />
+  <ns0:include href="s5-321/5-321.xml" />
+  <ns0:include href="s5-322/5-322.xml" />
+  <ns0:include href="s5-323/5-323.xml" />
+  <ns0:include href="s5-324/5-324.xml" />
+  <ns0:include href="s5-325/5-325.xml" />
+  <ns0:include href="s5-326/5-326.xml" />
+  <ns0:include href="s5-327/5-327.xml" />
+  <ns0:include href="s5-328/5-328.xml" />
+  <ns0:include href="s5-329/5-329.xml" />
+  <ns0:include href="s5-330/5-330.xml" />
+  <ns0:include href="s5-331/5-331.xml" />
+  <ns0:include href="s5-332/5-332.xml" />
+  <ns0:include href="s5-333/5-333.xml" />
+  <ns0:include href="s5-334/5-334.xml" />
+  <ns0:include href="s5-335/5-335.xml" />
+  <ns0:include href="s5-336/5-336.xml" />
+  <ns0:include href="s5-337/5-337.xml" />
+  <ns0:include href="s5-338/5-338.xml" />
+  <ns0:include href="s5-339/5-339.xml" />
+  <ns0:include href="s5-340/5-340.xml" />
+</level>

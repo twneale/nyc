@@ -1,0 +1,12 @@
+<level xmlns:ns0="http://www.w3.org/2001/XInclude">
+  <type>toc</type>
+  <prefix>Subchapter</prefix>
+  <num>3*2</num>
+  <heading>LANGUAGE ASSISTANCE SERVICES IN PHARMACIES</heading>
+  <ns0:include href="/ny/ADC/t20/c4/sch3_2/s20-620/20-620.xml" />
+  <ns0:include href="/ny/ADC/t20/c4/sch3_2/s20-621/20-621.xml" />
+  <ns0:include href="/ny/ADC/t20/c4/sch3_2/s20-622/20-622.xml" />
+  <ns0:include href="/ny/ADC/t20/c4/sch3_2/s20-623/20-623.xml" />
+  <ns0:include href="/ny/ADC/t20/c4/sch3_2/s20-624/20-624.xml" />
+  <ns0:include href="/ny/ADC/t20/c4/sch3_2/s20-625/20-625.xml" />
+</level>

@@ -1,0 +1,11 @@
+<level xmlns:ns0="http://www.w3.org/2001/XInclude">
+  <type>toc</type>
+  <prefix>Chapter</prefix>
+  <num>15</num>
+  <heading>FOOD SERVICE ESTABLISHMENTS</heading>
+  <ns0:include href="s17-1501/17-1501.xml" />
+  <ns0:include href="s17-1502/17-1502.xml" />
+  <ns0:include href="s17-1503/17-1503.xml" />
+  <ns0:include href="s17-1504/17-1504.xml" />
+  <ns0:include href="s17-1505/17-1505.xml" />
+</level>

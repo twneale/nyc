@@ -1,0 +1,11 @@
+<level xmlns:ns0="http://www.w3.org/2001/XInclude">
+  <type>toc</type>
+  <prefix>Article</prefix>
+  <num>4</num>
+  <heading>STANDARDS OF ARTIFICIAL LIGHT</heading>
+  <ns0:include href="s27-735/27-735.xml" />
+  <ns0:include href="s27-736/27-736.xml" />
+  <ns0:include href="s27-737/27-737.xml" />
+  <ns0:include href="s27-738/27-738.xml" />
+  <ns0:include href="s27-739/27-739.xml" />
+</level>

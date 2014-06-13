@@ -1,0 +1,17 @@
+<level xmlns:ns0="http://www.w3.org/2001/XInclude">
+  <type>toc</type>
+  <prefix>Part</prefix>
+  <num>5</num>
+  <heading>ABATEMENT OF TAX PAYMENTS FOR CERTAIN INDUSTRIAL AND COMMERCIAL PROPERTIES</heading>
+  <ns0:include href="s11-268/11-268.xml" />
+  <ns0:include href="s11-269/11-269.xml" />
+  <ns0:include href="s11-270/11-270.xml" />
+  <ns0:include href="s11-271/11-271.xml" />
+  <ns0:include href="s11-272/11-272.xml" />
+  <ns0:include href="s11-273/11-273.xml" />
+  <ns0:include href="s11-274/11-274.xml" />
+  <ns0:include href="s11-275/11-275.xml" />
+  <ns0:include href="s11-276/11-276.xml" />
+  <ns0:include href="s11-277/11-277.xml" />
+  <ns0:include href="s11-278/11-278.xml" />
+</level>

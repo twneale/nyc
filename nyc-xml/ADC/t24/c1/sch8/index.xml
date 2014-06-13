@@ -1,0 +1,17 @@
+<level xmlns:ns0="http://www.w3.org/2001/XInclude">
+  <type>toc</type>
+  <prefix>Subchapter</prefix>
+  <num>8</num>
+  <heading>FUEL STANDARDS</heading>
+  <ns0:include href="s24-168/24-168.xml" />
+  <ns0:include href="s24-168.1/24-168.1.xml" />
+  <ns0:include href="s24-169/24-169.xml" />
+  <ns0:include href="s24-170/24-170.xml" />
+  <ns0:include href="s24-171/24-171.xml" />
+  <ns0:include href="s24-172/24-172.xml" />
+  <ns0:include href="s24-173/24-173.xml" />
+  <ns0:include href="s24-174/24-174.xml" />
+  <ns0:include href="s24-175/24-175.xml" />
+  <ns0:include href="s24-176/24-176.xml" />
+  <ns0:include href="s24-177/24-177.xml" />
+</level>

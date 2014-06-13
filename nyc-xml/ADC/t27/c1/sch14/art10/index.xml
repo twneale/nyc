@@ -1,0 +1,9 @@
+<level xmlns:ns0="http://www.w3.org/2001/XInclude">
+  <type>toc</type>
+  <prefix>Article</prefix>
+  <num>10</num>
+  <heading>PIPING CONTAINING STEAM, HOT WATER OR OTHER FLUIDS</heading>
+  <ns0:include href="s27-809/27-809.xml" />
+  <ns0:include href="s27-810/27-810.xml" />
+  <ns0:include href="s27-811/27-811.xml" />
+</level>

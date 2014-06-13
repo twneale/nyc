@@ -1,0 +1,12 @@
+<level xmlns:ns0="http://www.w3.org/2001/XInclude">
+  <type>toc</type>
+  <prefix>Article</prefix>
+  <num>12</num>
+  <heading>PRIVATE GARAGES</heading>
+  <ns0:include href="s27-473/27-473.xml" />
+  <ns0:include href="s27-474/27-474.xml" />
+  <ns0:include href="s27-475/27-475.xml" />
+  <ns0:include href="s27-476/27-476.xml" />
+  <ns0:include href="s27-477/27-477.xml" />
+  <ns0:include href="s27-478/27-478.xml" />
+</level>

@@ -1,0 +1,8 @@
+<level xmlns:ns0="http://www.w3.org/2001/XInclude">
+  <type>toc</type>
+  <prefix>Article</prefix>
+  <num>206</num>
+  <heading>CRIMINAL JUDICIAL PROCEEDINGS</heading>
+  <ns0:include href="s28-206.1/28-206.1.xml" />
+  <ns0:include href="s28-206.1.1/28-206.1.1.xml" />
+</level>

@@ -1,0 +1,24 @@
+<level xmlns:ns0="http://www.w3.org/2001/XInclude">
+  <type>toc</type>
+  <prefix>Chapter</prefix>
+  <num>7</num>
+  <heading>COMMUNITY RIGHT-TO-KNOW LAW</heading>
+  <ns0:include href="s24-701/24-701.xml" />
+  <ns0:include href="s24-702/24-702.xml" />
+  <ns0:include href="s24-703/24-703.xml" />
+  <ns0:include href="s24-704/24-704.xml" />
+  <ns0:include href="s24-705/24-705.xml" />
+  <ns0:include href="s24-706/24-706.xml" />
+  <ns0:include href="s24-707/24-707.xml" />
+  <ns0:include href="s24-708/24-708.xml" />
+  <ns0:include href="s24-709/24-709.xml" />
+  <ns0:include href="s24-710/24-710.xml" />
+  <ns0:include href="s24-711/24-711.xml" />
+  <ns0:include href="s24-712/24-712.xml" />
+  <ns0:include href="s24-713/24-713.xml" />
+  <ns0:include href="s24-714/24-714.xml" />
+  <ns0:include href="s24-715/24-715.xml" />
+  <ns0:include href="s24-716/24-716.xml" />
+  <ns0:include href="s24-717/24-717.xml" />
+  <ns0:include href="s24-718/24-718.xml" />
+</level>

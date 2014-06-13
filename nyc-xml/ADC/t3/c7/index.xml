@@ -1,0 +1,28 @@
+<level xmlns:ns0="http://www.w3.org/2001/XInclude">
+  <type>toc</type>
+  <prefix>Chapter</prefix>
+  <num>7</num>
+  <heading>CAMPAIGN FINANCING</heading>
+  <ns0:include href="s3-701/3-701.xml" />
+  <ns0:include href="s3-702/3-702.xml" />
+  <ns0:include href="s3-703/3-703.xml" />
+  <ns0:include href="s3-704/3-704.xml" />
+  <ns0:include href="s3-705/3-705.xml" />
+  <ns0:include href="s3-706/3-706.xml" />
+  <ns0:include href="s3-707/3-707.xml" />
+  <ns0:include href="s3-708/3-708.xml" />
+  <ns0:include href="s3-709/3-709.xml" />
+  <ns0:include href="s3-709.5/3-709.5.xml" />
+  <ns0:include href="s3-710/3-710.xml" />
+  <ns0:include href="s3-710.5/3-710.5.xml" />
+  <ns0:include href="s3-711/3-711.xml" />
+  <ns0:include href="s3-712/3-712.xml" />
+  <ns0:include href="s3-713/3-713.xml" />
+  <ns0:include href="s3-714/3-714.xml" />
+  <ns0:include href="s3-715/3-715.xml" />
+  <ns0:include href="s3-716/3-716.xml" />
+  <ns0:include href="s3-717/3-717.xml" />
+  <ns0:include href="s3-718/3-718.xml" />
+  <ns0:include href="s3-719/3-719.xml" />
+  <ns0:include href="s3-720/3-720.xml" />
+</level>

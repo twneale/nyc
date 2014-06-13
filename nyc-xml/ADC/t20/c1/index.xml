@@ -1,0 +1,24 @@
+<level xmlns:ns0="http://www.w3.org/2001/XInclude">
+  <type>toc</type>
+  <prefix>Chapter</prefix>
+  <num>1</num>
+  <heading>LICENSE ENFORCEMENT</heading>
+  <ns0:include href="s20-101/20-101.xml" />
+  <ns0:include href="s20-102/20-102.xml" />
+  <ns0:include href="s20-103/20-103.xml" />
+  <ns0:include href="s20-104/20-104.xml" />
+  <ns0:include href="s20-105/20-105.xml" />
+  <ns0:include href="s20-106/20-106.xml" />
+  <ns0:include href="s20-107/20-107.xml" />
+  <ns0:include href="s20-108/20-108.xml" />
+  <ns0:include href="s20-109/20-109.xml" />
+  <ns0:include href="s20-110/20-110.xml" />
+  <ns0:include href="s20-111/20-111.xml" />
+  <ns0:include href="s20-112/20-112.xml" />
+  <ns0:include href="s20-113/20-113.xml" />
+  <ns0:include href="s20-114/20-114.xml" />
+  <ns0:include href="s20-115/20-115.xml" />
+  <ns0:include href="s20-116/20-116.xml" />
+  <ns0:include href="s20-117/20-117.xml" />
+  <ns0:include href="s20-118/20-118.xml" />
+</level>

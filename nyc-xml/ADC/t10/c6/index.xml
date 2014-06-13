@@ -1,0 +1,14 @@
+<level xmlns:ns0="http://www.w3.org/2001/XInclude">
+  <type>toc</type>
+  <prefix>Chapter</prefix>
+  <num>6</num>
+  <heading>GUN OFFENDER REGISTRATION ACT</heading>
+  <ns0:include href="s10-601/10-601.xml" />
+  <ns0:include href="s10-602/10-602.xml" />
+  <ns0:include href="s10-603/10-603.xml" />
+  <ns0:include href="s10-604/10-604.xml" />
+  <ns0:include href="s10-605/10-605.xml" />
+  <ns0:include href="s10-606/10-606.xml" />
+  <ns0:include href="s10-607/10-607.xml" />
+  <ns0:include href="s10-608/10-608.xml" />
+</level>

@@ -1,0 +1,12 @@
+<level xmlns:ns0="http://www.w3.org/2001/XInclude">
+  <type>toc</type>
+  <prefix>Article</prefix>
+  <num>2</num>
+  <heading>HIGH HAZARD OCCUPANCIES</heading>
+  <ns0:include href="s27-400/27-400.xml" />
+  <ns0:include href="s27-401/27-401.xml" />
+  <ns0:include href="s27-402/27-402.xml" />
+  <ns0:include href="s27-403/27-403.xml" />
+  <ns0:include href="s27-404/27-404.xml" />
+  <ns0:include href="s27-405/27-405.xml" />
+</level>

@@ -1,0 +1,8 @@
+<level xmlns:ns0="http://www.w3.org/2001/XInclude">
+  <type>toc</type>
+  <prefix>Chapter</prefix>
+  <num>3</num>
+  <heading>CIVIL RIGHTS DEMONSTRATION PROTECTION</heading>
+  <ns0:include href="s8-301/8-301.xml" />
+  <ns0:include href="s8-302/8-302.xml" />
+</level>

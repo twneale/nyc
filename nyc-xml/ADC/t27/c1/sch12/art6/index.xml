@@ -1,0 +1,13 @@
+<level xmlns:ns0="http://www.w3.org/2001/XInclude">
+  <type>toc</type>
+  <prefix>Article</prefix>
+  <num>6</num>
+  <heading>STANDARDS OF NATURAL VENTILATION</heading>
+  <ns0:include href="s27-745/27-745.xml" />
+  <ns0:include href="s27-746/27-746.xml" />
+  <ns0:include href="s27-747/27-747.xml" />
+  <ns0:include href="s27-748/27-748.xml" />
+  <ns0:include href="s27-749/27-749.xml" />
+  <ns0:include href="s27-750/27-750.xml" />
+  <ns0:include href="s27-751/27-751.xml" />
+</level>

@@ -1,0 +1,25 @@
+<level xmlns:ns0="http://www.w3.org/2001/XInclude">
+  <type>toc</type>
+  <prefix>Chapter</prefix>
+  <num>1</num>
+  <heading>ADMINISTRATION</heading>
+  <ns0:include href="art101/index.xml" />
+  <ns0:include href="art102/index.xml" />
+  <ns0:include href="art103/index.xml" />
+  <ns0:include href="art104/index.xml" />
+  <ns0:include href="art105/index.xml" />
+  <ns0:include href="art106/index.xml" />
+  <ns0:include href="art107/index.xml" />
+  <ns0:include href="art108/index.xml" />
+  <ns0:include href="art109/index.xml" />
+  <ns0:include href="art110/index.xml" />
+  <ns0:include href="art111/index.xml" />
+  <ns0:include href="art112/index.xml" />
+  <ns0:include href="art113/index.xml" />
+  <ns0:include href="art114/index.xml" />
+  <ns0:include href="art115/index.xml" />
+  <ns0:include href="art116/index.xml" />
+  <ns0:include href="art117/index.xml" />
+  <ns0:include href="art118/index.xml" />
+  <ns0:include href="art119/index.xml" />
+</level>

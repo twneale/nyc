@@ -1,0 +1,24 @@
+<level xmlns:ns0="http://www.w3.org/2001/XInclude">
+  <type>toc</type>
+  <prefix>Article</prefix>
+  <num>14</num>
+  <heading>LEAD POISONING PREVENTION AND CONTROL</heading>
+  <ns0:include href="s27-2056.1/27-2056.1.xml" />
+  <ns0:include href="s27-2056.2/27-2056.2.xml" />
+  <ns0:include href="s27-2056.3/27-2056.3.xml" />
+  <ns0:include href="s27-2056.4/27-2056.4.xml" />
+  <ns0:include href="s27-2056.5/27-2056.5.xml" />
+  <ns0:include href="s27-2056.6/27-2056.6.xml" />
+  <ns0:include href="s27-2056.7/27-2056.7.xml" />
+  <ns0:include href="s27-2056.8/27-2056.8.xml" />
+  <ns0:include href="s27-2056.9/27-2056.9.xml" />
+  <ns0:include href="s27-2056.10/27-2056.10.xml" />
+  <ns0:include href="s27-2056.11/27-2056.11.xml" />
+  <ns0:include href="s27-2056.12/27-2056.12.xml" />
+  <ns0:include href="s27-2056.13/27-2056.13.xml" />
+  <ns0:include href="s27-2056.14/27-2056.14.xml" />
+  <ns0:include href="s27-2056.15/27-2056.15.xml" />
+  <ns0:include href="s27-2056.16/27-2056.16.xml" />
+  <ns0:include href="s27-2056.17/27-2056.17.xml" />
+  <ns0:include href="s27-2056.18/27-2056.18.xml" />
+</level>

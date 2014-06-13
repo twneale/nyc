@@ -1,0 +1,36 @@
+<level xmlns:ns0="http://www.w3.org/2001/XInclude">
+  <type>toc</type>
+  <prefix>Title</prefix>
+  <num>11</num>
+  <heading>TAXATION AND FINANCE</heading>
+  <ns0:include href="c1/index.xml" />
+  <ns0:include href="c2/index.xml" />
+  <ns0:include href="c3/index.xml" />
+  <ns0:include href="c4/index.xml" />
+  <ns0:include href="c5/index.xml" />
+  <ns0:include href="c6/index.xml" />
+  <ns0:include href="c7/index.xml" />
+  <ns0:include href="c8/index.xml" />
+  <ns0:include href="c9/index.xml" />
+  <ns0:include href="c10/index.xml" />
+  <ns0:include href="c11/index.xml" />
+  <ns0:include href="c12/index.xml" />
+  <ns0:include href="c13/index.xml" />
+  <ns0:include href="c14/index.xml" />
+  <ns0:include href="c16/index.xml" />
+  <ns0:include href="c17/index.xml" />
+  <ns0:include href="c19/index.xml" />
+  <ns0:include href="c20/index.xml" />
+  <ns0:include href="c21/index.xml" />
+  <ns0:include href="c22/index.xml" />
+  <ns0:include href="c23/index.xml" />
+  <ns0:include href="c23-A/index.xml" />
+  <ns0:include href="c23-B/index.xml" />
+  <ns0:include href="c24/index.xml" />
+  <ns0:include href="c25/index.xml" />
+  <ns0:include href="c26/index.xml" />
+  <ns0:include href="c27/index.xml" />
+  <ns0:include href="c28/index.xml" />
+  <ns0:include href="c29/index.xml" />
+  <ns0:include href="c40/index.xml" />
+</level>

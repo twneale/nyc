@@ -1,0 +1,8 @@
+<level xmlns:ns0="http://www.w3.org/2001/XInclude">
+  <type>toc</type>
+  <prefix>Article</prefix>
+  <num>8</num>
+  <heading>EXIT SIGNS FOR EXISTING BUILDINGS</heading>
+  <ns0:include href="s27-388/27-388.xml" />
+  <ns0:include href="s27-389/27-389.xml" />
+</level>

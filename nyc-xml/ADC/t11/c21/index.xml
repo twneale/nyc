@@ -1,0 +1,24 @@
+<level xmlns:ns0="http://www.w3.org/2001/XInclude">
+  <type>toc</type>
+  <prefix>Chapter</prefix>
+  <num>21</num>
+  <heading>REAL PROPERTY TRANSFER TAX</heading>
+  <ns0:include href="s11-2101/11-2101.xml" />
+  <ns0:include href="s11-2102/11-2102.xml" />
+  <ns0:include href="s11-2103/11-2103.xml" />
+  <ns0:include href="s11-2104/11-2104.xml" />
+  <ns0:include href="s11-2105/11-2105.xml" />
+  <ns0:include href="s11-2106/11-2106.xml" />
+  <ns0:include href="s11-2107/11-2107.xml" />
+  <ns0:include href="s11-2108/11-2108.xml" />
+  <ns0:include href="s11-2109/11-2109.xml" />
+  <ns0:include href="s11-2110/11-2110.xml" />
+  <ns0:include href="s11-2111/11-2111.xml" />
+  <ns0:include href="s11-2112/11-2112.xml" />
+  <ns0:include href="s11-2113/11-2113.xml" />
+  <ns0:include href="s11-2114/11-2114.xml" />
+  <ns0:include href="s11-2115/11-2115.xml" />
+  <ns0:include href="s11-2116/11-2116.xml" />
+  <ns0:include href="s11-2117/11-2117.xml" />
+  <ns0:include href="s11-2118/11-2118.xml" />
+</level>

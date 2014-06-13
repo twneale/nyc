@@ -1,0 +1,9 @@
+<level xmlns:ns0="http://www.w3.org/2001/XInclude">
+  <type>toc</type>
+  <prefix>Article</prefix>
+  <num>10</num>
+  <heading>ARTIFICIAL LIGHTING</heading>
+  <ns0:include href="s27-2037/27-2037.xml" />
+  <ns0:include href="s27-2038/27-2038.xml" />
+  <ns0:include href="s27-2040/27-2040.xml" />
+</level>

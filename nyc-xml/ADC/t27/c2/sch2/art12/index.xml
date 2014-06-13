@@ -1,0 +1,11 @@
+<level xmlns:ns0="http://www.w3.org/2001/XInclude">
+  <type>toc</type>
+  <prefix>Article</prefix>
+  <num>12</num>
+  <heading>MISCELLANEOUS SERVICES AND FACILITIES</heading>
+  <ns0:include href="s27-2047/27-2047.xml" />
+  <ns0:include href="s27-2048/27-2048.xml" />
+  <ns0:include href="s27-2049/27-2049.xml" />
+  <ns0:include href="s27-2051/27-2051.xml" />
+  <ns0:include href="s27-2051.1/27-2051.1.xml" />
+</level>

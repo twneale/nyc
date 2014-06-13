@@ -1,0 +1,9 @@
+<level xmlns:ns0="http://www.w3.org/2001/XInclude">
+  <type>toc</type>
+  <prefix>Subchapter</prefix>
+  <num>3</num>
+  <heading>REFUSE BURNING EQUIPMENT, REFUSE COMPACTING SYSTEMS AND REFUSE CONTAINERIZATION SYSTEMS</heading>
+  <ns0:include href="s24-117/24-117.xml" />
+  <ns0:include href="s24-118/24-118.xml" />
+  <ns0:include href="s24-119/24-119.xml" />
+</level>

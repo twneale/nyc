@@ -1,0 +1,15 @@
+<level xmlns:ns0="http://www.w3.org/2001/XInclude">
+  <type>toc</type>
+  <prefix>Subchapter</prefix>
+  <num>7</num>
+  <heading>INFORMATION WITH RESPECT TO FUNERAL COSTS</heading>
+  <ns0:include href="s20-730/20-730.xml" />
+  <ns0:include href="s20-731/20-731.xml" />
+  <ns0:include href="s20-732/20-732.xml" />
+  <ns0:include href="s20-733/20-733.xml" />
+  <ns0:include href="s20-734/20-734.xml" />
+  <ns0:include href="s20-735/20-735.xml" />
+  <ns0:include href="s20-736/20-736.xml" />
+  <ns0:include href="s20-737/20-737.xml" />
+  <ns0:include href="s20-738/20-738.xml" />
+</level>

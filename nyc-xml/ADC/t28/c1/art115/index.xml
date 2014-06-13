@@ -1,0 +1,9 @@
+<level xmlns:ns0="http://www.w3.org/2001/XInclude">
+  <type>toc</type>
+  <prefix>Article</prefix>
+  <num>115</num>
+  <heading>SPECIAL INSPECTORS</heading>
+  <ns0:include href="s28-115.1/28-115.1.xml" />
+  <ns0:include href="s28-115.2/28-115.2.xml" />
+  <ns0:include href="s28-115.3/28-115.3.xml" />
+</level>

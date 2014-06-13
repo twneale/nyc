@@ -1,0 +1,7 @@
+<level xmlns:ns0="http://www.w3.org/2001/XInclude">
+  <type>toc</type>
+  <prefix>Subchapter</prefix>
+  <num>6</num>
+  <heading>CLEANING PRODUCTS</heading>
+  <ns0:include href="s6-3l6/6-3l6.xml" />
+</level>

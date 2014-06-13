@@ -1,0 +1,15 @@
+<level xmlns:ns0="http://www.w3.org/2001/XInclude">
+  <type>toc</type>
+  <prefix>Subchapter</prefix>
+  <num>7</num>
+  <heading>TATTOO REGULATION ACT</heading>
+  <ns0:include href="s17-355/17-355.xml" />
+  <ns0:include href="s17-356/17-356.xml" />
+  <ns0:include href="s17-357/17-357.xml" />
+  <ns0:include href="s17-358/17-358.xml" />
+  <ns0:include href="s17-359/17-359.xml" />
+  <ns0:include href="s17-360/17-360.xml" />
+  <ns0:include href="s17-361/17-361.xml" />
+  <ns0:include href="s17-362/17-362.xml" />
+  <ns0:include href="s17-363/17-363.xml" />
+</level>

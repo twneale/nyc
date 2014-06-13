@@ -1,0 +1,13 @@
+<level xmlns:ns0="http://www.w3.org/2001/XInclude">
+  <type>toc</type>
+  <prefix>Chapter</prefix>
+  <num>4-E</num>
+  <heading>RECOVERY OF REFRIGERANTS</heading>
+  <ns0:include href="s16-480/16-480.xml" />
+  <ns0:include href="s16-481/16-481.xml" />
+  <ns0:include href="s16-482/16-482.xml" />
+  <ns0:include href="s16-483/16-483.xml" />
+  <ns0:include href="s16-484/16-484.xml" />
+  <ns0:include href="s16-485/16-485.xml" />
+  <ns0:include href="s16-486/16-486.xml" />
+</level>

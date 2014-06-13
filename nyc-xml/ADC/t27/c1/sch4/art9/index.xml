@@ -1,0 +1,9 @@
+<level xmlns:ns0="http://www.w3.org/2001/XInclude">
+  <type>toc</type>
+  <prefix>Article</prefix>
+  <num>9</num>
+  <heading>PERMISSIBLE PROJECTIONS BEYOND STREET LINES</heading>
+  <ns0:include href="s27-313/27-313.xml" />
+  <ns0:include href="s27-314/27-314.xml" />
+  <ns0:include href="s27-315/27-315.xml" />
+</level>

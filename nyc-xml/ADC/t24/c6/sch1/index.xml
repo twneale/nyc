@@ -1,0 +1,9 @@
+<level xmlns:ns0="http://www.w3.org/2001/XInclude">
+  <type>toc</type>
+  <prefix>Subchapter</prefix>
+  <num>1</num>
+  <heading>SHORT TITLE, POLICY AND DEFINITIONS</heading>
+  <ns0:include href="s24-601/24-601.xml" />
+  <ns0:include href="s24-602/24-602.xml" />
+  <ns0:include href="s24-603/24-603.xml" />
+</level>

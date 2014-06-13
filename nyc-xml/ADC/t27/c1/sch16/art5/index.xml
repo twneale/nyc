@@ -1,0 +1,9 @@
+<level xmlns:ns0="http://www.w3.org/2001/XInclude">
+  <type>toc</type>
+  <prefix>Article</prefix>
+  <num>5</num>
+  <heading>SWIMMING POOLS</heading>
+  <ns0:include href="s27-913/27-913.xml" />
+  <ns0:include href="s27-914/27-914.xml" />
+  <ns0:include href="s27-915/27-915.xml" />
+</level>

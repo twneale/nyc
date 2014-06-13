@@ -1,0 +1,13 @@
+<level xmlns:ns0="http://www.w3.org/2001/XInclude">
+  <type>toc</type>
+  <prefix>Article</prefix>
+  <num>17</num>
+  <heading>YOUTH PROTECTION AGAINST TOBACCO ADVERTISING AND PROMOTION ACT</heading>
+  <ns0:include href="s27-508.1/27-508.1.xml" />
+  <ns0:include href="s27-508.2/27-508.2.xml" />
+  <ns0:include href="s27-508.3/27-508.3.xml" />
+  <ns0:include href="s27-508.4/27-508.4.xml" />
+  <ns0:include href="s27-508.5/27-508.5.xml" />
+  <ns0:include href="s27-508.6/27-508.6.xml" />
+  <ns0:include href="s27-508.7/27-508.7.xml" />
+</level>

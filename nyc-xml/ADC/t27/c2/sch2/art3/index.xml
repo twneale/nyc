@@ -1,0 +1,10 @@
+<level xmlns:ns0="http://www.w3.org/2001/XInclude">
+  <type>toc</type>
+  <prefix>Article</prefix>
+  <num>3</num>
+  <heading>PAINTING</heading>
+  <ns0:include href="s27-2013/27-2013.xml" />
+  <ns0:include href="s27-2014/27-2014.xml" />
+  <ns0:include href="s27-2015/27-2015.xml" />
+  <ns0:include href="s27-2016/27-2016.xml" />
+</level>

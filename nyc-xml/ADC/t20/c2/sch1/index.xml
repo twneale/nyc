@@ -1,0 +1,13 @@
+<level xmlns:ns0="http://www.w3.org/2001/XInclude">
+  <type>toc</type>
+  <prefix>Subchapter</prefix>
+  <num>1</num>
+  <heading>RETAIL CIGARETTE DEALERS</heading>
+  <ns0:include href="s20-201/20-201.xml" />
+  <ns0:include href="s20-202/20-202.xml" />
+  <ns0:include href="s20-203/20-203.xml" />
+  <ns0:include href="s20-204/20-204.xml" />
+  <ns0:include href="s20-205/20-205.xml" />
+  <ns0:include href="s20-206/20-206.xml" />
+  <ns0:include href="s20-207/20-207.xml" />
+</level>

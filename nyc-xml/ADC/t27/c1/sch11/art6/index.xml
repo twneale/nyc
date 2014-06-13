@@ -1,0 +1,11 @@
+<level xmlns:ns0="http://www.w3.org/2001/XInclude">
+  <type>toc</type>
+  <prefix>Article</prefix>
+  <num>6</num>
+  <heading>FOOTINGS, FOUNDATION PIERS, AND FOUNDATION WALLS</heading>
+  <ns0:include href="s27-683/27-683.xml" />
+  <ns0:include href="s27-684/27-684.xml" />
+  <ns0:include href="s27-685/27-685.xml" />
+  <ns0:include href="s27-686/27-686.xml" />
+  <ns0:include href="s27-687/27-687.xml" />
+</level>

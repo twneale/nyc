@@ -1,0 +1,17 @@
+<level xmlns:ns0="http://www.w3.org/2001/XInclude">
+  <type>toc</type>
+  <prefix>Article</prefix>
+  <num>1</num>
+  <heading>SCOPE AND GENERAL REQUIREMENTS</heading>
+  <ns0:include href="s27-580/27-580.xml" />
+  <ns0:include href="s27-581/27-581.xml" />
+  <ns0:include href="s27-582/27-582.xml" />
+  <ns0:include href="s27-583/27-583.xml" />
+  <ns0:include href="s27-584/27-584.xml" />
+  <ns0:include href="s27-585/27-585.xml" />
+  <ns0:include href="s27-586/27-586.xml" />
+  <ns0:include href="s27-587/27-587.xml" />
+  <ns0:include href="s27-588/27-588.xml" />
+  <ns0:include href="s27-589/27-589.xml" />
+  <ns0:include href="s27-590/27-590.xml" />
+</level>

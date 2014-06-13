@@ -1,0 +1,38 @@
+<level xmlns:ns0="http://www.w3.org/2001/XInclude">
+  <type>toc</type>
+  <prefix>ADC</prefix>
+  <num />
+  <heading>New York City Administrative Code(NEW)</heading>
+  <ns0:include href="t1/index.xml" />
+  <ns0:include href="t2/index.xml" />
+  <ns0:include href="t3/index.xml" />
+  <ns0:include href="t4/index.xml" />
+  <ns0:include href="t5/index.xml" />
+  <ns0:include href="t6/index.xml" />
+  <ns0:include href="t7/index.xml" />
+  <ns0:include href="t8/index.xml" />
+  <ns0:include href="t9/index.xml" />
+  <ns0:include href="t10/index.xml" />
+  <ns0:include href="t11/index.xml" />
+  <ns0:include href="t12/index.xml" />
+  <ns0:include href="t13/index.xml" />
+  <ns0:include href="t14/index.xml" />
+  <ns0:include href="t15/index.xml" />
+  <ns0:include href="t16/index.xml" />
+  <ns0:include href="t16-A/index.xml" />
+  <ns0:include href="t17/index.xml" />
+  <ns0:include href="t18/index.xml" />
+  <ns0:include href="t19/index.xml" />
+  <ns0:include href="t20/index.xml" />
+  <ns0:include href="t20-A/index.xml" />
+  <ns0:include href="t21/index.xml" />
+  <ns0:include href="t22/index.xml" />
+  <ns0:include href="t23/index.xml" />
+  <ns0:include href="t24/index.xml" />
+  <ns0:include href="t25/index.xml" />
+  <ns0:include href="t26/index.xml" />
+  <ns0:include href="t27/index.xml" />
+  <ns0:include href="t28/index.xml" />
+  <ns0:include href="t29/index.xml" />
+  <ns0:include href="t30/index.xml" />
+</level>

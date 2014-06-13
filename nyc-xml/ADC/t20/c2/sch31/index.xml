@@ -1,0 +1,45 @@
+<level xmlns:ns0="http://www.w3.org/2001/XInclude">
+  <type>toc</type>
+  <prefix>Subchapter</prefix>
+  <num>31</num>
+  <heading>TOWING VEHICLES</heading>
+  <ns0:include href="s20-495/20-495.xml" />
+  <ns0:include href="s20-496/20-496.xml" />
+  <ns0:include href="s20-497/20-497.xml" />
+  <ns0:include href="s20-498/20-498.xml" />
+  <ns0:include href="s20-499/20-499.xml" />
+  <ns0:include href="s20-500/20-500.xml" />
+  <ns0:include href="s20-501/20-501.xml" />
+  <ns0:include href="s20-502/20-502.xml" />
+  <ns0:include href="s20-503/20-503.xml" />
+  <ns0:include href="s20-504/20-504.xml" />
+  <ns0:include href="s20-504.1/20-504.1.xml" />
+  <ns0:include href="s20-505/20-505.xml" />
+  <ns0:include href="s20-506/20-506.xml" />
+  <ns0:include href="s20-507/20-507.xml" />
+  <ns0:include href="s20-508/20-508.xml" />
+  <ns0:include href="s20-509/20-509.xml" />
+  <ns0:include href="s20-509.1/20-509.1.xml" />
+  <ns0:include href="s20-510/20-510.xml" />
+  <ns0:include href="s20-511/20-511.xml" />
+  <ns0:include href="s20-512/20-512.xml" />
+  <ns0:include href="s20-514/20-514.xml" />
+  <ns0:include href="s20-515/20-515.xml" />
+  <ns0:include href="s20-516/20-516.xml" />
+  <ns0:include href="s20-517/20-517.xml" />
+  <ns0:include href="s20-518/20-518.xml" />
+  <ns0:include href="s20-518.1/20-518.1.xml" />
+  <ns0:include href="s20-519/20-519.xml" />
+  <ns0:include href="s20-520/20-520.xml" />
+  <ns0:include href="s20-520.1/20-520.1.xml" />
+  <ns0:include href="s20-521/20-521.xml" />
+  <ns0:include href="s20-522/20-522.xml" />
+  <ns0:include href="s20-522.1/20-522.1.xml" />
+  <ns0:include href="s20-523/20-523.xml" />
+  <ns0:include href="s20-524/20-524.xml" />
+  <ns0:include href="s20-525/20-525.xml" />
+  <ns0:include href="s20-526/20-526.xml" />
+  <ns0:include href="s20-527/20-527.xml" />
+  <ns0:include href="s20-528/20-528.xml" />
+  <ns0:include href="s20-529/20-529.xml" />
+</level>

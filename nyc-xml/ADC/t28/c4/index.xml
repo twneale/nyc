@@ -1,0 +1,26 @@
+<level xmlns:ns0="http://www.w3.org/2001/XInclude">
+  <type>toc</type>
+  <prefix>Chapter</prefix>
+  <num>4</num>
+  <heading>LICENSING AND REGISTRATION OF BUSINESSES, TRADES AND OCCUPATIONS ENGAGED IN BUILDING WORK</heading>
+  <ns0:include href="art401/index.xml" />
+  <ns0:include href="art402/index.xml" />
+  <ns0:include href="art403/index.xml" />
+  <ns0:include href="art404/index.xml" />
+  <ns0:include href="art405/index.xml" />
+  <ns0:include href="art406/index.xml" />
+  <ns0:include href="art407/index.xml" />
+  <ns0:include href="art408/index.xml" />
+  <ns0:include href="art409/index.xml" />
+  <ns0:include href="art410/index.xml" />
+  <ns0:include href="art411/index.xml" />
+  <ns0:include href="art412/index.xml" />
+  <ns0:include href="art413/index.xml" />
+  <ns0:include href="art414/index.xml" />
+  <ns0:include href="art415/index.xml" />
+  <ns0:include href="art416/index.xml" />
+  <ns0:include href="art417/index.xml" />
+  <ns0:include href="art418/index.xml" />
+  <ns0:include href="art419/index.xml" />
+  <ns0:include href="art420/index.xml" />
+</level>

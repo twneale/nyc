@@ -1,0 +1,15 @@
+<level xmlns:ns0="http://www.w3.org/2001/XInclude">
+  <type>toc</type>
+  <prefix>Subchapter</prefix>
+  <num>32</num>
+  <heading>BOOTING OF MOTOR VEHICLES</heading>
+  <ns0:include href="s20-531/20-531.xml" />
+  <ns0:include href="s20-532/20-532.xml" />
+  <ns0:include href="s20-532.1/20-532.1.xml" />
+  <ns0:include href="s20-533/20-533.xml" />
+  <ns0:include href="s20-534/20-534.xml" />
+  <ns0:include href="s20-535/20-535.xml" />
+  <ns0:include href="s20-536/20-536.xml" />
+  <ns0:include href="s20-537/20-537.xml" />
+  <ns0:include href="s20-538/20-538.xml" />
+</level>

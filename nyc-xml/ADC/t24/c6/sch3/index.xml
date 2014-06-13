@@ -1,0 +1,12 @@
+<level xmlns:ns0="http://www.w3.org/2001/XInclude">
+  <type>toc</type>
+  <prefix>Subchapter</prefix>
+  <num>3</num>
+  <heading>HAZARDOUS SUBSTANCE RELEASE; EMERGENCY RESPONSE</heading>
+  <ns0:include href="s24-607/24-607.xml" />
+  <ns0:include href="s24-608/24-608.xml" />
+  <ns0:include href="s24-609/24-609.xml" />
+  <ns0:include href="s24-610/24-610.xml" />
+  <ns0:include href="s24-611/24-611.xml" />
+  <ns0:include href="s24-612/24-612.xml" />
+</level>

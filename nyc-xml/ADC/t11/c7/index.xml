@@ -1,0 +1,26 @@
+<level xmlns:ns0="http://www.w3.org/2001/XInclude">
+  <type>toc</type>
+  <prefix>Chapter</prefix>
+  <num>7</num>
+  <heading>COMMERCIAL RENT OR OCCUPANCY TAX</heading>
+  <ns0:include href="s11-701/11-701.xml" />
+  <ns0:include href="s11-702/11-702.xml" />
+  <ns0:include href="s11-703/11-703.xml" />
+  <ns0:include href="s11-704/11-704.xml" />
+  <ns0:include href="s11-704.2/11-704.2.xml" />
+  <ns0:include href="s11-704.3/11-704.3.xml" />
+  <ns0:include href="s11-705/11-705.xml" />
+  <ns0:include href="s11-706/11-706.xml" />
+  <ns0:include href="s11-707/11-707.xml" />
+  <ns0:include href="s11-708/11-708.xml" />
+  <ns0:include href="s11-709/11-709.xml" />
+  <ns0:include href="s11-710/11-710.xml" />
+  <ns0:include href="s11-711/11-711.xml" />
+  <ns0:include href="s11-712/11-712.xml" />
+  <ns0:include href="s11-713/11-713.xml" />
+  <ns0:include href="s11-714/11-714.xml" />
+  <ns0:include href="s11-715/11-715.xml" />
+  <ns0:include href="s11-716/11-716.xml" />
+  <ns0:include href="s11-717/11-717.xml" />
+  <ns0:include href="s11-718/11-718.xml" />
+</level>

@@ -1,0 +1,14 @@
+<level xmlns:ns0="http://www.w3.org/2001/XInclude">
+  <type>toc</type>
+  <prefix>Article</prefix>
+  <num>501</num>
+  <heading>MAINTENANCE PERMIT FOR OUTDOOR SIGNS</heading>
+  <ns0:include href="s28-501.1/28-501.1.xml" />
+  <ns0:include href="s28-501.1.1/28-501.1.1.xml" />
+  <ns0:include href="s28-501.1.2/28-501.1.2.xml" />
+  <ns0:include href="s28-501.2/28-501.2.xml" />
+  <ns0:include href="s28-501.3/28-501.3.xml" />
+  <ns0:include href="s28-501.4/28-501.4.xml" />
+  <ns0:include href="s28-501.5/28-501.5.xml" />
+  <ns0:include href="s28-501.6/28-501.6.xml" />
+</level>

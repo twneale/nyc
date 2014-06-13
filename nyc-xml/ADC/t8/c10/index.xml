@@ -1,0 +1,17 @@
+<level xmlns:ns0="http://www.w3.org/2001/XInclude">
+  <type>toc</type>
+  <prefix>Chapter</prefix>
+  <num>10</num>
+  <heading>EQUAL ACCESS TO HUMAN SERVICES</heading>
+  <ns0:include href="s8-1001/8-1001.xml" />
+  <ns0:include href="s8-1002/8-1002.xml" />
+  <ns0:include href="s8-1003/8-1003.xml" />
+  <ns0:include href="s8-1004/8-1004.xml" />
+  <ns0:include href="s8-1005/8-1005.xml" />
+  <ns0:include href="s8-1006/8-1006.xml" />
+  <ns0:include href="s8-1007/8-1007.xml" />
+  <ns0:include href="s8-1008/8-1008.xml" />
+  <ns0:include href="s8-1009/8-1009.xml" />
+  <ns0:include href="s8-1010/8-1010.xml" />
+  <ns0:include href="s8-1011/8-1011.xml" />
+</level>

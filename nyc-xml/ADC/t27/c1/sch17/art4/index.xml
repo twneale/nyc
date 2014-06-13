@@ -1,0 +1,20 @@
+<level xmlns:ns0="http://www.w3.org/2001/XInclude">
+  <type>toc</type>
+  <prefix>Article</prefix>
+  <num>4</num>
+  <heading>AUTOMATIC SPRINKLER REQUIREMENTS</heading>
+  <ns0:include href="s27-954/27-954.xml" />
+  <ns0:include href="s27-955/27-955.xml" />
+  <ns0:include href="s27-956/27-956.xml" />
+  <ns0:include href="s27-957/27-957.xml" />
+  <ns0:include href="s27-958/27-958.xml" />
+  <ns0:include href="s27-959/27-959.xml" />
+  <ns0:include href="s27-960/27-960.xml" />
+  <ns0:include href="s27-961/27-961.xml" />
+  <ns0:include href="s27-962/27-962.xml" />
+  <ns0:include href="s27-963/27-963.xml" />
+  <ns0:include href="s27-964/27-964.xml" />
+  <ns0:include href="s27-965/27-965.xml" />
+  <ns0:include href="s27-966/27-966.xml" />
+  <ns0:include href="s27-967/27-967.xml" />
+</level>

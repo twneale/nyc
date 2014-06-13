@@ -1,0 +1,22 @@
+<level xmlns:ns0="http://www.w3.org/2001/XInclude">
+  <type>toc</type>
+  <prefix>Article</prefix>
+  <num>18</num>
+  <heading>REFUSE DISPOSAL SYSTEMS</heading>
+  <ns0:include href="s27-833/27-833.xml" />
+  <ns0:include href="s27-834/27-834.xml" />
+  <ns0:include href="s27-835/27-835.xml" />
+  <ns0:include href="s27-836/27-836.xml" />
+  <ns0:include href="s27-837/27-837.xml" />
+  <ns0:include href="s27-838/27-838.xml" />
+  <ns0:include href="s27-839/27-839.xml" />
+  <ns0:include href="s27-840/27-840.xml" />
+  <ns0:include href="s27-841/27-841.xml" />
+  <ns0:include href="s27-842/27-842.xml" />
+  <ns0:include href="s27-843/27-843.xml" />
+  <ns0:include href="s27-844/27-844.xml" />
+  <ns0:include href="s27-845/27-845.xml" />
+  <ns0:include href="s27-846/27-846.xml" />
+  <ns0:include href="s27-847/27-847.xml" />
+  <ns0:include href="s27-848/27-848.xml" />
+</level>

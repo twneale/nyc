@@ -1,0 +1,18 @@
+<level xmlns:ns0="http://www.w3.org/2001/XInclude">
+  <type>toc</type>
+  <prefix>Subchapter</prefix>
+  <num>11</num>
+  <heading>DEALERS IN SECOND-HAND ARTICLES</heading>
+  <ns0:include href="s20-264/20-264.xml" />
+  <ns0:include href="s20-265/20-265.xml" />
+  <ns0:include href="s20-266/20-266.xml" />
+  <ns0:include href="s20-266.1/20-266.1.xml" />
+  <ns0:include href="s20-267/20-267.xml" />
+  <ns0:include href="s20-268/20-268.xml" />
+  <ns0:include href="s20-269/20-269.xml" />
+  <ns0:include href="s20-270/20-270.xml" />
+  <ns0:include href="s20-271/20-271.xml" />
+  <ns0:include href="s20-272/20-272.xml" />
+  <ns0:include href="s20-273/20-273.xml" />
+  <ns0:include href="s20-275/20-275.xml" />
+</level>

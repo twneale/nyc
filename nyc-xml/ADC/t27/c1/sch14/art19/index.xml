@@ -1,0 +1,18 @@
+<level xmlns:ns0="http://www.w3.org/2001/XInclude">
+  <type>toc</type>
+  <prefix>Article</prefix>
+  <num>19</num>
+  <heading>SOLID FUEL FIREPLACES, FIREPLACE STOVES AND ROOM HEATERS</heading>
+  <ns0:include href="s27-848.01/27-848.01.xml" />
+  <ns0:include href="s27-848.02/27-848.02.xml" />
+  <ns0:include href="s27-848.03/27-848.03.xml" />
+  <ns0:include href="s27-848.04/27-848.04.xml" />
+  <ns0:include href="s27-848.05/27-848.05.xml" />
+  <ns0:include href="s27-848.06/27-848.06.xml" />
+  <ns0:include href="s27-848.07/27-848.07.xml" />
+  <ns0:include href="s27-848.08/27-848.08.xml" />
+  <ns0:include href="s27-848.09/27-848.09.xml" />
+  <ns0:include href="s27-848.10/27-848.10.xml" />
+  <ns0:include href="s27-848.11/27-848.11.xml" />
+  <ns0:include href="s27-848.12/27-848.12.xml" />
+</level>

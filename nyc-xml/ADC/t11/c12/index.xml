@@ -1,0 +1,22 @@
+<level xmlns:ns0="http://www.w3.org/2001/XInclude">
+  <type>toc</type>
+  <prefix>Chapter</prefix>
+  <num>12</num>
+  <heading>HORSE RACE ADMISSIONS TAX</heading>
+  <ns0:include href="s11-1201/11-1201.xml" />
+  <ns0:include href="s11-1202/11-1202.xml" />
+  <ns0:include href="s11-1203/11-1203.xml" />
+  <ns0:include href="s11-1204/11-1204.xml" />
+  <ns0:include href="s11-1205/11-1205.xml" />
+  <ns0:include href="s11-1206/11-1206.xml" />
+  <ns0:include href="s11-1207/11-1207.xml" />
+  <ns0:include href="s11-1208/11-1208.xml" />
+  <ns0:include href="s11-1209/11-1209.xml" />
+  <ns0:include href="s11-1210/11-1210.xml" />
+  <ns0:include href="s11-1211/11-1211.xml" />
+  <ns0:include href="s11-1212/11-1212.xml" />
+  <ns0:include href="s11-1213/11-1213.xml" />
+  <ns0:include href="s11-1214/11-1214.xml" />
+  <ns0:include href="s11-1215/11-1215.xml" />
+  <ns0:include href="s11-1216/11-1216.xml" />
+</level>

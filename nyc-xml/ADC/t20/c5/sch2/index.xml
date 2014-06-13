@@ -1,0 +1,12 @@
+<level xmlns:ns0="http://www.w3.org/2001/XInclude">
+  <type>toc</type>
+  <prefix>Subchapter</prefix>
+  <num>2</num>
+  <heading>TRUTH-IN-PRICING LAW</heading>
+  <ns0:include href="s20-707/20-707.xml" />
+  <ns0:include href="s20-708/20-708.xml" />
+  <ns0:include href="s20-708.1/20-708.1.xml" />
+  <ns0:include href="s20-709/20-709.xml" />
+  <ns0:include href="s20-710/20-710.xml" />
+  <ns0:include href="s20-711/20-711.xml" />
+</level>

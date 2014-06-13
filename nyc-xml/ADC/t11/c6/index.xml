@@ -1,0 +1,11 @@
+<level xmlns:ns0="http://www.w3.org/2001/XInclude">
+  <type>toc</type>
+  <prefix>Chapter</prefix>
+  <num>6</num>
+  <heading>CITY BUSINESS TAXES</heading>
+  <ns0:include href="sch1/index.xml" />
+  <ns0:include href="sch2/index.xml" />
+  <ns0:include href="sch3/index.xml" />
+  <ns0:include href="sch4/index.xml" />
+  <ns0:include href="sch5/index.xml" />
+</level>

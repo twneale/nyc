@@ -1,0 +1,12 @@
+<level xmlns:ns0="http://www.w3.org/2001/XInclude">
+  <type>toc</type>
+  <prefix>Subchapter</prefix>
+  <num>4</num>
+  <heading>BILLIARD AND POCKET BILLIARD TABLES AND BILLIARD AND POCKET BILLIARD ROOMS</heading>
+  <ns0:include href="s20-215/20-215.xml" />
+  <ns0:include href="s20-216/20-216.xml" />
+  <ns0:include href="s20-217/20-217.xml" />
+  <ns0:include href="s20-218/20-218.xml" />
+  <ns0:include href="s20-219/20-219.xml" />
+  <ns0:include href="s20-220/20-220.xml" />
+</level>

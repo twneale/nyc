@@ -1,0 +1,15 @@
+<level xmlns:ns0="http://www.w3.org/2001/XInclude">
+  <type>toc</type>
+  <prefix>Subchapter</prefix>
+  <num>5</num>
+  <heading>PROHIBITED NOISE SPECIFIC NOISE SOURCES--SOUND LEVEL STANDARD</heading>
+  <ns0:include href="s24-225/24-225.xml" />
+  <ns0:include href="s24-226/24-226.xml" />
+  <ns0:include href="s24-227/24-227.xml" />
+  <ns0:include href="s24-228/24-228.xml" />
+  <ns0:include href="s24-228.1/24-228.1.xml" />
+  <ns0:include href="s24-229/24-229.xml" />
+  <ns0:include href="s24-230/24-230.xml" />
+  <ns0:include href="s24-231/24-231.xml" />
+  <ns0:include href="s24-232/24-232.xml" />
+</level>

@@ -1,0 +1,11 @@
+<level xmlns:ns0="http://www.w3.org/2001/XInclude">
+  <type>toc</type>
+  <prefix>Article</prefix>
+  <num>13</num>
+  <heading>OPEN PARKING LOTS</heading>
+  <ns0:include href="s27-479/27-479.xml" />
+  <ns0:include href="s27-480/27-480.xml" />
+  <ns0:include href="s27-481/27-481.xml" />
+  <ns0:include href="s27-482/27-482.xml" />
+  <ns0:include href="s27-483/27-483.xml" />
+</level>

@@ -1,0 +1,17 @@
+<level xmlns:ns0="http://www.w3.org/2001/XInclude">
+  <type>toc</type>
+  <prefix>Article</prefix>
+  <num>303</num>
+  <heading>PERIODIC BOILER INSPECTIONS</heading>
+  <ns0:include href="s28-303.1/28-303.1.xml" />
+  <ns0:include href="s28-303.2/28-303.2.xml" />
+  <ns0:include href="s28-303.2.1/28-303.2.1.xml" />
+  <ns0:include href="s28-303.3/28-303.3.xml" />
+  <ns0:include href="s28-303.4/28-303.4.xml" />
+  <ns0:include href="s28-303.5/28-303.5.xml" />
+  <ns0:include href="s28-303.6/28-303.6.xml" />
+  <ns0:include href="s28-303.7/28-303.7.xml" />
+  <ns0:include href="s28-303.8/28-303.8.xml" />
+  <ns0:include href="s28-303.9/28-303.9.xml" />
+  <ns0:include href="s28-303.10/28-303.10.xml" />
+</level>

@@ -1,0 +1,28 @@
+<level xmlns:ns0="http://www.w3.org/2001/XInclude">
+  <type>toc</type>
+  <prefix>Article</prefix>
+  <num>2</num>
+  <heading>BUILDING ACCESS</heading>
+  <ns0:include href="s27-291/27-291.xml" />
+  <ns0:include href="s27-292/27-292.xml" />
+  <ns0:include href="s27-292.1/27-292.1.xml" />
+  <ns0:include href="s27-292.2/27-292.2.xml" />
+  <ns0:include href="s27-292.3/27-292.3.xml" />
+  <ns0:include href="s27-292.4/27-292.4.xml" />
+  <ns0:include href="s27-292.5/27-292.5.xml" />
+  <ns0:include href="s27-292.6/27-292.6.xml" />
+  <ns0:include href="s27-292.7/27-292.7.xml" />
+  <ns0:include href="s27-292.8/27-292.8.xml" />
+  <ns0:include href="s27-292.9/27-292.9.xml" />
+  <ns0:include href="s27-292.10/27-292.10.xml" />
+  <ns0:include href="s27-292.11/27-292.11.xml" />
+  <ns0:include href="s27-292.12/27-292.12.xml" />
+  <ns0:include href="s27-292.13/27-292.13.xml" />
+  <ns0:include href="s27-292.14/27-292.14.xml" />
+  <ns0:include href="s27-292.15/27-292.15.xml" />
+  <ns0:include href="s27-292.16/27-292.16.xml" />
+  <ns0:include href="s27-292.17/27-292.17.xml" />
+  <ns0:include href="s27-292.18/27-292.18.xml" />
+  <ns0:include href="s27-292.19/27-292.19.xml" />
+  <ns0:include href="s27-292.20/27-292.20.xml" />
+</level>

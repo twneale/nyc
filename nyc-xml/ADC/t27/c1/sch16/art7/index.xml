@@ -1,0 +1,10 @@
+<level xmlns:ns0="http://www.w3.org/2001/XInclude">
+  <type>toc</type>
+  <prefix>Article</prefix>
+  <num>7</num>
+  <heading>INSPECTION AND TESTS</heading>
+  <ns0:include href="s27-919/27-919.xml" />
+  <ns0:include href="s27-920/27-920.xml" />
+  <ns0:include href="s27-921/27-921.xml" />
+  <ns0:include href="s27-922/27-922.xml" />
+</level>

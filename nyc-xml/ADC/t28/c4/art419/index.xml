@@ -1,0 +1,28 @@
+<level xmlns:ns0="http://www.w3.org/2001/XInclude">
+  <type>toc</type>
+  <prefix>Article</prefix>
+  <num>419</num>
+  <heading>SEIZURE AND FORFEITURE</heading>
+  <ns0:include href="s28-419.1/28-419.1.xml" />
+  <ns0:include href="s28-419.2/28-419.2.xml" />
+  <ns0:include href="s28-419.3/28-419.3.xml" />
+  <ns0:include href="s28-419.3.1/28-419.3.1.xml" />
+  <ns0:include href="s28-419.3.2/28-419.3.2.xml" />
+  <ns0:include href="s28-419.3.3/28-419.3.3.xml" />
+  <ns0:include href="s28-419.3.4/28-419.3.4.xml" />
+  <ns0:include href="s28-419.3.5/28-419.3.5.xml" />
+  <ns0:include href="s28-419.3.6/28-419.3.6.xml" />
+  <ns0:include href="s28-419.4/28-419.4.xml" />
+  <ns0:include href="s28-419.5/28-419.5.xml" />
+  <ns0:include href="s28-419.5.1/28-419.5.1.xml" />
+  <ns0:include href="s28-419.5.2/28-419.5.2.xml" />
+  <ns0:include href="s28-419.5.3/28-419.5.3.xml" />
+  <ns0:include href="s28-419.6/28-419.6.xml" />
+  <ns0:include href="s28-419.7/28-419.7.xml" />
+  <ns0:include href="s28-419.7.1/28-419.7.1.xml" />
+  <ns0:include href="s28-419.7.2/28-419.7.2.xml" />
+  <ns0:include href="s28-419.7.3/28-419.7.3.xml" />
+  <ns0:include href="s28-419.7.4/28-419.7.4.xml" />
+  <ns0:include href="s28-419.7.5/28-419.7.5.xml" />
+  <ns0:include href="s28-419.7.6/28-419.7.6.xml" />
+</level>

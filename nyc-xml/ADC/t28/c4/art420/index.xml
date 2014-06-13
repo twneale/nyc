@@ -1,0 +1,13 @@
+<level xmlns:ns0="http://www.w3.org/2001/XInclude">
+  <type>toc</type>
+  <prefix>Article</prefix>
+  <num>420</num>
+  <heading>REQUIREMENT OF SAFETY REGISTRATION NUMBER</heading>
+  <ns0:include href="s28-420.1/28-420.1.xml" />
+  <ns0:include href="s28-420.2/28-420.2.xml" />
+  <ns0:include href="s28-420.3/28-420.3.xml" />
+  <ns0:include href="s28-420.4/28-420.4.xml" />
+  <ns0:include href="s28-420.5/28-420.5.xml" />
+  <ns0:include href="s28-420.6/28-420.6.xml" />
+  <ns0:include href="s28-420.7/28-420.7.xml" />
+</level>

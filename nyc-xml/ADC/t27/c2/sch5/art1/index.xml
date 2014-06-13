@@ -1,0 +1,11 @@
+<level xmlns:ns0="http://www.w3.org/2001/XInclude">
+  <type>toc</type>
+  <prefix>Article</prefix>
+  <num>1</num>
+  <heading>ENFORCEMENT ACTIONS AND PROCEEDINGS IN GENERAL</heading>
+  <ns0:include href="s27-2110/27-2110.xml" />
+  <ns0:include href="s27-2111/27-2111.xml" />
+  <ns0:include href="s27-2112/27-2112.xml" />
+  <ns0:include href="s27-2113/27-2113.xml" />
+  <ns0:include href="s27-2114/27-2114.xml" />
+</level>

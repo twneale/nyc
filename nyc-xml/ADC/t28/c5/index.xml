@@ -1,0 +1,10 @@
+<level xmlns:ns0="http://www.w3.org/2001/XInclude">
+  <type>toc</type>
+  <prefix>Chapter</prefix>
+  <num>5</num>
+  <heading>MISCELLANEOUS PROVISIONS</heading>
+  <ns0:include href="art501/index.xml" />
+  <ns0:include href="art502/index.xml" />
+  <ns0:include href="art503/index.xml" />
+  <ns0:include href="art504/index.xml" />
+</level>

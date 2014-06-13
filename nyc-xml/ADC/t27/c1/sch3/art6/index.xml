@@ -1,0 +1,10 @@
+<level xmlns:ns0="http://www.w3.org/2001/XInclude">
+  <type>toc</type>
+  <prefix>Article</prefix>
+  <num>6</num>
+  <heading>OCCUPANCY GROUP D-INDUSTRIAL</heading>
+  <ns0:include href="s27-249/27-249.xml" />
+  <ns0:include href="s27-250/27-250.xml" />
+  <ns0:include href="s27-251/27-251.xml" />
+  <ns0:include href="s27-252/27-252.xml" />
+</level>

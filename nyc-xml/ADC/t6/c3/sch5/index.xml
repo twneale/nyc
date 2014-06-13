@@ -1,0 +1,11 @@
+<level xmlns:ns0="http://www.w3.org/2001/XInclude">
+  <type>toc</type>
+  <prefix>Subchapter</prefix>
+  <num>5</num>
+  <heading>HAZARDOUS SUBSTANCES</heading>
+  <ns0:include href="s6-311/6-311.xml" />
+  <ns0:include href="s6-312/6-312.xml" />
+  <ns0:include href="s6-313/6-313.xml" />
+  <ns0:include href="s6-314/6-314.xml" />
+  <ns0:include href="s6-315/6-315.xml" />
+</level>

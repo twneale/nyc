@@ -1,0 +1,35 @@
+<level xmlns:ns0="http://www.w3.org/2001/XInclude">
+  <type>toc</type>
+  <prefix>Subchapter</prefix>
+  <num>2</num>
+  <heading>PARKING AND OTHER USES OF STREETS</heading>
+  <ns0:include href="s19-162/19-162.xml" />
+  <ns0:include href="s19-162.1/19-162.1.xml" />
+  <ns0:include href="s19-162.2/19-162.2.xml" />
+  <ns0:include href="s19-163/19-163.xml" />
+  <ns0:include href="s19-163.1/19-163.1.xml" />
+  <ns0:include href="s19-163.2/19-163.2.xml" />
+  <ns0:include href="s19-164/19-164.xml" />
+  <ns0:include href="s19-165/19-165.xml" />
+  <ns0:include href="s19-166/19-166.xml" />
+  <ns0:include href="s19-167/19-167.xml" />
+  <ns0:include href="s19-167.1/19-167.1.xml" />
+  <ns0:include href="s19-167.2/19-167.2.xml" />
+  <ns0:include href="s19-167.3/19-167.3.xml" />
+  <ns0:include href="s19-168/19-168.xml" />
+  <ns0:include href="s19-169/19-169.xml" />
+  <ns0:include href="s19-169.1/19-169.1.xml" />
+  <ns0:include href="s19-169.2/19-169.2.xml" />
+  <ns0:include href="s19-170/19-170.xml" />
+  <ns0:include href="s19-171/19-171.xml" />
+  <ns0:include href="s19-171.1/19-171.1.xml" />
+  <ns0:include href="s19-171.2/19-171.2.xml" />
+  <ns0:include href="s19-172/19-172.xml" />
+  <ns0:include href="s19-173/19-173.xml" />
+  <ns0:include href="s19-174/19-174.xml" />
+  <ns0:include href="s19-175/19-175.xml" />
+  <ns0:include href="s19-175.1/19-175.1.xml" />
+  <ns0:include href="s19-175.2/19-175.2.xml" />
+  <ns0:include href="s19-175.3/19-175.3.xml" />
+  <ns0:include href="s19-175.4/19-175.4.xml" />
+</level>

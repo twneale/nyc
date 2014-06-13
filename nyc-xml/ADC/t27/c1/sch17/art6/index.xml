@@ -1,0 +1,10 @@
+<level xmlns:ns0="http://www.w3.org/2001/XInclude">
+  <type>toc</type>
+  <prefix>Article</prefix>
+  <num>6</num>
+  <heading>SMOKE DETECTING DEVICES</heading>
+  <ns0:include href="s27-978/27-978.xml" />
+  <ns0:include href="s27-979/27-979.xml" />
+  <ns0:include href="s27-980/27-980.xml" />
+  <ns0:include href="s27-981/27-981.xml" />
+</level>

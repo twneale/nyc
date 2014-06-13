@@ -1,0 +1,12 @@
+<level xmlns:ns0="http://www.w3.org/2001/XInclude">
+  <type>toc</type>
+  <prefix>Article</prefix>
+  <num>2</num>
+  <heading>SOIL INVESTIGATIONS</heading>
+  <ns0:include href="s27-662/27-662.xml" />
+  <ns0:include href="s27-663/27-663.xml" />
+  <ns0:include href="s27-664/27-664.xml" />
+  <ns0:include href="s27-665/27-665.xml" />
+  <ns0:include href="s27-666/27-666.xml" />
+  <ns0:include href="s27-667/27-667.xml" />
+</level>

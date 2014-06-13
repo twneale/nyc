@@ -1,0 +1,8 @@
+<level xmlns:ns0="http://www.w3.org/2001/XInclude">
+  <type>toc</type>
+  <prefix>Subchapter</prefix>
+  <num>11</num>
+  <heading>GAUGES UTILIZING MERCURY</heading>
+  <ns0:include href="s20-696/20-696.xml" />
+  <ns0:include href="s20-697/20-697.xml" />
+</level>

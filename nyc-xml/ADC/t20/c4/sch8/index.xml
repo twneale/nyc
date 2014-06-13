@@ -1,0 +1,11 @@
+<level xmlns:ns0="http://www.w3.org/2001/XInclude">
+  <type>toc</type>
+  <prefix>Subchapter</prefix>
+  <num>8</num>
+  <heading>PERISHABLE FOODS</heading>
+  <ns0:include href="s20-684/20-684.xml" />
+  <ns0:include href="s20-685/20-685.xml" />
+  <ns0:include href="s20-686/20-686.xml" />
+  <ns0:include href="s20-687/20-687.xml" />
+  <ns0:include href="s20-688/20-688.xml" />
+</level>

@@ -1,0 +1,9 @@
+<level xmlns:ns0="http://www.w3.org/2001/XInclude">
+  <type>toc</type>
+  <prefix>Article</prefix>
+  <num>4</num>
+  <heading>MASONRY</heading>
+  <ns0:include href="s27-600/27-600.xml" />
+  <ns0:include href="s27-601/27-601.xml" />
+  <ns0:include href="s27-602/27-602.xml" />
+</level>

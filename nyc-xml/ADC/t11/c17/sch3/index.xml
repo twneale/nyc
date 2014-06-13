@@ -1,0 +1,16 @@
+<level xmlns:ns0="http://www.w3.org/2001/XInclude">
+  <type>toc</type>
+  <prefix>Subchapter</prefix>
+  <num>3</num>
+  <heading>RETURNS AND PAYMENT OF TAX</heading>
+  <ns0:include href="s11-1751/11-1751.xml" />
+  <ns0:include href="s11-1752/11-1752.xml" />
+  <ns0:include href="s11-1753/11-1753.xml" />
+  <ns0:include href="s11-1754/11-1754.xml" />
+  <ns0:include href="s11-1755/11-1755.xml" />
+  <ns0:include href="s11-1757/11-1757.xml" />
+  <ns0:include href="s11-1758/11-1758.xml" />
+  <ns0:include href="s11-1759/11-1759.xml" />
+  <ns0:include href="s11-1761/11-1761.xml" />
+  <ns0:include href="s11-1762/11-1762.xml" />
+</level>

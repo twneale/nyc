@@ -1,0 +1,12 @@
+<level xmlns:ns0="http://www.w3.org/2001/XInclude">
+  <type>toc</type>
+  <prefix>Chapter</prefix>
+  <num>7</num>
+  <heading>UNAUTHORIZED RECORDING IN A PLACE OF PUBLIC PERFORMANCE</heading>
+  <ns0:include href="s10-701/10-701.xml" />
+  <ns0:include href="s10-702/10-702.xml" />
+  <ns0:include href="s10-703/10-703.xml" />
+  <ns0:include href="s10-704/10-704.xml" />
+  <ns0:include href="s10-705/10-705.xml" />
+  <ns0:include href="s10-706/10-706.xml" />
+</level>

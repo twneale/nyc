@@ -1,0 +1,12 @@
+<level xmlns:ns0="http://www.w3.org/2001/XInclude">
+  <type>toc</type>
+  <prefix>Article</prefix>
+  <num>1</num>
+  <heading>LIGHTING AND VENTILATION</heading>
+  <ns0:include href="s27-2057/27-2057.xml" />
+  <ns0:include href="s27-2058/27-2058.xml" />
+  <ns0:include href="s27-2059/27-2059.xml" />
+  <ns0:include href="s27-2060/27-2060.xml" />
+  <ns0:include href="s27-2061/27-2061.xml" />
+  <ns0:include href="s27-2062/27-2062.xml" />
+</level>

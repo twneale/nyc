@@ -1,0 +1,18 @@
+<level xmlns:ns0="http://www.w3.org/2001/XInclude">
+  <type>toc</type>
+  <prefix>Subchapter</prefix>
+  <num>7</num>
+  <heading>CERTIFICATES AND TUNNELING PERMITS</heading>
+  <ns0:include href="s24-245/24-245.xml" />
+  <ns0:include href="s24-246/24-246.xml" />
+  <ns0:include href="s24-247/24-247.xml" />
+  <ns0:include href="s24-248/24-248.xml" />
+  <ns0:include href="s24-249/24-249.xml" />
+  <ns0:include href="s24-250/24-250.xml" />
+  <ns0:include href="s24-251/24-251.xml" />
+  <ns0:include href="s24-252/24-252.xml" />
+  <ns0:include href="s24-253/24-253.xml" />
+  <ns0:include href="s24-254/24-254.xml" />
+  <ns0:include href="s24-255/24-255.xml" />
+  <ns0:include href="s24-256/24-256.xml" />
+</level>

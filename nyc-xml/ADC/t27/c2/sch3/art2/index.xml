@@ -1,0 +1,13 @@
+<level xmlns:ns0="http://www.w3.org/2001/XInclude">
+  <type>toc</type>
+  <prefix>Article</prefix>
+  <num>2</num>
+  <heading>SANITARY FACILITIES</heading>
+  <ns0:include href="s27-2063/27-2063.xml" />
+  <ns0:include href="s27-2064/27-2064.xml" />
+  <ns0:include href="s27-2065/27-2065.xml" />
+  <ns0:include href="s27-2066/27-2066.xml" />
+  <ns0:include href="s27-2067/27-2067.xml" />
+  <ns0:include href="s27-2068/27-2068.xml" />
+  <ns0:include href="s27-2069/27-2069.xml" />
+</level>

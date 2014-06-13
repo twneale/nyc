@@ -1,0 +1,11 @@
+<level xmlns:ns0="http://www.w3.org/2001/XInclude">
+  <type>toc</type>
+  <prefix>Article</prefix>
+  <num>4</num>
+  <heading>USES AND OCCUPANCIES INVOLVING RADIOACTIVE MATERIALS AND RADIATION-PRODUCING EQUIPMENT</heading>
+  <ns0:include href="s27-413/27-413.xml" />
+  <ns0:include href="s27-414/27-414.xml" />
+  <ns0:include href="s27-415/27-415.xml" />
+  <ns0:include href="s27-416/27-416.xml" />
+  <ns0:include href="s27-417/27-417.xml" />
+</level>

@@ -1,0 +1,26 @@
+<level xmlns:ns0="http://www.w3.org/2001/XInclude">
+  <type>toc</type>
+  <prefix>Chapter</prefix>
+  <num>7</num>
+  <heading>EMPIRE ZONES</heading>
+  <ns0:include href="s22-701/22-701.xml" />
+  <ns0:include href="s22-702/22-702.xml" />
+  <ns0:include href="s22-703/22-703.xml" />
+  <ns0:include href="s22-704/22-704.xml" />
+  <ns0:include href="s22-705/22-705.xml" />
+  <ns0:include href="s22-706/22-706.xml" />
+  <ns0:include href="s22-707/22-707.xml" />
+  <ns0:include href="s22-708/22-708.xml" />
+  <ns0:include href="s22-709/22-709.xml" />
+  <ns0:include href="s22-710/22-710.xml" />
+  <ns0:include href="s22-711/22-711.xml" />
+  <ns0:include href="s22-712/22-712.xml" />
+  <ns0:include href="s22-713/22-713.xml" />
+  <ns0:include href="s22-714/22-714.xml" />
+  <ns0:include href="s22-715/22-715.xml" />
+  <ns0:include href="s22-716/22-716.xml" />
+  <ns0:include href="s22-717/22-717.xml" />
+  <ns0:include href="s22-718/22-718.xml" />
+  <ns0:include href="s22-719/22-719.xml" />
+  <ns0:include href="s22-720/22-720.xml" />
+</level>

@@ -1,0 +1,19 @@
+<level xmlns:ns0="http://www.w3.org/2001/XInclude">
+  <type>toc</type>
+  <prefix>Subchapter</prefix>
+  <num>6</num>
+  <heading>DANGEROUS DOG REGULATION AND PROTECTION LAW</heading>
+  <ns0:include href="s17-342/17-342.xml" />
+  <ns0:include href="s17-343/17-343.xml" />
+  <ns0:include href="s17-344/17-344.xml" />
+  <ns0:include href="s17-345/17-345.xml" />
+  <ns0:include href="s17-346/17-346.xml" />
+  <ns0:include href="s17-347/17-347.xml" />
+  <ns0:include href="s17-348/17-348.xml" />
+  <ns0:include href="s17-349/17-349.xml" />
+  <ns0:include href="s17-350/17-350.xml" />
+  <ns0:include href="s17-351/17-351.xml" />
+  <ns0:include href="s17-352/17-352.xml" />
+  <ns0:include href="s17-353/17-353.xml" />
+  <ns0:include href="s17-354/17-354.xml" />
+</level>

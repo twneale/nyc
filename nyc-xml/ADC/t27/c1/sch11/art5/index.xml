@@ -1,0 +1,8 @@
+<level xmlns:ns0="http://www.w3.org/2001/XInclude">
+  <type>toc</type>
+  <prefix>Article</prefix>
+  <num>5</num>
+  <heading>SOIL LOAD BEARING TESTS</heading>
+  <ns0:include href="s27-681/27-681.xml" />
+  <ns0:include href="s27-682/27-682.xml" />
+</level>

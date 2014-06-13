@@ -1,0 +1,30 @@
+<level xmlns:ns0="http://www.w3.org/2001/XInclude">
+  <type>toc</type>
+  <prefix>Chapter</prefix>
+  <num>3</num>
+  <heading>WEIGHTS AND MEASURES</heading>
+  <ns0:include href="s20-571/20-571.xml" />
+  <ns0:include href="s20-572/20-572.xml" />
+  <ns0:include href="s20-573/20-573.xml" />
+  <ns0:include href="s20-574/20-574.xml" />
+  <ns0:include href="s20-575/20-575.xml" />
+  <ns0:include href="s20-576/20-576.xml" />
+  <ns0:include href="s20-577/20-577.xml" />
+  <ns0:include href="s20-578/20-578.xml" />
+  <ns0:include href="s20-579/20-579.xml" />
+  <ns0:include href="s20-580/20-580.xml" />
+  <ns0:include href="s20-581/20-581.xml" />
+  <ns0:include href="s20-582/20-582.xml" />
+  <ns0:include href="s20-583/20-583.xml" />
+  <ns0:include href="s20-584/20-584.xml" />
+  <ns0:include href="s20-585/20-585.xml" />
+  <ns0:include href="s20-586/20-586.xml" />
+  <ns0:include href="s20-587/20-587.xml" />
+  <ns0:include href="s20-588/20-588.xml" />
+  <ns0:include href="s20-589/20-589.xml" />
+  <ns0:include href="s20-590/20-590.xml" />
+  <ns0:include href="s20-591/20-591.xml" />
+  <ns0:include href="s20-592/20-592.xml" />
+  <ns0:include href="s20-593/20-593.xml" />
+  <ns0:include href="s20-594/20-594.xml" />
+</level>

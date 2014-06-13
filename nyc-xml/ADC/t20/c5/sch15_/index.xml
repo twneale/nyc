@@ -1,0 +1,13 @@
+<level xmlns:ns0="http://www.w3.org/2001/XInclude">
+  <type>toc</type>
+  <prefix>Subchapter</prefix>
+  <num>15*</num>
+  <heading>DISCLOSURE OF INFORMATION BY CHILD CARE FACILITIES</heading>
+  <ns0:include href="/ny/ADC/t20/c5/sch15_/s20-800/20-800.xml" />
+  <ns0:include href="/ny/ADC/t20/c5/sch15_/s20-801/20-801.xml" />
+  <ns0:include href="/ny/ADC/t20/c5/sch15_/s20-802/20-802.xml" />
+  <ns0:include href="/ny/ADC/t20/c5/sch15_/s20-803/20-803.xml" />
+  <ns0:include href="/ny/ADC/t20/c5/sch15_/s20-804/20-804.xml" />
+  <ns0:include href="/ny/ADC/t20/c5/sch15_/s20-805/20-805.xml" />
+  <ns0:include href="/ny/ADC/t20/c5/sch15_/s20-806/20-806.xml" />
+</level>

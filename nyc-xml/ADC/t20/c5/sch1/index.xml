@@ -1,0 +1,13 @@
+<level xmlns:ns0="http://www.w3.org/2001/XInclude">
+  <type>toc</type>
+  <prefix>Subchapter</prefix>
+  <num>1</num>
+  <heading>CONSUMER PROTECTION LAW</heading>
+  <ns0:include href="s20-700/20-700.xml" />
+  <ns0:include href="s20-701/20-701.xml" />
+  <ns0:include href="s20-702/20-702.xml" />
+  <ns0:include href="s20-703/20-703.xml" />
+  <ns0:include href="s20-704/20-704.xml" />
+  <ns0:include href="s20-705/20-705.xml" />
+  <ns0:include href="s20-706/20-706.xml" />
+</level>

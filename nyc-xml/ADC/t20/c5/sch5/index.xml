@@ -1,0 +1,13 @@
+<level xmlns:ns0="http://www.w3.org/2001/XInclude">
+  <type>toc</type>
+  <prefix>Subchapter</prefix>
+  <num>5</num>
+  <heading>REPRESENTATIONS IN ADVERTISING</heading>
+  <ns0:include href="s20-723/20-723.xml" />
+  <ns0:include href="s20-723.1/20-723.1.xml" />
+  <ns0:include href="s20-723.2/20-723.2.xml" />
+  <ns0:include href="s20-723.3/20-723.3.xml" />
+  <ns0:include href="s20-724/20-724.xml" />
+  <ns0:include href="s20-725/20-725.xml" />
+  <ns0:include href="s20-726/20-726.xml" />
+</level>

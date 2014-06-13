@@ -1,0 +1,28 @@
+<level xmlns:ns0="http://www.w3.org/2001/XInclude">
+  <type>toc</type>
+  <prefix>Subchapter</prefix>
+  <num>7</num>
+  <heading>EQUIPMENT AND APPARATUS: USE AND MAINTENANCE</heading>
+  <ns0:include href="s24-155/24-155.xml" />
+  <ns0:include href="s24-156/24-156.xml" />
+  <ns0:include href="s24-158/24-158.xml" />
+  <ns0:include href="s24-159/24-159.xml" />
+  <ns0:include href="s24-160/24-160.xml" />
+  <ns0:include href="s24-161/24-161.xml" />
+  <ns0:include href="s24-162/24-162.xml" />
+  <ns0:include href="s24-163/24-163.xml" />
+  <ns0:include href="s24-163.1/24-163.1.xml" />
+  <ns0:include href="s24-163.2/24-163.2.xml" />
+  <ns0:include href="s24-163.3/24-163.3.xml" />
+  <ns0:include href="s24-163.4/24-163.4.xml" />
+  <ns0:include href="s24-163.5/24-163.5.xml" />
+  <ns0:include href="s24-163.6/24-163.6.xml" />
+  <ns0:include href="s24-163.7/24-163.7.xml" />
+  <ns0:include href="s24-163.8/24-163.8.xml" />
+  <ns0:include href="s24-163.9/24-163.9.xml" />
+  <ns0:include href="s24-163.10/24-163.10.xml" />
+  <ns0:include href="s24-164/24-164.xml" />
+  <ns0:include href="s24-165/24-165.xml" />
+  <ns0:include href="s24-166/24-166.xml" />
+  <ns0:include href="s24-167/24-167.xml" />
+</level>

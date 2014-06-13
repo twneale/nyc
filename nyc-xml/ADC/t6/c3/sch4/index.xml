@@ -1,0 +1,9 @@
+<level xmlns:ns0="http://www.w3.org/2001/XInclude">
+  <type>toc</type>
+  <prefix>Subchapter</prefix>
+  <num>4</num>
+  <heading>RECYCLED MATERIALS</heading>
+  <ns0:include href="s6-308/6-308.xml" />
+  <ns0:include href="s6-309/6-309.xml" />
+  <ns0:include href="s6-310/6-310.xml" />
+</level>

@@ -1,0 +1,8 @@
+<level xmlns:ns0="http://www.w3.org/2001/XInclude">
+  <type>toc</type>
+  <prefix>Article</prefix>
+  <num>8</num>
+  <heading>EQUIPMENT CLEARANCES</heading>
+  <ns0:include href="s27-805/27-805.xml" />
+  <ns0:include href="s27-806/27-806.xml" />
+</level>

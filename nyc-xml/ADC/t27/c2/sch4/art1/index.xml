@@ -1,0 +1,13 @@
+<level xmlns:ns0="http://www.w3.org/2001/XInclude">
+  <type>toc</type>
+  <prefix>Article</prefix>
+  <num>1</num>
+  <heading>POWERS AND FUNCTIONS OF THE DEPARTMENT</heading>
+  <ns0:include href="s27-2090/27-2090.xml" />
+  <ns0:include href="s27-2091/27-2091.xml" />
+  <ns0:include href="s27-2092/27-2092.xml" />
+  <ns0:include href="s27-2093/27-2093.xml" />
+  <ns0:include href="s27-2094/27-2094.xml" />
+  <ns0:include href="s27-2095/27-2095.xml" />
+  <ns0:include href="s27-2096/27-2096.xml" />
+</level>

@@ -1,0 +1,15 @@
+<level xmlns:ns0="http://www.w3.org/2001/XInclude">
+  <type>toc</type>
+  <prefix>Title</prefix>
+  <num>26</num>
+  <heading>HOUSING AND BUILDINGS</heading>
+  <ns0:include href="c2/index.xml" />
+  <ns0:include href="c3/index.xml" />
+  <ns0:include href="c4/index.xml" />
+  <ns0:include href="c5/index.xml" />
+  <ns0:include href="c6/index.xml" />
+  <ns0:include href="c7/index.xml" />
+  <ns0:include href="c8/index.xml" />
+  <ns0:include href="c9/index.xml" />
+  <ns0:include href="c10/index.xml" />
+</level>

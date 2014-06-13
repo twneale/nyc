@@ -1,0 +1,14 @@
+<level xmlns:ns0="http://www.w3.org/2001/XInclude">
+  <type>toc</type>
+  <prefix>Chapter</prefix>
+  <num>8</num>
+  <heading>COOPERATIVE AND CONDOMINIUM CONVERSIONS</heading>
+  <ns0:include href="s26-701/26-701.xml" />
+  <ns0:include href="s26-702/26-702.xml" />
+  <ns0:include href="s26-703/26-703.xml" />
+  <ns0:include href="s26-704/26-704.xml" />
+  <ns0:include href="s26-705/26-705.xml" />
+  <ns0:include href="s26-706/26-706.xml" />
+  <ns0:include href="s26-707/26-707.xml" />
+  <ns0:include href="s26-708/26-708.xml" />
+</level>

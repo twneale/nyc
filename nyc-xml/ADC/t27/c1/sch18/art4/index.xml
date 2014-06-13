@@ -1,0 +1,10 @@
+<level xmlns:ns0="http://www.w3.org/2001/XInclude">
+  <type>toc</type>
+  <prefix>Article</prefix>
+  <num>4</num>
+  <heading>EQUIPMENT PERMITS</heading>
+  <ns0:include href="s27-1001/27-1001.xml" />
+  <ns0:include href="s27-1002/27-1002.xml" />
+  <ns0:include href="s27-1003/27-1003.xml" />
+  <ns0:include href="s27-1004/27-1004.xml" />
+</level>

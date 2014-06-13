@@ -1,0 +1,31 @@
+<level xmlns:ns0="http://www.w3.org/2001/XInclude">
+  <type>toc</type>
+  <prefix>Subchapter</prefix>
+  <num>1</num>
+  <heading>GENERAL PROVISIONS AND DEFINITIONS</heading>
+  <ns0:include href="s27-3001/27-3001.xml" />
+  <ns0:include href="s27-3002/27-3002.xml" />
+  <ns0:include href="s27-3003/27-3003.xml" />
+  <ns0:include href="s27-3003.1/27-3003.1.xml" />
+  <ns0:include href="s27-3004/27-3004.xml" />
+  <ns0:include href="s27-3005/27-3005.xml" />
+  <ns0:include href="s27-3006/27-3006.xml" />
+  <ns0:include href="s27-3007/27-3007.xml" />
+  <ns0:include href="s27-3008/27-3008.xml" />
+  <ns0:include href="s27-3009/27-3009.xml" />
+  <ns0:include href="s27-3010/27-3010.xml" />
+  <ns0:include href="s27-3013/27-3013.xml" />
+  <ns0:include href="s27-3013.1/27-3013.1.xml" />
+  <ns0:include href="s27-3014/27-3014.xml" />
+  <ns0:include href="s27-3015/27-3015.xml" />
+  <ns0:include href="s27-3016/27-3016.xml" />
+  <ns0:include href="s27-3016.1/27-3016.1.xml" />
+  <ns0:include href="s27-3017/27-3017.xml" />
+  <ns0:include href="s27-3017.1/27-3017.1.xml" />
+  <ns0:include href="s27-3018/27-3018.xml" />
+  <ns0:include href="s27-3019/27-3019.xml" />
+  <ns0:include href="s27-3020/27-3020.xml" />
+  <ns0:include href="s27-3021/27-3021.xml" />
+  <ns0:include href="s27-3021.1/27-3021.1.xml" />
+  <ns0:include href="s27-3021.2/27-3021.2.xml" />
+</level>

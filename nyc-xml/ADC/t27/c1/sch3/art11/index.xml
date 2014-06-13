@@ -1,0 +1,10 @@
+<level xmlns:ns0="http://www.w3.org/2001/XInclude">
+  <type>toc</type>
+  <prefix>Article</prefix>
+  <num>11</num>
+  <heading>OCCUPANCY GROUP J-RESIDENTIAL</heading>
+  <ns0:include href="s27-263/27-263.xml" />
+  <ns0:include href="s27-264/27-264.xml" />
+  <ns0:include href="s27-265/27-265.xml" />
+  <ns0:include href="s27-266/27-266.xml" />
+</level>

@@ -1,0 +1,15 @@
+<level xmlns:ns0="http://www.w3.org/2001/XInclude">
+  <type>toc</type>
+  <prefix>Part</prefix>
+  <num>3</num>
+  <heading>TAX EXEMPTION FOR CERTAIN INDUSTRIAL AND COMMERCIAL PROPERTIES</heading>
+  <ns0:include href="s11-247/11-247.xml" />
+  <ns0:include href="s11-248/11-248.xml" />
+  <ns0:include href="s11-249/11-249.xml" />
+  <ns0:include href="s11-250/11-250.xml" />
+  <ns0:include href="s11-251/11-251.xml" />
+  <ns0:include href="s11-252/11-252.xml" />
+  <ns0:include href="s11-253/11-253.xml" />
+  <ns0:include href="s11-254/11-254.xml" />
+  <ns0:include href="s11-255/11-255.xml" />
+</level>

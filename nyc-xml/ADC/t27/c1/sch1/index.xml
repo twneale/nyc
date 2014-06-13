@@ -1,0 +1,12 @@
+<level xmlns:ns0="http://www.w3.org/2001/XInclude">
+  <type>toc</type>
+  <prefix>Subchapter</prefix>
+  <num>1</num>
+  <heading>ADMINISTRATION AND ENFORCEMENT</heading>
+  <ns0:include href="art1/index.xml" />
+  <ns0:include href="art2/index.xml" />
+  <ns0:include href="art3/index.xml" />
+  <ns0:include href="art4/index.xml" />
+  <ns0:include href="art7/index.xml" />
+  <ns0:include href="art26/index.xml" />
+</level>

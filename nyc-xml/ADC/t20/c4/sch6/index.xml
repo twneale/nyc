@@ -1,0 +1,12 @@
+<level xmlns:ns0="http://www.w3.org/2001/XInclude">
+  <type>toc</type>
+  <prefix>Subchapter</prefix>
+  <num>6</num>
+  <heading>SALE OF MEATS</heading>
+  <ns0:include href="s20-676/20-676.xml" />
+  <ns0:include href="s20-677/20-677.xml" />
+  <ns0:include href="s20-678/20-678.xml" />
+  <ns0:include href="s20-679/20-679.xml" />
+  <ns0:include href="s20-680/20-680.xml" />
+  <ns0:include href="s20-681/20-681.xml" />
+</level>

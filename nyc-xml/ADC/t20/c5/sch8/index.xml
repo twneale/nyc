@@ -1,0 +1,14 @@
+<level xmlns:ns0="http://www.w3.org/2001/XInclude">
+  <type>toc</type>
+  <prefix>Subchapter</prefix>
+  <num>8</num>
+  <heading>INCOME TAX PREPARERS</heading>
+  <ns0:include href="s20-739/20-739.xml" />
+  <ns0:include href="s20-740/20-740.xml" />
+  <ns0:include href="s20-740.1/20-740.1.xml" />
+  <ns0:include href="s20-741/20-741.xml" />
+  <ns0:include href="s20-741.1/20-741.1.xml" />
+  <ns0:include href="s20-742/20-742.xml" />
+  <ns0:include href="s20-743/20-743.xml" />
+  <ns0:include href="s20-743.1/20-743.1.xml" />
+</level>

@@ -1,0 +1,25 @@
+<level xmlns:ns0="http://www.w3.org/2001/XInclude">
+  <type>toc</type>
+  <prefix>Subchapter</prefix>
+  <num>26</num>
+  <heading>GAMES OF CHANCE</heading>
+  <ns0:include href="s20-433/20-433.xml" />
+  <ns0:include href="s20-434/20-434.xml" />
+  <ns0:include href="s20-435/20-435.xml" />
+  <ns0:include href="s20-436/20-436.xml" />
+  <ns0:include href="s20-437/20-437.xml" />
+  <ns0:include href="s20-438/20-438.xml" />
+  <ns0:include href="s20-439/20-439.xml" />
+  <ns0:include href="s20-440/20-440.xml" />
+  <ns0:include href="s20-441/20-441.xml" />
+  <ns0:include href="s20-442/20-442.xml" />
+  <ns0:include href="s20-443/20-443.xml" />
+  <ns0:include href="s20-444/20-444.xml" />
+  <ns0:include href="s20-445/20-445.xml" />
+  <ns0:include href="s20-446/20-446.xml" />
+  <ns0:include href="s20-447/20-447.xml" />
+  <ns0:include href="s20-448/20-448.xml" />
+  <ns0:include href="s20-449/20-449.xml" />
+  <ns0:include href="s20-450/20-450.xml" />
+  <ns0:include href="s20-451/20-451.xml" />
+</level>

@@ -1,0 +1,15 @@
+<level xmlns:ns0="http://www.w3.org/2001/XInclude">
+  <type>toc</type>
+  <prefix>Article</prefix>
+  <num>11</num>
+  <heading>PROTECTIVE DEVICES AND FIRE PROTECTION</heading>
+  <ns0:include href="s27-2041/27-2041.xml" />
+  <ns0:include href="s27-2042/27-2042.xml" />
+  <ns0:include href="s27-2043/27-2043.xml" />
+  <ns0:include href="s27-2043.1/27-2043.1.xml" />
+  <ns0:include href="s27-2044/27-2044.xml" />
+  <ns0:include href="s27-2045/27-2045.xml" />
+  <ns0:include href="s27-2046/27-2046.xml" />
+  <ns0:include href="s27-2046.1/27-2046.1.xml" />
+  <ns0:include href="s27-2046.2/27-2046.2.xml" />
+</level>

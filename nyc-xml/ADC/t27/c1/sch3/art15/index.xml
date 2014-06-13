@@ -1,0 +1,12 @@
+<level xmlns:ns0="http://www.w3.org/2001/XInclude">
+  <type>toc</type>
+  <prefix>Article</prefix>
+  <num>15</num>
+  <heading>CONSTRUCTION GROUP I-NONCOMBUSTIBLE</heading>
+  <ns0:include href="s27-274/27-274.xml" />
+  <ns0:include href="s27-275/27-275.xml" />
+  <ns0:include href="s27-276/27-276.xml" />
+  <ns0:include href="s27-277/27-277.xml" />
+  <ns0:include href="s27-278/27-278.xml" />
+  <ns0:include href="s27-279/27-279.xml" />
+</level>

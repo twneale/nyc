@@ -1,0 +1,10 @@
+<level xmlns:ns0="http://www.w3.org/2001/XInclude">
+  <type>toc</type>
+  <prefix>Article</prefix>
+  <num>20</num>
+  <heading>OCCUPANCIES INVOLVING STORAGE OF NITRIC ACID</heading>
+  <ns0:include href="s27-518/27-518.xml" />
+  <ns0:include href="s27-519/27-519.xml" />
+  <ns0:include href="s27-520/27-520.xml" />
+  <ns0:include href="s27-521/27-521.xml" />
+</level>

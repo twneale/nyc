@@ -1,0 +1,9 @@
+<level xmlns:ns0="http://www.w3.org/2001/XInclude">
+  <type>toc</type>
+  <prefix>Article</prefix>
+  <num>2</num>
+  <heading>WATER SUPPLY SYSTEMS</heading>
+  <ns0:include href="s27-906/27-906.xml" />
+  <ns0:include href="s27-907/27-907.xml" />
+  <ns0:include href="s27-908/27-908.xml" />
+</level>

@@ -1,0 +1,14 @@
+<level xmlns:ns0="http://www.w3.org/2001/XInclude">
+  <type>toc</type>
+  <prefix>Chapter</prefix>
+  <num>2</num>
+  <heading>FRANCHISES</heading>
+  <ns0:include href="s6-201/6-201.xml" />
+  <ns0:include href="s6-202/6-202.xml" />
+  <ns0:include href="s6-203/6-203.xml" />
+  <ns0:include href="s6-204/6-204.xml" />
+  <ns0:include href="s6-205/6-205.xml" />
+  <ns0:include href="s6-206/6-206.xml" />
+  <ns0:include href="s6-207/6-207.xml" />
+  <ns0:include href="s6-208/6-208.xml" />
+</level>

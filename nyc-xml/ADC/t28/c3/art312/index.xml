@@ -1,0 +1,11 @@
+<level xmlns:ns0="http://www.w3.org/2001/XInclude">
+  <type>toc</type>
+  <prefix>Article</prefix>
+  <num>312</num>
+  <heading>CARBON MONOXIDE AND SMOKE ALARMS</heading>
+  <ns0:include href="s28-312.1/28-312.1.xml" />
+  <ns0:include href="s28-312.2/28-312.2.xml" />
+  <ns0:include href="s28-312.3/28-312.3.xml" />
+  <ns0:include href="s28-312.4/28-312.4.xml" />
+  <ns0:include href="s28-312.5/28-312.5.xml" />
+</level>

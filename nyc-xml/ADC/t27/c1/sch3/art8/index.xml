@@ -1,0 +1,11 @@
+<level xmlns:ns0="http://www.w3.org/2001/XInclude">
+  <type>toc</type>
+  <prefix>Article</prefix>
+  <num>8</num>
+  <heading>OCCUPANCY GROUP F-ASSEMBLY</heading>
+  <ns0:include href="s27-254/27-254.xml" />
+  <ns0:include href="s27-255/27-255.xml" />
+  <ns0:include href="s27-256/27-256.xml" />
+  <ns0:include href="s27-257/27-257.xml" />
+  <ns0:include href="s27-258/27-258.xml" />
+</level>

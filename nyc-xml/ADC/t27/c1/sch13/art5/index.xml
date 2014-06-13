@@ -1,0 +1,9 @@
+<level xmlns:ns0="http://www.w3.org/2001/XInclude">
+  <type>toc</type>
+  <prefix>Article</prefix>
+  <num>5</num>
+  <heading>CODE REQUIREMENTS OF OTHER CITY DEPARTMENTS</heading>
+  <ns0:include href="s27-784/27-784.xml" />
+  <ns0:include href="s27-785/27-785.xml" />
+  <ns0:include href="s27-786/27-786.xml" />
+</level>

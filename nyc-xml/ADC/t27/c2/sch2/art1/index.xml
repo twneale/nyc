@@ -1,0 +1,12 @@
+<level xmlns:ns0="http://www.w3.org/2001/XInclude">
+  <type>toc</type>
+  <prefix>Article</prefix>
+  <num>1</num>
+  <heading>OBLIGATIONS OF OWNER AND TENANT: DUTY TO REPAIR</heading>
+  <ns0:include href="s27-2005/27-2005.xml" />
+  <ns0:include href="s27-2006/27-2006.xml" />
+  <ns0:include href="s27-2007/27-2007.xml" />
+  <ns0:include href="s27-2008/27-2008.xml" />
+  <ns0:include href="s27-2009/27-2009.xml" />
+  <ns0:include href="s27-2009.1/27-2009.1.xml" />
+</level>

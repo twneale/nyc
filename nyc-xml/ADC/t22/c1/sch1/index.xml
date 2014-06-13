@@ -1,0 +1,36 @@
+<level xmlns:ns0="http://www.w3.org/2001/XInclude">
+  <type>toc</type>
+  <prefix>Subchapter</prefix>
+  <num>1</num>
+  <heading>WATERFRONT PROPERTY</heading>
+  <ns0:include href="s22-101/22-101.xml" />
+  <ns0:include href="s22-102/22-102.xml" />
+  <ns0:include href="s22-103/22-103.xml" />
+  <ns0:include href="s22-104/22-104.xml" />
+  <ns0:include href="s22-105/22-105.xml" />
+  <ns0:include href="s22-106/22-106.xml" />
+  <ns0:include href="s22-107/22-107.xml" />
+  <ns0:include href="s22-108/22-108.xml" />
+  <ns0:include href="s22-109/22-109.xml" />
+  <ns0:include href="s22-110/22-110.xml" />
+  <ns0:include href="s22-111/22-111.xml" />
+  <ns0:include href="s22-112/22-112.xml" />
+  <ns0:include href="s22-113/22-113.xml" />
+  <ns0:include href="s22-114/22-114.xml" />
+  <ns0:include href="s22-115/22-115.xml" />
+  <ns0:include href="s22-116/22-116.xml" />
+  <ns0:include href="s22-117/22-117.xml" />
+  <ns0:include href="s22-118/22-118.xml" />
+  <ns0:include href="s22-119/22-119.xml" />
+  <ns0:include href="s22-120/22-120.xml" />
+  <ns0:include href="s22-121/22-121.xml" />
+  <ns0:include href="s22-122/22-122.xml" />
+  <ns0:include href="s22-123/22-123.xml" />
+  <ns0:include href="s22-124/22-124.xml" />
+  <ns0:include href="s22-125/22-125.xml" />
+  <ns0:include href="s22-126/22-126.xml" />
+  <ns0:include href="s22-127/22-127.xml" />
+  <ns0:include href="s22-128/22-128.xml" />
+  <ns0:include href="s22-129/22-129.xml" />
+  <ns0:include href="s22-130/22-130.xml" />
+</level>

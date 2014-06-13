@@ -1,0 +1,14 @@
+<level xmlns:ns0="http://www.w3.org/2001/XInclude">
+  <type>toc</type>
+  <prefix>Chapter</prefix>
+  <num>4-D</num>
+  <heading>ACCEPTANCE OF RECYCLABLE CONTAINERS IN BULK USING MOTOR VEHICLES</heading>
+  <ns0:include href="s16-470/16-470.xml" />
+  <ns0:include href="s16-471/16-471.xml" />
+  <ns0:include href="s16-472/16-472.xml" />
+  <ns0:include href="s16-473/16-473.xml" />
+  <ns0:include href="s16-474/16-474.xml" />
+  <ns0:include href="s16-475/16-475.xml" />
+  <ns0:include href="s16-476/16-476.xml" />
+  <ns0:include href="s16-477/16-477.xml" />
+</level>

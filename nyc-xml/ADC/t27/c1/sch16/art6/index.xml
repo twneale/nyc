@@ -1,0 +1,9 @@
+<level xmlns:ns0="http://www.w3.org/2001/XInclude">
+  <type>toc</type>
+  <prefix>Article</prefix>
+  <num>6</num>
+  <heading>EXISTING BUILDINGS AND INSTALLATIONS</heading>
+  <ns0:include href="s27-916/27-916.xml" />
+  <ns0:include href="s27-917/27-917.xml" />
+  <ns0:include href="s27-918/27-918.xml" />
+</level>

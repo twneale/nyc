@@ -1,0 +1,18 @@
+<level xmlns:ns0="http://www.w3.org/2001/XInclude">
+  <type>toc</type>
+  <prefix>Chapter</prefix>
+  <num>2</num>
+  <heading>ACTIONS AGAINST NEW YORK CITY</heading>
+  <ns0:include href="s7-201/7-201.xml" />
+  <ns0:include href="s7-202/7-202.xml" />
+  <ns0:include href="s7-203/7-203.xml" />
+  <ns0:include href="s7-204/7-204.xml" />
+  <ns0:include href="s7-205/7-205.xml" />
+  <ns0:include href="s7-206/7-206.xml" />
+  <ns0:include href="s7-207/7-207.xml" />
+  <ns0:include href="s7-208/7-208.xml" />
+  <ns0:include href="s7-209/7-209.xml" />
+  <ns0:include href="s7-210/7-210.xml" />
+  <ns0:include href="s7-211/7-211.xml" />
+  <ns0:include href="s7-212/7-212.xml" />
+</level>

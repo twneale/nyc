@@ -1,0 +1,19 @@
+<level xmlns:ns0="http://www.w3.org/2001/XInclude">
+  <type>toc</type>
+  <prefix>Article</prefix>
+  <num>5</num>
+  <heading>GAS VENT SYSTEMS</heading>
+  <ns0:include href="s27-879/27-879.xml" />
+  <ns0:include href="s27-880/27-880.xml" />
+  <ns0:include href="s27-881/27-881.xml" />
+  <ns0:include href="s27-882/27-882.xml" />
+  <ns0:include href="s27-883/27-883.xml" />
+  <ns0:include href="s27-884/27-884.xml" />
+  <ns0:include href="s27-885/27-885.xml" />
+  <ns0:include href="s27-886/27-886.xml" />
+  <ns0:include href="s27-887/27-887.xml" />
+  <ns0:include href="s27-888/27-888.xml" />
+  <ns0:include href="s27-889/27-889.xml" />
+  <ns0:include href="s27-890/27-890.xml" />
+  <ns0:include href="s27-891/27-891.xml" />
+</level>

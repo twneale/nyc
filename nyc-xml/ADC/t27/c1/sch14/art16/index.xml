@@ -1,0 +1,8 @@
+<level xmlns:ns0="http://www.w3.org/2001/XInclude">
+  <type>toc</type>
+  <prefix>Article</prefix>
+  <num>16</num>
+  <heading>GAS FIRED EQUIPMENT</heading>
+  <ns0:include href="s27-826/27-826.xml" />
+  <ns0:include href="s27-826.01/27-826.01.xml" />
+</level>

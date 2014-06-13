@@ -1,0 +1,8 @@
+<level xmlns:ns0="http://www.w3.org/2001/XInclude">
+  <type>toc</type>
+  <prefix>Article</prefix>
+  <num>12</num>
+  <heading>STABILITY</heading>
+  <ns0:include href="s27-717/27-717.xml" />
+  <ns0:include href="s27-718/27-718.xml" />
+</level>

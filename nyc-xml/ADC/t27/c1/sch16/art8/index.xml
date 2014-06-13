@@ -1,0 +1,10 @@
+<level xmlns:ns0="http://www.w3.org/2001/XInclude">
+  <type>toc</type>
+  <prefix>Article</prefix>
+  <num>8</num>
+  <heading>MINIMUM WATER CLOSETS IN PLACES OF PUBLIC ASSEMBLY</heading>
+  <ns0:include href="s27-922.1/27-922.1.xml" />
+  <ns0:include href="s27-922.2/27-922.2.xml" />
+  <ns0:include href="s27-922.3/27-922.3.xml" />
+  <ns0:include href="s27-922.4/27-922.4.xml" />
+</level>

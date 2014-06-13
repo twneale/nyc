@@ -1,0 +1,12 @@
+<level xmlns:ns0="http://www.w3.org/2001/XInclude">
+  <type>toc</type>
+  <prefix>Chapter</prefix>
+  <num>6</num>
+  <heading>NO-FAULT INSURANCE MEDICAL CLINICS</heading>
+  <ns0:include href="s20-900/20-900.xml" />
+  <ns0:include href="s20-901/20-901.xml" />
+  <ns0:include href="s20-902/20-902.xml" />
+  <ns0:include href="s20-903/20-903.xml" />
+  <ns0:include href="s20-904/20-904.xml" />
+  <ns0:include href="s20-905/20-905.xml" />
+</level>

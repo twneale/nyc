@@ -1,0 +1,29 @@
+<level xmlns:ns0="http://www.w3.org/2001/XInclude">
+  <type>toc</type>
+  <prefix>Chapter</prefix>
+  <num>4</num>
+  <heading>RENT STABILIZATION</heading>
+  <ns0:include href="s26-501/26-501.xml" />
+  <ns0:include href="s26-502/26-502.xml" />
+  <ns0:include href="s26-503/26-503.xml" />
+  <ns0:include href="s26-504/26-504.xml" />
+  <ns0:include href="s26-504.1/26-504.1.xml" />
+  <ns0:include href="s26-504.2/26-504.2.xml" />
+  <ns0:include href="s26-504.3/26-504.3.xml" />
+  <ns0:include href="s26-505/26-505.xml" />
+  <ns0:include href="s26-506/26-506.xml" />
+  <ns0:include href="s26-507/26-507.xml" />
+  <ns0:include href="s26-509/26-509.xml" />
+  <ns0:include href="s26-510/26-510.xml" />
+  <ns0:include href="s26-511/26-511.xml" />
+  <ns0:include href="s26-512/26-512.xml" />
+  <ns0:include href="s26-513/26-513.xml" />
+  <ns0:include href="s26-514/26-514.xml" />
+  <ns0:include href="s26-515/26-515.xml" />
+  <ns0:include href="s26-516/26-516.xml" />
+  <ns0:include href="s26-517/26-517.xml" />
+  <ns0:include href="s26-517.1/26-517.1.xml" />
+  <ns0:include href="s26-518/26-518.xml" />
+  <ns0:include href="s26-519/26-519.xml" />
+  <ns0:include href="s26-520/26-520.xml" />
+</level>

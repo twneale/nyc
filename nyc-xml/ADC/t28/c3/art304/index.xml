@@ -1,0 +1,21 @@
+<level xmlns:ns0="http://www.w3.org/2001/XInclude">
+  <type>toc</type>
+  <prefix>Article</prefix>
+  <num>304</num>
+  <heading>PERIODIC INSPECTION OF ELEVATORS</heading>
+  <ns0:include href="s28-304.1/28-304.1.xml" />
+  <ns0:include href="s28-304.2/28-304.2.xml" />
+  <ns0:include href="s28-304.3/28-304.3.xml" />
+  <ns0:include href="s28-304.4/28-304.4.xml" />
+  <ns0:include href="s28-304.5/28-304.5.xml" />
+  <ns0:include href="s28-304.6/28-304.6.xml" />
+  <ns0:include href="s28-304.6.1/28-304.6.1.xml" />
+  <ns0:include href="s28-304.6.2/28-304.6.2.xml" />
+  <ns0:include href="s28-304.6.3/28-304.6.3.xml" />
+  <ns0:include href="s28-304.6.4/28-304.6.4.xml" />
+  <ns0:include href="s28-304.6.5/28-304.6.5.xml" />
+  <ns0:include href="s28-304.6.6/28-304.6.6.xml" />
+  <ns0:include href="s28-304.7/28-304.7.xml" />
+  <ns0:include href="s28-304.8/28-304.8.xml" />
+  <ns0:include href="s28-304.9/28-304.9.xml" />
+</level>

@@ -1,0 +1,7 @@
+<level xmlns:ns0="http://www.w3.org/2001/XInclude">
+  <type>toc</type>
+  <prefix>Subchapter</prefix>
+  <num>7</num>
+  <heading>Packaging Reduction.</heading>
+  <ns0:include href="s6-317/6-317.xml" />
+</level>

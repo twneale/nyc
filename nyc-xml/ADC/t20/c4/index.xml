@@ -1,0 +1,20 @@
+<level xmlns:ns0="http://www.w3.org/2001/XInclude">
+  <type>toc</type>
+  <prefix>Chapter</prefix>
+  <num>4</num>
+  <heading>REGULATION OF COMMODITIES AND SERVICES</heading>
+  <ns0:include href="sch1/index.xml" />
+  <ns0:include href="sch2/index.xml" />
+  <ns0:include href="sch3/index.xml" />
+  <ns0:include href="sch3_2/index.xml" />
+  <ns0:include href="sch4/index.xml" />
+  <ns0:include href="sch5/index.xml" />
+  <ns0:include href="sch6/index.xml" />
+  <ns0:include href="sch7/index.xml" />
+  <ns0:include href="sch8/index.xml" />
+  <ns0:include href="sch9/index.xml" />
+  <ns0:include href="sch9_/index.xml" />
+  <ns0:include href="sch10/index.xml" />
+  <ns0:include href="sch11/index.xml" />
+  <ns0:include href="sch12/index.xml" />
+</level>

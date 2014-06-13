@@ -1,0 +1,15 @@
+<level xmlns:ns0="http://www.w3.org/2001/XInclude">
+  <type>toc</type>
+  <prefix>Article</prefix>
+  <num>10</num>
+  <heading>PILE TYPES--SPECIFIC REQUIREMENTS</heading>
+  <ns0:include href="s27-706/27-706.xml" />
+  <ns0:include href="s27-707/27-707.xml" />
+  <ns0:include href="s27-708/27-708.xml" />
+  <ns0:include href="s27-709/27-709.xml" />
+  <ns0:include href="s27-710/27-710.xml" />
+  <ns0:include href="s27-711/27-711.xml" />
+  <ns0:include href="s27-712/27-712.xml" />
+  <ns0:include href="s27-713/27-713.xml" />
+  <ns0:include href="s27-714/27-714.xml" />
+</level>

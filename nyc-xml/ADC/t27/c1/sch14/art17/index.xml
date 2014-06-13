@@ -1,0 +1,12 @@
+<level xmlns:ns0="http://www.w3.org/2001/XInclude">
+  <type>toc</type>
+  <prefix>Article</prefix>
+  <num>17</num>
+  <heading>FUEL OIL EQUIPMENT</heading>
+  <ns0:include href="s27-827/27-827.xml" />
+  <ns0:include href="s27-828/27-828.xml" />
+  <ns0:include href="s27-829/27-829.xml" />
+  <ns0:include href="s27-830/27-830.xml" />
+  <ns0:include href="s27-831/27-831.xml" />
+  <ns0:include href="s27-832/27-832.xml" />
+</level>

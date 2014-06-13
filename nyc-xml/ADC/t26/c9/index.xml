@@ -1,0 +1,19 @@
+<level xmlns:ns0="http://www.w3.org/2001/XInclude">
+  <type>toc</type>
+  <prefix>Chapter</prefix>
+  <num>9</num>
+  <heading>Right of First Refusal and First Opportunity to Purchase</heading>
+  <ns0:include href="s26-801/26-801.xml" />
+  <ns0:include href="s26-802/26-802.xml" />
+  <ns0:include href="s26-803/26-803.xml" />
+  <ns0:include href="s26-804/26-804.xml" />
+  <ns0:include href="s26-805/26-805.xml" />
+  <ns0:include href="s26-806/26-806.xml" />
+  <ns0:include href="s26-807/26-807.xml" />
+  <ns0:include href="s26-808/26-808.xml" />
+  <ns0:include href="s26-809/26-809.xml" />
+  <ns0:include href="s26-810/26-810.xml" />
+  <ns0:include href="s26-811/26-811.xml" />
+  <ns0:include href="s26-812/26-812.xml" />
+  <ns0:include href="s26-813/26-813.xml" />
+</level>

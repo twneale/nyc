@@ -1,0 +1,13 @@
+<level xmlns:ns0="http://www.w3.org/2001/XInclude">
+  <type>toc</type>
+  <prefix>Article</prefix>
+  <num>9</num>
+  <heading>STAIR AND ELEVATOR SIGNS</heading>
+  <ns0:include href="s27-390/27-390.xml" />
+  <ns0:include href="s27-391/27-391.xml" />
+  <ns0:include href="s27-392/27-392.xml" />
+  <ns0:include href="s27-393/27-393.xml" />
+  <ns0:include href="s27-394/27-394.xml" />
+  <ns0:include href="s27-395/27-395.xml" />
+  <ns0:include href="s27-396/27-396.xml" />
+</level>

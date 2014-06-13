@@ -1,0 +1,14 @@
+<level xmlns:ns0="http://www.w3.org/2001/XInclude">
+  <type>toc</type>
+  <prefix>Article</prefix>
+  <num>405</num>
+  <heading>HOISTING MACHINE OPERATOR LICENSE</heading>
+  <ns0:include href="s28-405.1/28-405.1.xml" />
+  <ns0:include href="s28-405.2/28-405.2.xml" />
+  <ns0:include href="s28-405.3/28-405.3.xml" />
+  <ns0:include href="s28-405.3.1/28-405.3.1.xml" />
+  <ns0:include href="s28-405.3.2/28-405.3.2.xml" />
+  <ns0:include href="s28-405.3.3/28-405.3.3.xml" />
+  <ns0:include href="s28-405.4/28-405.4.xml" />
+  <ns0:include href="s28-405.5/28-405.5.xml" />
+</level>

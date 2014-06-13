@@ -1,0 +1,9 @@
+<level xmlns:ns0="http://www.w3.org/2001/XInclude">
+  <type>toc</type>
+  <prefix>Article</prefix>
+  <num>4</num>
+  <heading>NUMBER OF EXITS</heading>
+  <ns0:include href="s27-365/27-365.xml" />
+  <ns0:include href="s27-366/27-366.xml" />
+  <ns0:include href="s27-367/27-367.xml" />
+</level>

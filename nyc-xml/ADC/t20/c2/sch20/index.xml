@@ -1,0 +1,22 @@
+<level xmlns:ns0="http://www.w3.org/2001/XInclude">
+  <type>toc</type>
+  <prefix>Subchapter</prefix>
+  <num>20</num>
+  <heading>PUBLIC DANCE HALLS, CABARETS AND CATERING ESTABLISHMENTS</heading>
+  <ns0:include href="s20-359/20-359.xml" />
+  <ns0:include href="s20-360/20-360.xml" />
+  <ns0:include href="s20-360.1/20-360.1.xml" />
+  <ns0:include href="s20-360.2/20-360.2.xml" />
+  <ns0:include href="s20-361/20-361.xml" />
+  <ns0:include href="s20-362/20-362.xml" />
+  <ns0:include href="s20-363/20-363.xml" />
+  <ns0:include href="s20-364/20-364.xml" />
+  <ns0:include href="s20-365/20-365.xml" />
+  <ns0:include href="s20-366/20-366.xml" />
+  <ns0:include href="s20-367/20-367.xml" />
+  <ns0:include href="s20-368/20-368.xml" />
+  <ns0:include href="s20-369/20-369.xml" />
+  <ns0:include href="s20-370/20-370.xml" />
+  <ns0:include href="s20-370.1/20-370.1.xml" />
+  <ns0:include href="s20-370.2/20-370.2.xml" />
+</level>

@@ -1,0 +1,12 @@
+<level xmlns:ns0="http://www.w3.org/2001/XInclude">
+  <type>toc</type>
+  <prefix>Chapter</prefix>
+  <num>1</num>
+  <heading>POWERS AND RIGHTS OF THE CORPORATION; EMBLEMS AND INSIGNIA</heading>
+  <ns0:include href="s2-101/2-101.xml" />
+  <ns0:include href="s2-102/2-102.xml" />
+  <ns0:include href="s2-103/2-103.xml" />
+  <ns0:include href="s2-104/2-104.xml" />
+  <ns0:include href="s2-105/2-105.xml" />
+  <ns0:include href="s2-106/2-106.xml" />
+</level>

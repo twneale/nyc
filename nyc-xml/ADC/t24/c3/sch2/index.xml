@@ -1,0 +1,19 @@
+<level xmlns:ns0="http://www.w3.org/2001/XInclude">
+  <type>toc</type>
+  <prefix>Subchapter</prefix>
+  <num>2</num>
+  <heading>WATER SUPPLY SOURCES OUTSIDE THE CITY OF NEW YORK</heading>
+  <ns0:include href="s24-347/24-347.xml" />
+  <ns0:include href="s24-348/24-348.xml" />
+  <ns0:include href="s24-349/24-349.xml" />
+  <ns0:include href="s24-350/24-350.xml" />
+  <ns0:include href="s24-351/24-351.xml" />
+  <ns0:include href="s24-352/24-352.xml" />
+  <ns0:include href="s24-353/24-353.xml" />
+  <ns0:include href="s24-354/24-354.xml" />
+  <ns0:include href="s24-355/24-355.xml" />
+  <ns0:include href="s24-356/24-356.xml" />
+  <ns0:include href="s24-357/24-357.xml" />
+  <ns0:include href="s24-358/24-358.xml" />
+  <ns0:include href="s24-359/24-359.xml" />
+</level>

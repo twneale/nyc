@@ -1,0 +1,13 @@
+<level xmlns:ns0="http://www.w3.org/2001/XInclude">
+  <type>toc</type>
+  <prefix>Article</prefix>
+  <num>5</num>
+  <heading>BOILER AND FURNACE ROOMS</heading>
+  <ns0:include href="s27-418/27-418.xml" />
+  <ns0:include href="s27-419/27-419.xml" />
+  <ns0:include href="s27-420/27-420.xml" />
+  <ns0:include href="s27-421/27-421.xml" />
+  <ns0:include href="s27-422/27-422.xml" />
+  <ns0:include href="s27-423/27-423.xml" />
+  <ns0:include href="s27-424/27-424.xml" />
+</level>

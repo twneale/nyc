@@ -1,0 +1,18 @@
+<level xmlns:ns0="http://www.w3.org/2001/XInclude">
+  <type>toc</type>
+  <prefix>Subchapter</prefix>
+  <num>2</num>
+  <heading>GENERAL PROVISIONS</heading>
+  <ns0:include href="s24-105/24-105.xml" />
+  <ns0:include href="s24-106/24-106.xml" />
+  <ns0:include href="s24-107/24-107.xml" />
+  <ns0:include href="s24-108/24-108.xml" />
+  <ns0:include href="s24-109/24-109.xml" />
+  <ns0:include href="s24-110/24-110.xml" />
+  <ns0:include href="s24-111/24-111.xml" />
+  <ns0:include href="s24-112/24-112.xml" />
+  <ns0:include href="s24-113/24-113.xml" />
+  <ns0:include href="s24-114/24-114.xml" />
+  <ns0:include href="s24-115/24-115.xml" />
+  <ns0:include href="s24-116/24-116.xml" />
+</level>

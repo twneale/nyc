@@ -1,0 +1,27 @@
+<level xmlns:ns0="http://www.w3.org/2001/XInclude">
+  <type>toc</type>
+  <prefix>Article</prefix>
+  <num>2</num>
+  <heading>BASIC REQUIREMENTS</heading>
+  <ns0:include href="s27-525/27-525.xml" />
+  <ns0:include href="s27-525.1/27-525.1.xml" />
+  <ns0:include href="s27-526/27-526.xml" />
+  <ns0:include href="s27-527/27-527.xml" />
+  <ns0:include href="s27-528/27-528.xml" />
+  <ns0:include href="s27-529/27-529.xml" />
+  <ns0:include href="s27-530/27-530.xml" />
+  <ns0:include href="s27-531/27-531.xml" />
+  <ns0:include href="s27-532/27-532.xml" />
+  <ns0:include href="s27-533/27-533.xml" />
+  <ns0:include href="s27-534/27-534.xml" />
+  <ns0:include href="s27-535/27-535.xml" />
+  <ns0:include href="s27-536/27-536.xml" />
+  <ns0:include href="s27-537/27-537.xml" />
+  <ns0:include href="s27-538/27-538.xml" />
+  <ns0:include href="s27-539/27-539.xml" />
+  <ns0:include href="s27-540/27-540.xml" />
+  <ns0:include href="s27-541/27-541.xml" />
+  <ns0:include href="s27-542/27-542.xml" />
+  <ns0:include href="s27-543/27-543.xml" />
+  <ns0:include href="s27-544/27-544.xml" />
+</level>
